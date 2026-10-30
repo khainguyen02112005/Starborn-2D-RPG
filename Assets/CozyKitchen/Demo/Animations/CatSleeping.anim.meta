@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d63fafd2aa6e1774aa6cfef95a8c492f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/CatSleeping.anim
+  uploadId: 905652

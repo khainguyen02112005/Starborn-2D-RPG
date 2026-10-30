@@ -1,0 +1,7 @@
+Additional regressions 10/16/2026 11:24:34 AM
+PASS Legacy version-2 slot remains readable
+PASS Old interrupted ending resumes at elder reward, not a dead-end completed quest
+PASS Old slot restores its existing level/gold/inventory
+PASS Legacy migration does not overwrite the user's old save
+PASS Unlearned spell cannot spawn bolts or spend mana
+PASS Normal five-bolt fan hits and damages real enemy colliders

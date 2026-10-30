@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: 6434fc61d1aa4d44d81ba14545cc7e42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8452299576709718939
+    second: Skeleton_SPUM_Cinematic_48_0
+  - first:
+      213: 3034465055259725108
+    second: Skeleton_SPUM_Cinematic_48_1
+  - first:
+      213: 5270557838902713708
+    second: Skeleton_SPUM_Cinematic_48_2
+  - first:
+      213: 1076469699839917116
+    second: Skeleton_SPUM_Cinematic_48_3
+  - first:
+      213: -695267891898493722
+    second: Skeleton_SPUM_Cinematic_48_4
+  - first:
+      213: 588133409562799025
+    second: Skeleton_SPUM_Cinematic_48_5
+  - first:
+      213: 2094718540780280779
+    second: Skeleton_SPUM_Cinematic_48_6
+  - first:
+      213: -2508834845822580561
+    second: Skeleton_SPUM_Cinematic_48_7
+  - first:
+      213: 2718594080048059256
+    second: Skeleton_SPUM_Cinematic_48_8
+  - first:
+      213: 6242974137287820352
+    second: Skeleton_SPUM_Cinematic_48_9
+  - first:
+      213: -6402121532551728261
+    second: Skeleton_SPUM_Cinematic_48_10
+  - first:
+      213: -5722115522511086360
+    second: Skeleton_SPUM_Cinematic_48_11
+  - first:
+      213: 5340935028123466667
+    second: Skeleton_SPUM_Cinematic_48_12
+  - first:
+      213: -8651622213201473807
+    second: Skeleton_SPUM_Cinematic_48_13
+  - first:
+      213: -4559120011890674302
+    second: Skeleton_SPUM_Cinematic_48_14
+  - first:
+      213: -2916772784414094796
+    second: Skeleton_SPUM_Cinematic_48_15
+  - first:
+      213: -7154312037322343786
+    second: Skeleton_SPUM_Cinematic_48_16
+  - first:
+      213: 1623437596792514795
+    second: Skeleton_SPUM_Cinematic_48_17
+  - first:
+      213: 766232458039459836
+    second: Skeleton_SPUM_Cinematic_48_18
+  - first:
+      213: 24693721251399036
+    second: Skeleton_SPUM_Cinematic_48_19
+  - first:
+      213: -8580513518868599164
+    second: Skeleton_SPUM_Cinematic_48_20
+  - first:
+      213: 2275982027820063835
+    second: Skeleton_SPUM_Cinematic_48_21
+  - first:
+      213: 7322177798088427969
+    second: Skeleton_SPUM_Cinematic_48_22
+  - first:
+      213: 9153940683904069067
+    second: Skeleton_SPUM_Cinematic_48_23
+  - first:
+      213: 5416027393316556218
+    second: Skeleton_SPUM_Cinematic_48_24
+  - first:
+      213: 8615327569965557931
+    second: Skeleton_SPUM_Cinematic_48_25
+  - first:
+      213: 6935632014631659486
+    second: Skeleton_SPUM_Cinematic_48_26
+  - first:
+      213: 1057404230015383034
+    second: Skeleton_SPUM_Cinematic_48_27
+  - first:
+      213: 3126633432227273558
+    second: Skeleton_SPUM_Cinematic_48_28
+  - first:
+      213: -541598864154147930
+    second: Skeleton_SPUM_Cinematic_48_29
+  - first:
+      213: 6844654849428874635
+    second: Skeleton_SPUM_Cinematic_48_30
+  - first:
+      213: 2906917049109207467
+    second: Skeleton_SPUM_Cinematic_48_31
+  - first:
+      213: 3086383537155189741
+    second: Skeleton_SPUM_Cinematic_48_32
+  - first:
+      213: -1343352616264104704
+    second: Skeleton_SPUM_Cinematic_48_33
+  - first:
+      213: 1607558323505082029
+    second: Skeleton_SPUM_Cinematic_48_34
+  - first:
+      213: 7813440858611571558
+    second: Skeleton_SPUM_Cinematic_48_35
+  - first:
+      213: -4611329535404704016
+    second: Skeleton_SPUM_Cinematic_48_36
+  - first:
+      213: -4321161175900026507
+    second: Skeleton_SPUM_Cinematic_48_37
+  - first:
+      213: -4073855211560314696
+    second: Skeleton_SPUM_Cinematic_48_38
+  - first:
+      213: -1520717161613118297
+    second: Skeleton_SPUM_Cinematic_48_39
+  - first:
+      213: 384595601419950790
+    second: Skeleton_SPUM_Cinematic_48_40
+  - first:
+      213: 8089595880391169565
+    second: Skeleton_SPUM_Cinematic_48_41
+  - first:
+      213: -3523032628671016676
+    second: Skeleton_SPUM_Cinematic_48_42
+  - first:
+      213: 3666794881770075768
+    second: Skeleton_SPUM_Cinematic_48_43
+  - first:
+      213: -1601440229148728416
+    second: Skeleton_SPUM_Cinematic_48_44
+  - first:
+      213: -988092633692546506
+    second: Skeleton_SPUM_Cinematic_48_45
+  - first:
+      213: -5404061590436157688
+    second: Skeleton_SPUM_Cinematic_48_46
+  - first:
+      213: -1428751784650539022
+    second: Skeleton_SPUM_Cinematic_48_47
+  - first:
+      213: 3217038488900608057
+    second: Skeleton_SPUM_Cinematic_48_48
+  - first:
+      213: 3647645570431600761
+    second: Skeleton_SPUM_Cinematic_48_49
+  - first:
+      213: 1496114928527944231
+    second: Skeleton_SPUM_Cinematic_48_50
+  - first:
+      213: -4008158505441373852
+    second: Skeleton_SPUM_Cinematic_48_51
+  - first:
+      213: 5567610921290286549
+    second: Skeleton_SPUM_Cinematic_48_52
+  - first:
+      213: 650622469060044502
+    second: Skeleton_SPUM_Cinematic_48_53
+  - first:
+      213: -1173812392066644206
+    second: Skeleton_SPUM_Cinematic_48_54
+  - first:
+      213: -6072374658937730914
+    second: Skeleton_SPUM_Cinematic_48_55
+  - first:
+      213: 4821043282197436042
+    second: Skeleton_SPUM_Cinematic_48_56
+  - first:
+      213: 2957152470439580423
+    second: Skeleton_SPUM_Cinematic_48_57
+  - first:
+      213: 1168300955748911180
+    second: Skeleton_SPUM_Cinematic_48_58
+  - first:
+      213: -7114985580763821102
+    second: Skeleton_SPUM_Cinematic_48_59
+  - first:
+      213: -2181866526897414422
+    second: Skeleton_SPUM_Cinematic_48_60
+  - first:
+      213: 1580959101872516091
+    second: Skeleton_SPUM_Cinematic_48_61
+  - first:
+      213: -5345401005318095288
+    second: Skeleton_SPUM_Cinematic_48_62
+  - first:
+      213: 349458318542047762
+    second: Skeleton_SPUM_Cinematic_48_63
+  - first:
+      213: 583726994992020374
+    second: Skeleton_SPUM_Cinematic_48_64
+  - first:
+      213: -9063578949517484865
+    second: Skeleton_SPUM_Cinematic_48_65
+  - first:
+      213: -1045733076541712203
+    second: Skeleton_SPUM_Cinematic_48_66
+  - first:
+      213: -6620290152004300901
+    second: Skeleton_SPUM_Cinematic_48_67
+  - first:
+      213: 5711203630897242502
+    second: Skeleton_SPUM_Cinematic_48_68
+  - first:
+      213: -4642011081737832139
+    second: Skeleton_SPUM_Cinematic_48_69
+  - first:
+      213: 157955286382785408
+    second: Skeleton_SPUM_Cinematic_48_70
+  - first:
+      213: 1988027578488539538
+    second: Skeleton_SPUM_Cinematic_48_71
+  - first:
+      213: 1341604212868112211
+    second: Skeleton_SPUM_Cinematic_48_72
+  - first:
+      213: -1249130669114939330
+    second: Skeleton_SPUM_Cinematic_48_73
+  - first:
+      213: -2210960212172210827
+    second: Skeleton_SPUM_Cinematic_48_74
+  - first:
+      213: -3003721740666227802
+    second: Skeleton_SPUM_Cinematic_48_75
+  - first:
+      213: 4245381960061237701
+    second: Skeleton_SPUM_Cinematic_48_76
+  - first:
+      213: 7967083858491757702
+    second: Skeleton_SPUM_Cinematic_48_77
+  - first:
+      213: 2019562016731164003
+    second: Skeleton_SPUM_Cinematic_48_78
+  - first:
+      213: 6439931210745050209
+    second: Skeleton_SPUM_Cinematic_48_79
+  - first:
+      213: -4770964422590092330
+    second: Skeleton_SPUM_Cinematic_48_80
+  - first:
+      213: 4538678216226931168
+    second: Skeleton_SPUM_Cinematic_48_81
+  - first:
+      213: -5278538885849007507
+    second: Skeleton_SPUM_Cinematic_48_82
+  - first:
+      213: 4083259714458932621
+    second: Skeleton_SPUM_Cinematic_48_83
+  - first:
+      213: -2507394995128509986
+    second: Skeleton_SPUM_Cinematic_48_84
+  - first:
+      213: -6924952993305576948
+    second: Skeleton_SPUM_Cinematic_48_85
+  - first:
+      213: -7869665777265647805
+    second: Skeleton_SPUM_Cinematic_48_86
+  - first:
+      213: 212740445999619963
+    second: Skeleton_SPUM_Cinematic_48_87
+  - first:
+      213: -7012691110674148546
+    second: Skeleton_SPUM_Cinematic_48_88
+  - first:
+      213: 3250642419057103677
+    second: Skeleton_SPUM_Cinematic_48_89
+  - first:
+      213: -1288892523894183733
+    second: Skeleton_SPUM_Cinematic_48_90
+  - first:
+      213: -8574250522330514945
+    second: Skeleton_SPUM_Cinematic_48_91
+  - first:
+      213: -5570041879386921038
+    second: Skeleton_SPUM_Cinematic_48_92
+  - first:
+      213: -8163004879602295134
+    second: Skeleton_SPUM_Cinematic_48_93
+  - first:
+      213: 6283810044647301227
+    second: Skeleton_SPUM_Cinematic_48_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78107f2551cbc43a431b4d81234274
+      internalID: 203471191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f8d04e1aa78b340a91d805398bcbe3
+      internalID: -263683458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5521d638c5959429b85e9452208103
+      internalID: -870134886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79931f581ee9a1149922dadae1bc1d50
+      internalID: 1443351999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c1beb16ddaab4486b98f316c7c1e1
+      internalID: 2138095178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45910e82cffcfb4fa5765ce45ae8e46
+      internalID: -1264451993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc80d457b8b030499d8b14c06782bca
+      internalID: 487759070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1f210d3a0a2a45be5ef2f093b1581
+      internalID: 1957718356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53611fd6cc723c7438031053f3529214
+      internalID: 203028214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb933cc162869fc44a5594db3c350330
+      internalID: -1873605235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dee3aa569b7db42b2a195c730af813
+      internalID: 267507549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e20d9836c7a74894e0fb6fea37650
+      internalID: -1699129159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436e11ae923765479dbad94e82ec9d2
+      internalID: -1359913406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3046df75f0c4314e829b281fdc7e7b3
+      internalID: -369948498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbedf4aa7fd170d4089bb1d0b2f463dc
+      internalID: 471835083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04932f86ed5348f4cbfde61d611c94cb
+      internalID: -1168183790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bbf8547911ae546881bc533fbf7e20
+      internalID: -456387162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853deff57081d044f95aa2c8e4d5d0a0
+      internalID: 298544826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7c3c97ed7c8c4cb2c82f3517857b1
+      internalID: 842754251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f9829ad9e08c4bbc3e0a4e30fa042
+      internalID: 1268918497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c37952a8baac249974b03941286e1e
+      internalID: -518029619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce26da48770a84e8ebe8395a1443d5
+      internalID: 2033975696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29387ef6ea0960748894c6dfee8b1ad7
+      internalID: -1232516430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f400ac557f78a4c870b03803d6d7aa
+      internalID: 145073562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d7aae0d1bdd28488f93fa1255f76ad
+      internalID: 1780788316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f642cf4c38c594eb135238f3d1099e
+      internalID: -1167696696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed889a0160ec1c4e8aa5453c6368b13
+      internalID: 217973941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da46ac133fed74287a67802c8eb373
+      internalID: 1282050413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1975ed59057c9479cbda7cfe7b6a85
+      internalID: -1312324729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e38bbd84d74274486f7009682338b9
+      internalID: 1974595123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c783f6ae9857448d750cc0fac3ad7
+      internalID: -773277912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7383cb6f5661408bef75a445b0211
+      internalID: -1175521839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c21ba42fe7e444b89686b676ba6779
+      internalID: 1758690271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557b20aac29d2c4c8b067142cc605e4
+      internalID: 251333559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993bb64b8f2f3f44ba691c8e441bd447
+      internalID: 1486029173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3f82a64794d74abbf560562946649
+      internalID: 150894766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9574719d44fca4482c800919a27ead
+      internalID: 1660145475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4a0cc6f9c23d46b142bc722adb2ef
+      internalID: 1506217878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1214179e9fc867a47aafd667cf96c089
+      internalID: -392386143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda54db561eb0646afb219fa9e01fd2
+      internalID: 31664394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a95746e462c1043ad90656ad9c0a27
+      internalID: 1818897972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858760df02064c24d9b2c0f7db8482fc
+      internalID: -1054275963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c56a6b52372e042a308a42ab68fc11
+      internalID: 537897594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd993582ca7966843ac2a53737aa9a63
+      internalID: -1192528707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3511da671924447ac72fb776c9ba22
+      internalID: 826835454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77adaab8f101c3b41866e0a929df95a1
+      internalID: -1773162970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b1be886e100a43bb1142f054afc33
+      internalID: -457547522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_SPUM_Cinematic_48_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c29465c1801aa469ebf66e9fa996e9
+      internalID: 1419939089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35f9ea705c51b244c8b38fcdd342a943
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_SPUM_Cinematic_48_0: -8452299576709718939
+      Skeleton_SPUM_Cinematic_48_1: 3034465055259725108
+      Skeleton_SPUM_Cinematic_48_10: -6402121532551728261
+      Skeleton_SPUM_Cinematic_48_11: -5722115522511086360
+      Skeleton_SPUM_Cinematic_48_12: 5340935028123466667
+      Skeleton_SPUM_Cinematic_48_13: -8651622213201473807
+      Skeleton_SPUM_Cinematic_48_14: -4559120011890674302
+      Skeleton_SPUM_Cinematic_48_15: -2916772784414094796
+      Skeleton_SPUM_Cinematic_48_16: -7154312037322343786
+      Skeleton_SPUM_Cinematic_48_17: 1623437596792514795
+      Skeleton_SPUM_Cinematic_48_18: 766232458039459836
+      Skeleton_SPUM_Cinematic_48_19: 24693721251399036
+      Skeleton_SPUM_Cinematic_48_2: 5270557838902713708
+      Skeleton_SPUM_Cinematic_48_20: -8580513518868599164
+      Skeleton_SPUM_Cinematic_48_21: 2275982027820063835
+      Skeleton_SPUM_Cinematic_48_22: 7322177798088427969
+      Skeleton_SPUM_Cinematic_48_23: 9153940683904069067
+      Skeleton_SPUM_Cinematic_48_24: 5416027393316556218
+      Skeleton_SPUM_Cinematic_48_25: 8615327569965557931
+      Skeleton_SPUM_Cinematic_48_26: 6935632014631659486
+      Skeleton_SPUM_Cinematic_48_27: 1057404230015383034
+      Skeleton_SPUM_Cinematic_48_28: 3126633432227273558
+      Skeleton_SPUM_Cinematic_48_29: -541598864154147930
+      Skeleton_SPUM_Cinematic_48_3: 1076469699839917116
+      Skeleton_SPUM_Cinematic_48_30: 6844654849428874635
+      Skeleton_SPUM_Cinematic_48_31: 2906917049109207467
+      Skeleton_SPUM_Cinematic_48_32: 3086383537155189741
+      Skeleton_SPUM_Cinematic_48_33: -1343352616264104704
+      Skeleton_SPUM_Cinematic_48_34: 1607558323505082029
+      Skeleton_SPUM_Cinematic_48_35: 7813440858611571558
+      Skeleton_SPUM_Cinematic_48_36: -4611329535404704016
+      Skeleton_SPUM_Cinematic_48_37: -4321161175900026507
+      Skeleton_SPUM_Cinematic_48_38: -4073855211560314696
+      Skeleton_SPUM_Cinematic_48_39: -1520717161613118297
+      Skeleton_SPUM_Cinematic_48_4: -695267891898493722
+      Skeleton_SPUM_Cinematic_48_40: 384595601419950790
+      Skeleton_SPUM_Cinematic_48_41: 8089595880391169565
+      Skeleton_SPUM_Cinematic_48_42: -3523032628671016676
+      Skeleton_SPUM_Cinematic_48_43: 3666794881770075768
+      Skeleton_SPUM_Cinematic_48_44: -1601440229148728416
+      Skeleton_SPUM_Cinematic_48_45: -988092633692546506
+      Skeleton_SPUM_Cinematic_48_46: -5404061590436157688
+      Skeleton_SPUM_Cinematic_48_47: -1428751784650539022
+      Skeleton_SPUM_Cinematic_48_48: 3217038488900608057
+      Skeleton_SPUM_Cinematic_48_49: 3647645570431600761
+      Skeleton_SPUM_Cinematic_48_5: 588133409562799025
+      Skeleton_SPUM_Cinematic_48_50: 1496114928527944231
+      Skeleton_SPUM_Cinematic_48_51: -4008158505441373852
+      Skeleton_SPUM_Cinematic_48_52: 5567610921290286549
+      Skeleton_SPUM_Cinematic_48_53: 650622469060044502
+      Skeleton_SPUM_Cinematic_48_54: -1173812392066644206
+      Skeleton_SPUM_Cinematic_48_55: -6072374658937730914
+      Skeleton_SPUM_Cinematic_48_56: 4821043282197436042
+      Skeleton_SPUM_Cinematic_48_57: 2957152470439580423
+      Skeleton_SPUM_Cinematic_48_58: 1168300955748911180
+      Skeleton_SPUM_Cinematic_48_59: -7114985580763821102
+      Skeleton_SPUM_Cinematic_48_6: 2094718540780280779
+      Skeleton_SPUM_Cinematic_48_60: -2181866526897414422
+      Skeleton_SPUM_Cinematic_48_61: 1580959101872516091
+      Skeleton_SPUM_Cinematic_48_62: -5345401005318095288
+      Skeleton_SPUM_Cinematic_48_63: 349458318542047762
+      Skeleton_SPUM_Cinematic_48_64: 583726994992020374
+      Skeleton_SPUM_Cinematic_48_65: -9063578949517484865
+      Skeleton_SPUM_Cinematic_48_66: -1045733076541712203
+      Skeleton_SPUM_Cinematic_48_67: -6620290152004300901
+      Skeleton_SPUM_Cinematic_48_68: 5711203630897242502
+      Skeleton_SPUM_Cinematic_48_69: -4642011081737832139
+      Skeleton_SPUM_Cinematic_48_7: -2508834845822580561
+      Skeleton_SPUM_Cinematic_48_70: 157955286382785408
+      Skeleton_SPUM_Cinematic_48_71: 1988027578488539538
+      Skeleton_SPUM_Cinematic_48_72: 1341604212868112211
+      Skeleton_SPUM_Cinematic_48_73: -1249130669114939330
+      Skeleton_SPUM_Cinematic_48_74: -2210960212172210827
+      Skeleton_SPUM_Cinematic_48_75: -3003721740666227802
+      Skeleton_SPUM_Cinematic_48_76: 4245381960061237701
+      Skeleton_SPUM_Cinematic_48_77: 7967083858491757702
+      Skeleton_SPUM_Cinematic_48_78: 2019562016731164003
+      Skeleton_SPUM_Cinematic_48_79: 6439931210745050209
+      Skeleton_SPUM_Cinematic_48_8: 2718594080048059256
+      Skeleton_SPUM_Cinematic_48_80: -4770964422590092330
+      Skeleton_SPUM_Cinematic_48_81: 4538678216226931168
+      Skeleton_SPUM_Cinematic_48_82: -5278538885849007507
+      Skeleton_SPUM_Cinematic_48_83: 4083259714458932621
+      Skeleton_SPUM_Cinematic_48_84: -2507394995128509986
+      Skeleton_SPUM_Cinematic_48_85: -6924952993305576948
+      Skeleton_SPUM_Cinematic_48_86: -7869665777265647805
+      Skeleton_SPUM_Cinematic_48_87: 212740445999619963
+      Skeleton_SPUM_Cinematic_48_88: -7012691110674148546
+      Skeleton_SPUM_Cinematic_48_89: 3250642419057103677
+      Skeleton_SPUM_Cinematic_48_9: 6242974137287820352
+      Skeleton_SPUM_Cinematic_48_90: -1288892523894183733
+      Skeleton_SPUM_Cinematic_48_91: -8574250522330514945
+      Skeleton_SPUM_Cinematic_48_92: -5570041879386921038
+      Skeleton_SPUM_Cinematic_48_93: -8163004879602295134
+      Skeleton_SPUM_Cinematic_48_94: 6283810044647301227
+      Skeleton_SPUM_Cinematic_48_R0_F0: 203471191
+      Skeleton_SPUM_Cinematic_48_R0_F1: -263683458
+      Skeleton_SPUM_Cinematic_48_R0_F2: -870134886
+      Skeleton_SPUM_Cinematic_48_R0_F3: 1443351999
+      Skeleton_SPUM_Cinematic_48_R0_F4: 2138095178
+      Skeleton_SPUM_Cinematic_48_R0_F5: -1264451993
+      Skeleton_SPUM_Cinematic_48_R0_F6: 487759070
+      Skeleton_SPUM_Cinematic_48_R0_F7: 1957718356
+      Skeleton_SPUM_Cinematic_48_R1_F0: 203028214
+      Skeleton_SPUM_Cinematic_48_R1_F1: -1873605235
+      Skeleton_SPUM_Cinematic_48_R1_F2: 267507549
+      Skeleton_SPUM_Cinematic_48_R1_F3: -1699129159
+      Skeleton_SPUM_Cinematic_48_R1_F4: -1359913406
+      Skeleton_SPUM_Cinematic_48_R1_F5: -369948498
+      Skeleton_SPUM_Cinematic_48_R1_F6: 471835083
+      Skeleton_SPUM_Cinematic_48_R1_F7: -1168183790
+      Skeleton_SPUM_Cinematic_48_R2_F0: -456387162
+      Skeleton_SPUM_Cinematic_48_R2_F1: 298544826
+      Skeleton_SPUM_Cinematic_48_R2_F2: 842754251
+      Skeleton_SPUM_Cinematic_48_R2_F3: 1268918497
+      Skeleton_SPUM_Cinematic_48_R2_F4: -518029619
+      Skeleton_SPUM_Cinematic_48_R2_F5: 2033975696
+      Skeleton_SPUM_Cinematic_48_R2_F6: -1232516430
+      Skeleton_SPUM_Cinematic_48_R2_F7: 145073562
+      Skeleton_SPUM_Cinematic_48_R3_F0: 1780788316
+      Skeleton_SPUM_Cinematic_48_R3_F1: -1167696696
+      Skeleton_SPUM_Cinematic_48_R3_F2: 217973941
+      Skeleton_SPUM_Cinematic_48_R3_F3: 1282050413
+      Skeleton_SPUM_Cinematic_48_R3_F4: -1312324729
+      Skeleton_SPUM_Cinematic_48_R3_F5: 1974595123
+      Skeleton_SPUM_Cinematic_48_R3_F6: -773277912
+      Skeleton_SPUM_Cinematic_48_R3_F7: -1175521839
+      Skeleton_SPUM_Cinematic_48_R4_F0: 1758690271
+      Skeleton_SPUM_Cinematic_48_R4_F1: 251333559
+      Skeleton_SPUM_Cinematic_48_R4_F2: 1486029173
+      Skeleton_SPUM_Cinematic_48_R4_F3: 150894766
+      Skeleton_SPUM_Cinematic_48_R4_F4: 1660145475
+      Skeleton_SPUM_Cinematic_48_R4_F5: 1506217878
+      Skeleton_SPUM_Cinematic_48_R4_F6: -392386143
+      Skeleton_SPUM_Cinematic_48_R4_F7: 31664394
+      Skeleton_SPUM_Cinematic_48_R5_F0: 1818897972
+      Skeleton_SPUM_Cinematic_48_R5_F1: -1054275963
+      Skeleton_SPUM_Cinematic_48_R5_F2: 537897594
+      Skeleton_SPUM_Cinematic_48_R5_F3: -1192528707
+      Skeleton_SPUM_Cinematic_48_R5_F4: 826835454
+      Skeleton_SPUM_Cinematic_48_R5_F5: -1773162970
+      Skeleton_SPUM_Cinematic_48_R5_F6: -457547522
+      Skeleton_SPUM_Cinematic_48_R5_F7: 1419939089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

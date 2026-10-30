@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: e34d24a938966894ca443a43dd9710bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2660067362509114279
+    second: Knight_SPUM_Cinematic_48_0
+  - first:
+      213: 812618438729944244
+    second: Knight_SPUM_Cinematic_48_1
+  - first:
+      213: 8085387577857501648
+    second: Knight_SPUM_Cinematic_48_2
+  - first:
+      213: 6875634899080072370
+    second: Knight_SPUM_Cinematic_48_3
+  - first:
+      213: -1033561340705666765
+    second: Knight_SPUM_Cinematic_48_4
+  - first:
+      213: -6740780455584716597
+    second: Knight_SPUM_Cinematic_48_5
+  - first:
+      213: -5293939015939159138
+    second: Knight_SPUM_Cinematic_48_6
+  - first:
+      213: 1652632394852332971
+    second: Knight_SPUM_Cinematic_48_7
+  - first:
+      213: 6123335629782305635
+    second: Knight_SPUM_Cinematic_48_8
+  - first:
+      213: 8069070434578168559
+    second: Knight_SPUM_Cinematic_48_9
+  - first:
+      213: -7854406504623884559
+    second: Knight_SPUM_Cinematic_48_10
+  - first:
+      213: -7360700505274660604
+    second: Knight_SPUM_Cinematic_48_11
+  - first:
+      213: 122639666116995083
+    second: Knight_SPUM_Cinematic_48_12
+  - first:
+      213: -1180108410776708355
+    second: Knight_SPUM_Cinematic_48_13
+  - first:
+      213: 7400271970797073690
+    second: Knight_SPUM_Cinematic_48_14
+  - first:
+      213: -3804327961328909142
+    second: Knight_SPUM_Cinematic_48_15
+  - first:
+      213: 8711010248927812043
+    second: Knight_SPUM_Cinematic_48_16
+  - first:
+      213: -1318685735492691026
+    second: Knight_SPUM_Cinematic_48_17
+  - first:
+      213: -6881595383109555905
+    second: Knight_SPUM_Cinematic_48_18
+  - first:
+      213: -9204222325479188772
+    second: Knight_SPUM_Cinematic_48_19
+  - first:
+      213: 2883290862729319708
+    second: Knight_SPUM_Cinematic_48_20
+  - first:
+      213: -6720336115451598023
+    second: Knight_SPUM_Cinematic_48_21
+  - first:
+      213: 3185556206504290138
+    second: Knight_SPUM_Cinematic_48_22
+  - first:
+      213: 6753488956648660482
+    second: Knight_SPUM_Cinematic_48_23
+  - first:
+      213: -7333941745639656932
+    second: Knight_SPUM_Cinematic_48_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc6b7a313be06749afb8741159afaf4
+      internalID: 1144787127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffd246ed8fa974cb0f4a4c4b573e40
+      internalID: -1181534587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a6e2f8f55cd340bf921bc5fbb0cb2
+      internalID: 455996038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bdc9c100477114db836f5598df54ea
+      internalID: -1443797589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58ceab49499c9b419f8ecaacdafa06d
+      internalID: 1103784629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d8cd09db061f448a2d1dee498d728f
+      internalID: 1606395985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de2c8e9932f404582c95cb3571b5cd
+      internalID: 153173139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f59f4cba6a0c5459950ca5f9a2e0fc
+      internalID: -644568295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c45afb3edf36174bb2080e122fe7e99
+      internalID: 947182934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e743a80c942954d836e04ff5ca759a
+      internalID: 895544805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d3510c28976642887ba292ec72c6c
+      internalID: 765676556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca786cdb5e3b34aa4d5507aa07a625
+      internalID: 941542402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305592586eba09b4098c595f8e66ffd7
+      internalID: -381374123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0035a5f2442d94ea9567c7a1c5e449
+      internalID: -855639697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826d175ff9f11d4f8678b8609204eb3
+      internalID: 1331018397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ab1c49ea823e4ea967790a336107e
+      internalID: -1158638072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2e796b6c4e014195845fa0052652a
+      internalID: -292612894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc171b57661d274288b67b5837c2b7e
+      internalID: -1446434625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc68900e509919647acda4efe95a7403
+      internalID: -1091055769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927af156b4cae4a48b15fa0a060ac0d9
+      internalID: 1074471601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6bba9b1428624cbffccaa52254166
+      internalID: 971627105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45667e95b3814bc44aab73e6f00b032d
+      internalID: 760183458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05af600eff71a347a3dee59eb5179ec
+      internalID: 961719201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ca6f5cea5def4b802862acd3cdd09
+      internalID: -245971934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68642406242495a4d9ce19b1a6bc7bc0
+      internalID: -1426016172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1a68183e0d9e48bc934cd4f50966a
+      internalID: 391102574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae740c9cfadc4b488398b741591cc49
+      internalID: 1636390270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75f4a8cb3e2364c8e974e241b4a02e
+      internalID: -1133873143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a0bcf485f9c5e4286f6276a8cf0297
+      internalID: 1883722554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e37022c39b0f41ac8bdc905acf765
+      internalID: 1769303264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4fede7badfa44489069f0f21a64c9
+      internalID: 408052834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da6dff8cee7a6458f5bd386507d2d5
+      internalID: -221041077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397eb2ca2b4b604ebc40fe6a9709bb5
+      internalID: -621389568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9364cd4c4c36c47932b18e544fd592
+      internalID: 1465304398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a4a3be8a82aa4089cc9c2705f976b
+      internalID: 207703193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf607310bb0128549ba4a10ff4e4e3dd
+      internalID: 1614068491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a2f5c10326d6449f8279aa8e9915e
+      internalID: -1248338559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f002614f87384eb78352fc7c2b58f
+      internalID: -2065984102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10037540880ea234f89459e7d69e8e55
+      internalID: 1325382545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3086bde6ae1bfd24897b4c91ec49b4b6
+      internalID: 1431801806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff157beed9ead7e4e90e0e910a5b1913
+      internalID: -1514481830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af77bdf13d34f46beb279d133166a9
+      internalID: -2068099085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0dde6e56f098d4e9eaf9858c050441
+      internalID: -1212313549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd994cd48650643a5b5f8908a52c90
+      internalID: -551580294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266c3398f98da8746a1343e4b8387a73
+      internalID: 2092421421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad47865445e25e4f9ee4fd6ad321a44
+      internalID: -2055645132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6de34b462a1f48b36ee6c88aba2c2
+      internalID: 971285631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_SPUM_Cinematic_48_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941a92d2ac818344aed7dd1a6929780
+      internalID: -797667802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 193b2fec2b888254bb889e48dd3940e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Knight_SPUM_Cinematic_48_0: 2660067362509114279
+      Knight_SPUM_Cinematic_48_1: 812618438729944244
+      Knight_SPUM_Cinematic_48_10: -7854406504623884559
+      Knight_SPUM_Cinematic_48_11: -7360700505274660604
+      Knight_SPUM_Cinematic_48_12: 122639666116995083
+      Knight_SPUM_Cinematic_48_13: -1180108410776708355
+      Knight_SPUM_Cinematic_48_14: 7400271970797073690
+      Knight_SPUM_Cinematic_48_15: -3804327961328909142
+      Knight_SPUM_Cinematic_48_16: 8711010248927812043
+      Knight_SPUM_Cinematic_48_17: -1318685735492691026
+      Knight_SPUM_Cinematic_48_18: -6881595383109555905
+      Knight_SPUM_Cinematic_48_19: -9204222325479188772
+      Knight_SPUM_Cinematic_48_2: 8085387577857501648
+      Knight_SPUM_Cinematic_48_20: 2883290862729319708
+      Knight_SPUM_Cinematic_48_21: -6720336115451598023
+      Knight_SPUM_Cinematic_48_22: 3185556206504290138
+      Knight_SPUM_Cinematic_48_23: 6753488956648660482
+      Knight_SPUM_Cinematic_48_24: -7333941745639656932
+      Knight_SPUM_Cinematic_48_3: 6875634899080072370
+      Knight_SPUM_Cinematic_48_4: -1033561340705666765
+      Knight_SPUM_Cinematic_48_5: -6740780455584716597
+      Knight_SPUM_Cinematic_48_6: -5293939015939159138
+      Knight_SPUM_Cinematic_48_7: 1652632394852332971
+      Knight_SPUM_Cinematic_48_8: 6123335629782305635
+      Knight_SPUM_Cinematic_48_9: 8069070434578168559
+      Knight_SPUM_Cinematic_48_R0_F0: 1144787127
+      Knight_SPUM_Cinematic_48_R0_F1: -1181534587
+      Knight_SPUM_Cinematic_48_R0_F2: 455996038
+      Knight_SPUM_Cinematic_48_R0_F3: -1443797589
+      Knight_SPUM_Cinematic_48_R0_F4: 1103784629
+      Knight_SPUM_Cinematic_48_R0_F5: 1606395985
+      Knight_SPUM_Cinematic_48_R0_F6: 153173139
+      Knight_SPUM_Cinematic_48_R0_F7: -644568295
+      Knight_SPUM_Cinematic_48_R1_F0: 947182934
+      Knight_SPUM_Cinematic_48_R1_F1: 895544805
+      Knight_SPUM_Cinematic_48_R1_F2: 765676556
+      Knight_SPUM_Cinematic_48_R1_F3: 941542402
+      Knight_SPUM_Cinematic_48_R1_F4: -381374123
+      Knight_SPUM_Cinematic_48_R1_F5: -855639697
+      Knight_SPUM_Cinematic_48_R1_F6: 1331018397
+      Knight_SPUM_Cinematic_48_R1_F7: -1158638072
+      Knight_SPUM_Cinematic_48_R2_F0: -292612894
+      Knight_SPUM_Cinematic_48_R2_F1: -1446434625
+      Knight_SPUM_Cinematic_48_R2_F2: -1091055769
+      Knight_SPUM_Cinematic_48_R2_F3: 1074471601
+      Knight_SPUM_Cinematic_48_R2_F4: 971627105
+      Knight_SPUM_Cinematic_48_R2_F5: 760183458
+      Knight_SPUM_Cinematic_48_R2_F6: 961719201
+      Knight_SPUM_Cinematic_48_R2_F7: -245971934
+      Knight_SPUM_Cinematic_48_R3_F0: -1426016172
+      Knight_SPUM_Cinematic_48_R3_F1: 391102574
+      Knight_SPUM_Cinematic_48_R3_F2: 1636390270
+      Knight_SPUM_Cinematic_48_R3_F3: -1133873143
+      Knight_SPUM_Cinematic_48_R3_F4: 1883722554
+      Knight_SPUM_Cinematic_48_R3_F5: 1769303264
+      Knight_SPUM_Cinematic_48_R3_F6: 408052834
+      Knight_SPUM_Cinematic_48_R3_F7: -221041077
+      Knight_SPUM_Cinematic_48_R4_F0: -621389568
+      Knight_SPUM_Cinematic_48_R4_F1: 1465304398
+      Knight_SPUM_Cinematic_48_R4_F2: 207703193
+      Knight_SPUM_Cinematic_48_R4_F3: 1614068491
+      Knight_SPUM_Cinematic_48_R4_F4: -1248338559
+      Knight_SPUM_Cinematic_48_R4_F5: -2065984102
+      Knight_SPUM_Cinematic_48_R4_F6: 1325382545
+      Knight_SPUM_Cinematic_48_R4_F7: 1431801806
+      Knight_SPUM_Cinematic_48_R5_F0: -1514481830
+      Knight_SPUM_Cinematic_48_R5_F1: -2068099085
+      Knight_SPUM_Cinematic_48_R5_F2: -1212313549
+      Knight_SPUM_Cinematic_48_R5_F3: -551580294
+      Knight_SPUM_Cinematic_48_R5_F4: 2092421421
+      Knight_SPUM_Cinematic_48_R5_F5: -2055645132
+      Knight_SPUM_Cinematic_48_R5_F6: 971285631
+      Knight_SPUM_Cinematic_48_R5_F7: -797667802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

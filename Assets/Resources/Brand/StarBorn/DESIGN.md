@@ -1,0 +1,15 @@
+# StarBorn — text-only animated title
+
+Created for the project's main menu. Final asset: `StarBornWordmark.png` (original lettering, transparent RGBA). The matching native `StarBornIdle.anim`, `StarBornTitle.controller`, `StarBornTitle.mat`, and reusable `StarBornTitle.prefab` live alongside it. The Sprite Editor rectangle trims empty padding without repainting or changing the source pixels. Point filtering and uncompressed import retain the pixel-art edges.
+
+Only the lettering appears: no star emblem, swords, shield, particles, frame, or subtitle. Native unscaled-time animation gives a small 5.5-second float/scale cycle. The shader passes a restrained warm highlight through the lettering; the intro fades in once when enabled. It never adds glow or extra imagery outside the letters. Main-menu actions remain separate and clickable; opening settings hides the title/action content.
+
+Generation mode: **built-in image generation**, no CLI/API fallback. Unity AI Generators was not installed (internal-only alpha); no plugin was installed.
+
+## Exact generation prompt
+
+Use case: logo-brand. Asset type: original production raster wordmark for a pixel-art medieval fantasy RPG main menu, to be animated in Unity. Text (verbatim, exact case): "StarBorn". Spell exactly S t a r B o r n: capital S and B, all other letters lowercase. ONE word, one line, no subtitle or any other text. Design custom strong, readable fantasy serif lettering with subtly angular pixel-stepped edges and small distinctive cut-in serifs; wide balanced kerning, S and B slightly taller. Warm antique gold face with pale ivory-gold top facets, deep bronze lower facets and a very thin dark umber pixel outline; restrained 2D 16-bit pixel bevel, crisp deliberate pixel clusters, no smooth painterly blur. It must fit a game UI with charcoal-olive, walnut and aged-brass frames. Front-facing horizontal typography with level baseline, generous transparent padding, wide composition about3:1. Lettering only: absolutely no standalone star, sparkles, emblems, swords, shields, crowns, wings, underline, frame, particles, characters or scenery. No mockup, no perspective/extrusion, no watermark. True alpha-transparent background including all counters/gaps between letters. Opaque readable lettering; do not make the letter faces translucent. No baked glow outside letters: the game will add a gentle moving highlight through the text itself.
+
+## Audio settings applied with this title
+
+Both main-menu and pause settings contain two bound sliders: master and music, with live percentages. The effects slider/label/value were removed from the main-menu settings. Combat and UI audio remain enabled and follow master volume; the hidden legacy `Audio.Sfx` value no longer silently mutes them. Music uses an explicit source route and original library gain multiplied by the saved music percentage, rather than repeatedly multiplying an already-scaled source or classifying every looping source as music. Scene changes reapply these saved gains. Application/product identity was not renamed, so the game's existing save registry stays intact.

@@ -1,0 +1,53 @@
+BEGIN opening
+SHOT opening_Dialogue frame=1823
+SHOT opening_Melee frame=2372
+opening HIT OpeningCutsceneMonster_1 distance=0.956
+opening HIT OpeningCutsceneMonster_2 distance=0.890
+opening HIT OpeningCutsceneMonster_3 distance=0.993
+opening END dead=3 health=5
+PASS opening alive=True deadMonsters=3
+BEGIN royal
+SHOT Royal_FullBlackTitle frame=6092
+SHOT Royal_MessengerFacing frame=7085
+SHOT Royal_Dialogue frame=7602
+PASS royal completed
+BEGIN mage
+SHOT mage_Dialogue frame=16179
+SHOT mage_Melee frame=16713
+mage HIT OpeningCutsceneMonster_1 distance=1.438
+mage HIT OpeningCutsceneMonster_2 distance=2.074
+mage HIT OpeningCutsceneMonster_3 distance=2.135
+mage END dead=3 health=5
+PASS mage avatar=MageAvatar deadMonsters=3
+BEGIN happy
+SHOT Happy_Fireworks frame=21456
+SHOT Happy_FullscreenNoise frame=23231
+SHOT Happy_BadEnding frame=24248
+PASS happy title=BAD ENDING
+BEGIN corruption
+SHOT Corruption_FullscreenNoise frame=27365
+SHOT Corruption_Emotion frame=28937
+PAUSE time=22.001
+SHOT Pause_ErrorCascade frame=30114
+SHOT Pause_GlassShards frame=30515
+SHOT Pause_Reprimand frame=30832
+PAUSE camera hero visible=True
+PAUSE RESUME maxTimelineDrift=0.0000 sameLine=True
+SHOT Corruption_Fireball frame=34592
+SHOT Corruption_Choice frame=37178
+PASS corruption choice=True
+PASS cursor battle HUD visible=True
+PASS cursor health=90
+PASS defeated damage popups=0
+SHOT Defeated_ResetPanel frame=40246
+BEGIN reset
+SHOT ResetLoop_Ending frame=44715
+PASS reset loop stops at ending=True
+BEGIN white
+SHOT WhiteVoid_Ending frame=57249
+PASS white ending shown
+BEGIN level3
+SHOT Level03_IntroCaption frame=57742
+SHOT Level03_BossCaption frame=59320
+PASS boss does not attack during dialogue=True
+PASS boss activated after dialogue

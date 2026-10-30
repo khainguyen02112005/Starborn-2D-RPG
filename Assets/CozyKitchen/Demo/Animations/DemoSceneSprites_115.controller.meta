@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 753d8a20349c4ae448585c45e37d4751
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/DemoSceneSprites_115.controller
+  uploadId: 905652

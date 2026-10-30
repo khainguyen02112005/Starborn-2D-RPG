@@ -1,0 +1,15 @@
+Final edge regressions 10/16/2026 12:39:27 PM
+PASS Fresh Level03 loads without a stuck cutscene
+PASS Water slow applied
+PASS Temporary water slow does not become a permanent saved stat
+PASS Save captures three summoned phase-two minions
+PASS Phase-two save finishes loading
+PASS Boss HP and minion count match save; no duplicate summons
+PASS Normal movement speed restored after saving during water attack
+PASS Phase-two fire volley is alive before boss death
+PASS Boss death clears phase-two projectiles as well
+PASS Every elder fragment is an original SPUM sprite
+PASS XP crystal and gold coin both have actual Animator clips
+PASS Actual cinematic death/reform restores every original SPUM opacity, including translucent shadow
+ALL FINAL CHECKS PASSED
+Original slots/preferences restored.

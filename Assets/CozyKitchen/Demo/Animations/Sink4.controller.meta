@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0cbd57f769d0234ca3e2a2ca77b795e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/Sink4.controller
+  uploadId: 905652

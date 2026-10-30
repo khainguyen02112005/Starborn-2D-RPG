@@ -1,0 +1,1 @@
+Pieces=0 after cleanup; pause ended=True; camera target restored=True

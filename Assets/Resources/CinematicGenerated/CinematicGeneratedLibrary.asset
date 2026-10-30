@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c5c116c6e10796478a5d6d589c9989d, type: 3}
+  m_Name: CinematicGeneratedLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicGeneratedLibrary
+  knightPrefab: {fileID: 1041822125311516917, guid: 7260b0cce76095b48adbe3da2c346192, type: 3}
+  magePrefab: {fileID: 8600024895855744168, guid: f71d1473805c4ef458c42a99099bdc77, type: 3}
+  skeletonPrefab: {fileID: 4930882959739754324, guid: 3f19efd1a601ea74d8460888c1b51117, type: 3}
+  bossPrefab: {fileID: 8251756449188715454, guid: 4560d844446973b49a17851836e720d3, type: 3}
+  messengerPrefab: {fileID: 4653941335150068188, guid: 81a169a76bbaf4c54b41b6823890732f, type: 3}
+  combatVfxPrefab: {fileID: 477703557983199451, guid: 276c3e63369e85c4dbb1a0307709a87c, type: 3}
+  cutsceneOverlayPrefab: {fileID: 8313206373233537041, guid: aa2bd82ca5d635f4b9e7fdb0332a1d9c, type: 3}
+  royalDecreeSprite: {fileID: -8434868661791834516, guid: 692be96e40cbd844d8e3700b967e565e, type: 3}
+  digitalCorruptionTexture: {fileID: 2800000, guid: 94b47108f8e77054b8606186001f3b08, type: 3}
+  digitalCorruptionMaterial: {fileID: 2100000, guid: b0f8af0108b44ee47888df78c66295f9, type: 2}
+  fireworkPrefab: {fileID: 197148021098995877, guid: a545293c9c409cc4194414ddc294ba06, type: 3}
+  knightEmotionPrefab: {fileID: 5649013488280955279, guid: 8ae939ddbee31974aa1092f99ca35f07, type: 3}
+  mageEmotionPrefab: {fileID: 3357933933044503882, guid: 5c0bdfa3e1a96a34bb5ec50648ba26a7, type: 3}
+  warningFireballPrefab: {fileID: 90408236606041162, guid: 0e0656847dbf35d4792e7f39f08a454c, type: 3}
+  warningImpactPrefab: {fileID: 8466725800023306372, guid: 9f807476aabb4d042a16aee378243031, type: 3}
+  knightCorruptionPrefab: {fileID: 7946488144936189377, guid: 21ccc58ceab60ca4ba2b2e83bc770534, type: 3}
+  mageCorruptionPrefab: {fileID: 1982463159490340490, guid: 00b1868393838fb4eb6c768c968577b4, type: 3}
+  elderCorruptionPrefab: {fileID: 6239059803148007037, guid: 562497118563bb14a878a83335d6d472, type: 3}
+  pixelFragmentsPrefab: {fileID: 1995265625121630972, guid: 51404b1460a8dcb4c98ea58fd7e316a4, type: 3}

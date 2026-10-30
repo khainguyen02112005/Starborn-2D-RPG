@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d674f0e3556ce9e40b23c73dff15b9ef
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Materials/Rain_Sprite_Mat.mat
+  uploadId: 905652

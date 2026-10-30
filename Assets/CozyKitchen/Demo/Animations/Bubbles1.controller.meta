@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a9d3f7e780d0be43aa362384f74614b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/Bubbles1.controller
+  uploadId: 905652

@@ -1,0 +1,55 @@
+Potion/damage/handoff verification 10/16/2026 1:34:45 PM
+LOAD combat Hiệp Sĩ
+PASS Hiệp Sĩ actual BuyManaButton buys one item per click frame
+PASS Hiệp Sĩ left-click mana potion restores MP, consumes one and never sells it
+PASS Hiệp Sĩ mana HUD updates immediately
+PASS Hiệp Sĩ mana recovery clamps to maximum
+PASS Hiệp Sĩ full mana does not waste a potion
+PASS Hiệp Sĩ explicit right-click sells only one item, without using it
+PASS Hiệp Sĩ health potion also heals instead of selling while shop is open
+PASS Hiệp Sĩ full health does not waste a potion
+PASS Hiệp Sĩ full bag cannot lose purchase gold
+PASS Hiệp Sĩ basic attack starts
+PASS Hiệp Sĩ basic attack applies damage and displays floating numbers
+PASS Hiệp Sĩ damage number readable at current zoom and above VFX
+PASS Critical damage stays gold after animation updates
+PASS Hiệp Sĩ five-bolt magic also displays damage numbers
+PASS Hiệp Sĩ fast magic cannot tunnel through an enemy between frames
+LOAD combat Pháp Sư
+PASS Pháp Sư actual BuyManaButton buys one item per click frame
+PASS Pháp Sư left-click mana potion restores MP, consumes one and never sells it
+PASS Pháp Sư mana HUD updates immediately
+PASS Pháp Sư mana recovery clamps to maximum
+PASS Pháp Sư full mana does not waste a potion
+PASS Pháp Sư explicit right-click sells only one item, without using it
+PASS Pháp Sư health potion also heals instead of selling while shop is open
+PASS Pháp Sư full health does not waste a potion
+PASS Pháp Sư full bag cannot lose purchase gold
+PASS Pháp Sư basic attack starts
+PASS Pháp Sư basic attack applies damage and displays floating numbers
+PASS Pháp Sư damage number readable at current zoom and above VFX
+PASS Pháp Sư five-bolt magic also displays damage numbers
+PASS Pháp Sư fast magic cannot tunnel through an enemy between frames
+LOAD royal Hiệp Sĩ
+PASS Hiệp Sĩ royal-decree Timeline starts
+PASS Hiệp Sĩ hero stands clear of messenger route
+PASS Hiệp Sĩ delivery uses the letter Animation Clip/Animator
+PASS Hiệp Sĩ messenger and hero do not overlap during handoff
+PASS Hiệp Sĩ letter actually travels from messenger to elder without freezing
+PASS Hiệp Sĩ Timeline exits and restores gameplay controls
+LOAD royal Pháp Sư
+PASS Pháp Sư royal-decree Timeline starts
+PASS Pháp Sư hero stands clear of messenger route
+PASS Pháp Sư delivery uses the letter Animation Clip/Animator
+PASS Pháp Sư messenger and hero do not overlap during handoff
+PASS Pháp Sư letter actually travels from messenger to elder without freezing
+PASS Pháp Sư Timeline exits and restores gameplay controls
+LOAD boss
+PASS Boss receives damage and displays its floating number
+PASS Player damage also displays a red floating number
+PASS Cursor-battle damage number can be created with paused gameplay time
+PASS Cursor-battle floating number expires on unscaled time, without leaving stuck text
+LOAD early-stop check
+PASS Stopping delivery early cannot leave a delayed teleport or locked controls
+ALL CHECKS PASSED
+Original preferences and all five saves restored.

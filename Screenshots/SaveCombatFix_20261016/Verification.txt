@@ -1,0 +1,59 @@
+Save/combat regression 10/16/2026 11:19:21 AM
+PASS Catalog and inventory available
+PASS Pause Save opens five-slot menu
+PASS Return after saving Level02 scene and position
+PASS Return after saving Level02 class/level/XP threshold/awakening
+PASS Return after saving Level02 gold, bag, equipment, upgrades and durability
+PASS Return after saving Level02 HP and mana
+PASS Return after saving Level02 upgraded stats and combat bonuses
+PASS Return after saving Level02 quest, deaths, learned spells and casting mode
+PASS Defeated enemy stays defeated after save-menu return
+PASS Chest contents restored, starter ore not duplicated
+PASS Quest callbacks cannot silently overwrite a manual save
+PASS Continue from main-menu workflow scene and position
+PASS Continue from main-menu workflow class/level/XP threshold/awakening
+PASS Continue from main-menu workflow gold, bag, equipment, upgrades and durability
+PASS Continue from main-menu workflow HP and mana
+PASS Continue from main-menu workflow upgraded stats and combat bonuses
+PASS Continue from main-menu workflow quest, deaths, learned spells and casting mode
+PASS Continue ignores stale global class and pending opening cutscene
+PASS Cancel save menu scene and position
+PASS Cancel save menu class/level/XP threshold/awakening
+PASS Cancel save menu gold, bag, equipment, upgrades and durability
+PASS Cancel save menu HP and mana
+PASS Cancel save menu upgraded stats and combat bonuses
+PASS Cancel save menu quest, deaths, learned spells and casting mode
+PASS Level02 to Level03 preserves inventory and equipment
+PASS Level03 boss exists
+PASS Mid-boss Level03 save scene and position
+PASS Mid-boss Level03 save class/level/XP threshold/awakening
+PASS Mid-boss Level03 save gold, bag, equipment, upgrades and durability
+PASS Mid-boss Level03 save HP and mana
+PASS Mid-boss Level03 save upgraded stats and combat bonuses
+PASS Mid-boss Level03 save quest, deaths, learned spells and casting mode
+PASS Boss health/encounter restored without replaying entry cutscene
+PASS Cross-scene save retains village chest ledger
+PASS Boss has live warning, fire and water spell objects
+PASS Boss death removes every owned spell immediately
+PASS Elder signal effect uses only exact original SPUM sprites
+PASS XP drops as an animated crystal, not a yellow circle
+PASS Crystal animation advances in play mode
+PASS XP crystal magnet and experience reward work
+PASS Hiệp Sĩ emits five fan bolts
+PASS Hiệp Sĩ fan charges mana once for entire volley
+PASS Hiệp Sĩ forms eight orbit bolts around the actor
+PASS Hiệp Sĩ orbit releases outward
+PASS Hiệp Sĩ corrupted fight uses five-bolt fan
+PASS Hiệp Sĩ magic actually damages cursor health
+PASS Hiệp Sĩ corrupted fight uses orbit volley
+PASS Hiệp Sĩ battle-end cleans all bolts
+PASS Pháp Sư emits five fan bolts
+PASS Pháp Sư fan charges mana once for entire volley
+PASS Pháp Sư forms eight orbit bolts around the actor
+PASS Pháp Sư orbit releases outward
+PASS Pháp Sư corrupted fight uses five-bolt fan
+PASS Pháp Sư magic actually damages cursor health
+PASS Pháp Sư corrupted fight uses orbit volley
+PASS Pháp Sư battle-end cleans all bolts
+ALL CHECKS PASSED
+Original preferences and all five real save slots restored.

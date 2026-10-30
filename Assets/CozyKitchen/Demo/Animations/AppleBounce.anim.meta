@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35fcfd4c49dc2734a864944070000464
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/AppleBounce.anim
+  uploadId: 905652

@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: d762d09bbbf9e7a46927540aff8af6cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8419381496324591865
+    second: BossDevil_SPUM_Cinematic_48_0
+  - first:
+      213: 815891022691871701
+    second: BossDevil_SPUM_Cinematic_48_1
+  - first:
+      213: 8756571850076241226
+    second: BossDevil_SPUM_Cinematic_48_2
+  - first:
+      213: 4738413978067227110
+    second: BossDevil_SPUM_Cinematic_48_3
+  - first:
+      213: 9153234099269128824
+    second: BossDevil_SPUM_Cinematic_48_4
+  - first:
+      213: 7957614585762763478
+    second: BossDevil_SPUM_Cinematic_48_5
+  - first:
+      213: -3060808750173400506
+    second: BossDevil_SPUM_Cinematic_48_6
+  - first:
+      213: 9101096950605842194
+    second: BossDevil_SPUM_Cinematic_48_7
+  - first:
+      213: 8479450994576180692
+    second: BossDevil_SPUM_Cinematic_48_8
+  - first:
+      213: 6476503927363493843
+    second: BossDevil_SPUM_Cinematic_48_9
+  - first:
+      213: -4291044518253806818
+    second: BossDevil_SPUM_Cinematic_48_10
+  - first:
+      213: 5750827631888745145
+    second: BossDevil_SPUM_Cinematic_48_11
+  - first:
+      213: -6472766882242813992
+    second: BossDevil_SPUM_Cinematic_48_12
+  - first:
+      213: 5602242852585464522
+    second: BossDevil_SPUM_Cinematic_48_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a41b7f939504945b98e86b7186944b
+      internalID: 1802369131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54e2df444a20a748b7151b3c2aef47a
+      internalID: -611621151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90ccfb9fe7f794abcb5f2513a03f83
+      internalID: -498594772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d6f7d9e7f7b141ae9ebbc9f0bbefb
+      internalID: -2089182174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1463fd985156cc4c8a0a3c20d24b0cc
+      internalID: -380436994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4602fd0ff3ae4696e78df05ffe55a
+      internalID: 506406783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db70525fd2a9b14e91812a014d1877d
+      internalID: -1130209509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a92e040bcdda4fa8fa605f221da94
+      internalID: -1972767718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb200fef6aefae428b9a5accbef3ec7
+      internalID: 1034795655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f77e75deaecad41bf650748dc67d0a
+      internalID: -215708042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50946807b3ae94589d33cf7c6829fe
+      internalID: -779415491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e2fc455260a14892474e37e0c59d2
+      internalID: -466751504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d3d6d04e760c449a069af649f017b
+      internalID: -229228930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b13ec17a65574a949e0c50e83b2a9
+      internalID: -242392520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb454359fc738b41acdce63e15393a1
+      internalID: -422466118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8d764e33f28347899b1e7b82b1d68
+      internalID: 456707190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28283d538d2f3d4284a1a49d5d5ed62
+      internalID: -1374345050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16f5b6f90a2204cb4c32030e8f571b
+      internalID: 254345681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3232623f488997a43b95883092532d20
+      internalID: -1498665742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf16a9b2fde894e88d518842e54346
+      internalID: 371447845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a06914031fe343ba52a11a0f58955
+      internalID: 201331514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd644eddc4f44724cb58ebd829252f61
+      internalID: -779419545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b374b36145ac4a97499bc636bc165
+      internalID: -1573338917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc685723b2051364485945936989bed8
+      internalID: -2035180656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408706e48d919f4d92357c050a344c3
+      internalID: 1045750510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0901e9580b3610408b5343fa6ae77bb
+      internalID: -450777416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd03e652f55d2bb499d3a69a814c28e7
+      internalID: -1498032879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712ab75efaa14b40ab1b771baa99bcf
+      internalID: 529784423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45bae8dc5088842aa3c741c2d1180e
+      internalID: -1311559245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e96973c3cb86b4ea77b926337277ad
+      internalID: -790040287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab25021c3e80f043a92895eb1192f9a
+      internalID: -174293382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ad6a8850f28543bd13e233d2aa391
+      internalID: -1253323588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2999ce85061444b9d90b2c2aacbf23
+      internalID: 2104487953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3173c29df3a6d4aa340fe2a19e4adb
+      internalID: -195865210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b823cba9ca1447bca97f32d9548b1
+      internalID: 324540629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9644d661419283a49a79e5057eaf229c
+      internalID: 990055297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357984116c863f34495ca349e2ff710e
+      internalID: -421780527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b6d8dc22f65b419f5e485be5943c2
+      internalID: -1882143893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907dbf6d45695944a556cd727e9d413
+      internalID: -1762877463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18a494d5f497745a03dd3ac8eaf4c3
+      internalID: 2079579873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb8abc9e07b344ebd71b3020417e8d
+      internalID: -2058105346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ffb7077428ae48b451dbb1152a344
+      internalID: 476328974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721f4b9389f7a444fad2275c2c85c582
+      internalID: -1837549376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd5621aa8071d46a8ff0c53797599d
+      internalID: 1469910398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aea5cf8c0ff6045b84597c6c8f0319
+      internalID: 128579906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb401eff4fd7ac45aeeccfb46d076c9
+      internalID: -451342680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42064dea0e7f0dc42bc4a471e14340aa
+      internalID: 10428246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossDevil_SPUM_Cinematic_48_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae7c7708d33a314d887f246aaddab4a
+      internalID: 1672612084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43e7a14a9eb85f44e87affe90c21f06f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossDevil_SPUM_Cinematic_48_0: 8419381496324591865
+      BossDevil_SPUM_Cinematic_48_1: 815891022691871701
+      BossDevil_SPUM_Cinematic_48_10: -4291044518253806818
+      BossDevil_SPUM_Cinematic_48_11: 5750827631888745145
+      BossDevil_SPUM_Cinematic_48_12: -6472766882242813992
+      BossDevil_SPUM_Cinematic_48_13: 5602242852585464522
+      BossDevil_SPUM_Cinematic_48_2: 8756571850076241226
+      BossDevil_SPUM_Cinematic_48_3: 4738413978067227110
+      BossDevil_SPUM_Cinematic_48_4: 9153234099269128824
+      BossDevil_SPUM_Cinematic_48_5: 7957614585762763478
+      BossDevil_SPUM_Cinematic_48_6: -3060808750173400506
+      BossDevil_SPUM_Cinematic_48_7: 9101096950605842194
+      BossDevil_SPUM_Cinematic_48_8: 8479450994576180692
+      BossDevil_SPUM_Cinematic_48_9: 6476503927363493843
+      BossDevil_SPUM_Cinematic_48_R0_F0: 1802369131
+      BossDevil_SPUM_Cinematic_48_R0_F1: -611621151
+      BossDevil_SPUM_Cinematic_48_R0_F2: -498594772
+      BossDevil_SPUM_Cinematic_48_R0_F3: -2089182174
+      BossDevil_SPUM_Cinematic_48_R0_F4: -380436994
+      BossDevil_SPUM_Cinematic_48_R0_F5: 506406783
+      BossDevil_SPUM_Cinematic_48_R0_F6: -1130209509
+      BossDevil_SPUM_Cinematic_48_R0_F7: -1972767718
+      BossDevil_SPUM_Cinematic_48_R1_F0: 1034795655
+      BossDevil_SPUM_Cinematic_48_R1_F1: -215708042
+      BossDevil_SPUM_Cinematic_48_R1_F2: -779415491
+      BossDevil_SPUM_Cinematic_48_R1_F3: -466751504
+      BossDevil_SPUM_Cinematic_48_R1_F4: -229228930
+      BossDevil_SPUM_Cinematic_48_R1_F5: -242392520
+      BossDevil_SPUM_Cinematic_48_R1_F6: -422466118
+      BossDevil_SPUM_Cinematic_48_R1_F7: 456707190
+      BossDevil_SPUM_Cinematic_48_R2_F0: -1374345050
+      BossDevil_SPUM_Cinematic_48_R2_F1: 254345681
+      BossDevil_SPUM_Cinematic_48_R2_F2: -1498665742
+      BossDevil_SPUM_Cinematic_48_R2_F3: 371447845
+      BossDevil_SPUM_Cinematic_48_R2_F4: 201331514
+      BossDevil_SPUM_Cinematic_48_R2_F5: -779419545
+      BossDevil_SPUM_Cinematic_48_R2_F6: -1573338917
+      BossDevil_SPUM_Cinematic_48_R2_F7: -2035180656
+      BossDevil_SPUM_Cinematic_48_R3_F0: 1045750510
+      BossDevil_SPUM_Cinematic_48_R3_F1: -450777416
+      BossDevil_SPUM_Cinematic_48_R3_F2: -1498032879
+      BossDevil_SPUM_Cinematic_48_R3_F3: 529784423
+      BossDevil_SPUM_Cinematic_48_R3_F4: -1311559245
+      BossDevil_SPUM_Cinematic_48_R3_F5: -790040287
+      BossDevil_SPUM_Cinematic_48_R3_F6: -174293382
+      BossDevil_SPUM_Cinematic_48_R3_F7: -1253323588
+      BossDevil_SPUM_Cinematic_48_R4_F0: 2104487953
+      BossDevil_SPUM_Cinematic_48_R4_F1: -195865210
+      BossDevil_SPUM_Cinematic_48_R4_F2: 324540629
+      BossDevil_SPUM_Cinematic_48_R4_F3: 990055297
+      BossDevil_SPUM_Cinematic_48_R4_F4: -421780527
+      BossDevil_SPUM_Cinematic_48_R4_F5: -1882143893
+      BossDevil_SPUM_Cinematic_48_R4_F6: -1762877463
+      BossDevil_SPUM_Cinematic_48_R4_F7: 2079579873
+      BossDevil_SPUM_Cinematic_48_R5_F0: -2058105346
+      BossDevil_SPUM_Cinematic_48_R5_F1: 476328974
+      BossDevil_SPUM_Cinematic_48_R5_F2: -1837549376
+      BossDevil_SPUM_Cinematic_48_R5_F3: 1469910398
+      BossDevil_SPUM_Cinematic_48_R5_F4: 128579906
+      BossDevil_SPUM_Cinematic_48_R5_F5: -451342680
+      BossDevil_SPUM_Cinematic_48_R5_F6: 10428246
+      BossDevil_SPUM_Cinematic_48_R5_F7: 1672612084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

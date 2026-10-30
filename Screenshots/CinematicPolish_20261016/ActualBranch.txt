@@ -1,0 +1,8 @@
+Actual TV marker, caption=<color=#9BAAB7><b>TRƯỞNG LÀNG</b></color>
+Ta không hiểu…, softAlpha=0.72
+Capture root canvases=Canvas:ScreenSpaceCamera;CinematicPresentationCanvas:ScreenSpaceCamera;CinematicGlitchCanvas:ScreenSpaceOverlay
+Actual director drift during pause=0, sameLine=True
+Choice reached=True, time=45.3515065745451, camera target null=True
+Canvas restoration=Canvas:ScreenSpaceOverlay;CinematicPresentationCanvas:ScreenSpaceOverlay;CinematicGlitchCanvas:ScreenSpaceOverlay
+Actual branch battle labels=PHÁP SƯ HẮC HÓA  146 / 146 | CON TRỎ  88 / 100
+COMPLETE

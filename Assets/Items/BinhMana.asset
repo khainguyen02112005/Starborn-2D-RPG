@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2be552394416214ab7e2a7010b75895, type: 3}
+  m_Name: BinhMana
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: "B\xECnh Mana"
+  itemIcon: {fileID: -855298285791758126, guid: 220b339cb48648240a58431589e64396, type: 3}
+  itemType: 3
+  weaponKind: 0
+  rarity: 1
+  baseDamage: 0
+  baseDefense: 0
+  healAmount: 0
+  manaAmount: 3
+  basePrice: 12

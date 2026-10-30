@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72b93613c55c04f428818233817a642a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Rendering Pipeline/New Universal Render Pipeline
+    Asset_Renderer.asset
+  uploadId: 905652

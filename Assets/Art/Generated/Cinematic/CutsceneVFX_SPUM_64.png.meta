@@ -1,0 +1,1695 @@
+fileFormatVersion: 2
+guid: 9ab4f5ce6f18a804c83dcc599346a3a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6322495497403237014
+    second: CutsceneVFX_SPUM_64_0
+  - first:
+      213: 1841308144533238606
+    second: CutsceneVFX_SPUM_64_1
+  - first:
+      213: -5614764235368991449
+    second: CutsceneVFX_SPUM_64_2
+  - first:
+      213: 4256387568450968354
+    second: CutsceneVFX_SPUM_64_3
+  - first:
+      213: -712703171327066395
+    second: CutsceneVFX_SPUM_64_4
+  - first:
+      213: -8005717073887913754
+    second: CutsceneVFX_SPUM_64_5
+  - first:
+      213: 1858920693976766882
+    second: CutsceneVFX_SPUM_64_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ac77fe9dfadb643aeb407dc394b91f
+      internalID: 1003266812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2dd44ff095194a87745bc91b5e5aa
+      internalID: 2082397313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40a05960f90814481693f5495aa93c
+      internalID: 331517552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d7cb9d325a4bd49b4f15b96c37387b
+      internalID: -580572960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500ae1b90f1cf844a6e3d56872ff828
+      internalID: 928902361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896133e18daadf4794a909ef0509e38
+      internalID: 269465898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245842049d974d04b9c9bac67c62bedb
+      internalID: -504825190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195871ef69a26a04f96589866fd37a2f
+      internalID: 1539384952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bb49c015ed684c8c94ec21d08603d
+      internalID: -1155437812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0916b50ab5436d1428df442d89181fc6
+      internalID: 281834413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720736b3b1dae241a6a6f5b25de7948
+      internalID: -1265821951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0383273e9c4d844b4d1eea779b0b98
+      internalID: -1423432242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79414f4adcb4a4b88f82723d822439
+      internalID: -643749611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c517bcc61404c49b47ffad6a9b442d
+      internalID: 558428149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d04ceb6eba2a143841374012a59e71
+      internalID: 1791062805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e15478463716498944ddc3efb569f
+      internalID: 663420081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e306e84616b94ca34829cdb870a0e
+      internalID: 1550940511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6993a06068d5624e912a6449401d84e
+      internalID: -1842490701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429f1e345d39b44ab8787717744e4b2
+      internalID: 486406595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87730a969ec6c4fa00b590245a7786
+      internalID: -1162109833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ddd26b8b13de41a1ba2c3d638ad61
+      internalID: 1161183100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842742d2a5ca3141a59294f4116c0be
+      internalID: 1333414085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84547555721ed814795bfeeef1b84323
+      internalID: -615557451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be342c9a884624388f342b343285e1
+      internalID: 358666496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8714b330d78054586a591ff05f88b3
+      internalID: -834478415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45885c35fea2d6241a28ed6576cce19d
+      internalID: 667924297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb71ca99249ff4690a73bf4959e9d2
+      internalID: 1459640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d2cfa80f0a584ba540d27c2d51834
+      internalID: 720540100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd97224c6e4ad641a4af7c98c557626
+      internalID: -905461431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8f9f82c2483d44a141196786c4fed
+      internalID: 1641493118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a541531c4fab2df4e9d82873a1fb5858
+      internalID: -693432147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a486f0ff77091449dede11bcaab4f6
+      internalID: -391895709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97185ad9b74e38349a36c0acb152588c
+      internalID: -270725184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a9c3c3a7c2d144a9ba0a1dbc082265
+      internalID: -2025503659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a556899c3637afc41beed32acfda1655
+      internalID: -1614845919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050df034b8ba78498ecb05a6a7938ca
+      internalID: -1077788848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706cb740ac852844a6b8c237e74470e
+      internalID: -2019340182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc83c691a2d0ff4f805252d8cbf8751
+      internalID: -230651028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c765d32cf0eeb4e985d0f9e5f02b5c
+      internalID: 1065008577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8225c7def2ae49458839eefeeeeb5a1
+      internalID: -214897616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b105d074cbb7946a407c2d97d7935b
+      internalID: 1835358380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26749b222eeeacd4381c2d54b2a5766a
+      internalID: -1952888927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5525ad8f1cb0864a9a9fd8b2860881d
+      internalID: 1581926026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d64d487f8c08c4eb46175b040339c6
+      internalID: 1903897472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8578fdc16aa346bf41ae604dd3019
+      internalID: 308904704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e366eedee8e6f24ca9339fd05c2798e
+      internalID: 1158965074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531fd51d1d4d4b4ebdb65b7244e703a
+      internalID: -1558039188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c8564d9767c141b6b8b2309929068
+      internalID: 38761813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e804b806e5c3df4da9a20469567cf5f
+      internalID: -1381532873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddba4b58f37f84499a65100e55b08c
+      internalID: 221080184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a3b07c936366459d803a1a262e4e6
+      internalID: -226071053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd59c54280eb84e94b1d5ad92fcb23
+      internalID: 947744362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0431522a720a71e40af454f5f8950eae
+      internalID: 218672048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe3466619eb3d45a105aa6de897484
+      internalID: 1233377272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2a2db856dc4a47a0528f8a452c65e
+      internalID: 259561403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R6_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0a1fa2f8dab3b4c84c2ea135732caa
+      internalID: 1488969030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f2ebc859c0a048ae4c1283719fdf7
+      internalID: -1988013911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7b135d11f64b4593e8baf76092750
+      internalID: 742861828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fbd7e7837c6d44fb30952ae3866968
+      internalID: -1765021776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f8d5ccf63c744ab834938fb189441
+      internalID: -1286876984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f292a3f26d0a429ab86316e3c1bd3
+      internalID: 1605527932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e610b2f42262a48a64182c8b310491
+      internalID: -1864007124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11577678481f53409ea1189c16c2241
+      internalID: 978051224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CutsceneVFX_SPUM_64_R7_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080e42f1fcf6154b9deff32913ab73a
+      internalID: 2128325590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f15b94a52941f874695736f45022be77
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CutsceneVFX_SPUM_64_0: 6322495497403237014
+      CutsceneVFX_SPUM_64_1: 1841308144533238606
+      CutsceneVFX_SPUM_64_2: -5614764235368991449
+      CutsceneVFX_SPUM_64_3: 4256387568450968354
+      CutsceneVFX_SPUM_64_4: -712703171327066395
+      CutsceneVFX_SPUM_64_5: -8005717073887913754
+      CutsceneVFX_SPUM_64_6: 1858920693976766882
+      CutsceneVFX_SPUM_64_R0_F0: 1003266812
+      CutsceneVFX_SPUM_64_R0_F1: 2082397313
+      CutsceneVFX_SPUM_64_R0_F2: 331517552
+      CutsceneVFX_SPUM_64_R0_F3: -580572960
+      CutsceneVFX_SPUM_64_R0_F4: 928902361
+      CutsceneVFX_SPUM_64_R0_F5: 269465898
+      CutsceneVFX_SPUM_64_R0_F6: -504825190
+      CutsceneVFX_SPUM_64_R0_F7: 1539384952
+      CutsceneVFX_SPUM_64_R1_F0: -1155437812
+      CutsceneVFX_SPUM_64_R1_F1: 281834413
+      CutsceneVFX_SPUM_64_R1_F2: -1265821951
+      CutsceneVFX_SPUM_64_R1_F3: -1423432242
+      CutsceneVFX_SPUM_64_R1_F4: -643749611
+      CutsceneVFX_SPUM_64_R1_F5: 558428149
+      CutsceneVFX_SPUM_64_R1_F6: 1791062805
+      CutsceneVFX_SPUM_64_R1_F7: 663420081
+      CutsceneVFX_SPUM_64_R2_F0: 1550940511
+      CutsceneVFX_SPUM_64_R2_F1: -1842490701
+      CutsceneVFX_SPUM_64_R2_F2: 486406595
+      CutsceneVFX_SPUM_64_R2_F3: -1162109833
+      CutsceneVFX_SPUM_64_R2_F4: 1161183100
+      CutsceneVFX_SPUM_64_R2_F5: 1333414085
+      CutsceneVFX_SPUM_64_R2_F6: -615557451
+      CutsceneVFX_SPUM_64_R2_F7: 358666496
+      CutsceneVFX_SPUM_64_R3_F0: -834478415
+      CutsceneVFX_SPUM_64_R3_F1: 667924297
+      CutsceneVFX_SPUM_64_R3_F2: 1459640790
+      CutsceneVFX_SPUM_64_R3_F3: 720540100
+      CutsceneVFX_SPUM_64_R3_F4: -905461431
+      CutsceneVFX_SPUM_64_R3_F5: 1641493118
+      CutsceneVFX_SPUM_64_R3_F6: -693432147
+      CutsceneVFX_SPUM_64_R3_F7: -391895709
+      CutsceneVFX_SPUM_64_R4_F0: -270725184
+      CutsceneVFX_SPUM_64_R4_F1: -2025503659
+      CutsceneVFX_SPUM_64_R4_F2: -1614845919
+      CutsceneVFX_SPUM_64_R4_F3: -1077788848
+      CutsceneVFX_SPUM_64_R4_F4: -2019340182
+      CutsceneVFX_SPUM_64_R4_F5: -230651028
+      CutsceneVFX_SPUM_64_R4_F6: 1065008577
+      CutsceneVFX_SPUM_64_R4_F7: -214897616
+      CutsceneVFX_SPUM_64_R5_F0: 1835358380
+      CutsceneVFX_SPUM_64_R5_F1: -1952888927
+      CutsceneVFX_SPUM_64_R5_F2: 1581926026
+      CutsceneVFX_SPUM_64_R5_F3: 1903897472
+      CutsceneVFX_SPUM_64_R5_F4: 308904704
+      CutsceneVFX_SPUM_64_R5_F5: 1158965074
+      CutsceneVFX_SPUM_64_R5_F6: -1558039188
+      CutsceneVFX_SPUM_64_R5_F7: 38761813
+      CutsceneVFX_SPUM_64_R6_F0: -1381532873
+      CutsceneVFX_SPUM_64_R6_F1: 221080184
+      CutsceneVFX_SPUM_64_R6_F2: -226071053
+      CutsceneVFX_SPUM_64_R6_F3: 947744362
+      CutsceneVFX_SPUM_64_R6_F4: 218672048
+      CutsceneVFX_SPUM_64_R6_F5: 1233377272
+      CutsceneVFX_SPUM_64_R6_F6: 259561403
+      CutsceneVFX_SPUM_64_R6_F7: 1488969030
+      CutsceneVFX_SPUM_64_R7_F0: -1988013911
+      CutsceneVFX_SPUM_64_R7_F1: 742861828
+      CutsceneVFX_SPUM_64_R7_F2: -1765021776
+      CutsceneVFX_SPUM_64_R7_F3: -1286876984
+      CutsceneVFX_SPUM_64_R7_F4: 1605527932
+      CutsceneVFX_SPUM_64_R7_F5: -1864007124
+      CutsceneVFX_SPUM_64_R7_F6: 978051224
+      CutsceneVFX_SPUM_64_R7_F7: 2128325590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

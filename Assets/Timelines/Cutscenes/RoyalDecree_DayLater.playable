@@ -1,0 +1,922 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8927305649486032705
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 18.45
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "\u0110\xF3 l\xE0 nh\u1EEFng g\xEC \u0111\u01B0\u1EE3c vi\u1EBFt trong s\u1EAFc
+    l\u1EC7nh. Nh\u01B0ng r\u1EA5t nhi\u1EC1u chi\u1EBFn binh \u0111\xE3 \u0111\u1EBFn
+    \u0111\xF3 v\xE0 kh\xF4ng ai quay tr\u1EDF v\u1EC1."
+  variant: 0
+--- !u!114 &-8889309733132784894
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 26.5
+  action: 31
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-8415079265481218295
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 0.1
+  action: 30
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-7816961024080195062
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 29.4
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-7534255167356053857
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 29.5
+  action: 1
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-6468180948617244219
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 7.45
+  action: 28
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-6059487720611583884
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 17.4
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "Nh\xE0 vua tuy\xEAn b\u1ED1 r\u1EB1ng b\u1EA5t k\u1EF3 ai ti\xEAu di\u1EC7t
+    \u0111\u01B0\u1EE3c n\xF3 s\u1EBD nh\u1EADn \u0111\u01B0\u1EE3c m\u1ED9t \u0111i\u1EC1u
+    \u01B0\u1EDBc."
+  variant: 0
+--- !u!114 &-6003378147257726312
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 4.65
+  action: 29
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-5996528655719729390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 8.1
+  action: 31
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &-5903993389376955615
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 30.5
+  action: 39
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-5309958387759358141
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 33.7
+  action: 1
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-4942600083871784794
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 9.299999999999999
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-4663658212568349258
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 16
+  action: 36
+  speaker: 
+  line: 
+  variant: 5
+--- !u!114 &-4350869302829321663
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 22.3
+  action: 31
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-2663387616934253669
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 4.45
+  action: 28
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-2473236004514953399
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 22.35
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "N\u1EBFu con qu\xE1i v\u1EADt \u0111\xF3 \u0111e d\u1ECDa ng\xF4i l\xE0ng
+    th\xEC t\xF4i kh\xF4ng th\u1EC3 \u0111\u1EE9ng y\xEAn \u0111\u01B0\u1EE3c."
+  variant: 0
+--- !u!114 &-1630114336473935637
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 18.4
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-1562015425737709304
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 20.2
+  action: 31
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &-1088476935685121200
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 29.65
+  action: 30
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &-53882022454097929
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 20.25
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "M\u1ED9t \u0111i\u1EC1u \u01B0\u1EDBc\u2026 b\u1EA5t k\u1EF3 \u0111i\u1EC1u
+    g\xEC sao?"
+  variant: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+  m_Name: RoyalDecree_DayLater
+  m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.TimelineAsset
+  m_Version: 0
+  m_Tracks: []
+  m_FixedDuration: 35.699999999999
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 1
+  m_MarkerTrack: {fileID: 4085611750395794343}
+--- !u!114 &970415669349274328
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 7.65
+  action: 29
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &1502696906332434595
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 16.05
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "M\u1ED9t \u0111i\u1EC1u \u01B0\u1EDBc\u2026 b\u1EA5t k\u1EF3 \u0111i\u1EC1u
+    g\xEC sao?"
+  variant: 0
+--- !u!114 &1524512797905743520
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 5
+  action: 34
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &2381731816414179679
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 33.85
+  action: 30
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &2566860544308472833
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 0
+  action: 26
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &2935019148931874438
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 8.15
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "C\xF3 chuy\u1EC7n g\xEC x\u1EA3y ra sao?"
+  variant: 0
+--- !u!114 &3124911567686333026
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 13.2
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "Nh\xE0 vua tuy\xEAn b\u1ED1 r\u1EB1ng b\u1EA5t k\u1EF3 ai ti\xEAu di\u1EC7t
+    \u0111\u01B0\u1EE3c n\xF3 s\u1EBD nh\u1EADn \u0111\u01B0\u1EE3c m\u1ED9t \u0111i\u1EC1u
+    \u01B0\u1EDBc."
+  variant: 0
+--- !u!114 &3275091021122104176
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 2.05
+  action: 27
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &3306969271481534546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 10.25
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "M\u1ED9t con qu\xE1i v\u1EADt kh\u1ED5ng l\u1ED3 \u0111\xE3 xu\u1EA5t hi\u1EC7n
+    t\u1EA1i v\xF9ng \u0111\u1EA5t ph\xEDa b\xEAn kia khu r\u1EEBng."
+  variant: 0
+--- !u!114 &3325178441646776217
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 25.2
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &3661567113816533169
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 0.1
+  action: 30
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &4085611750395794343
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+  m_Name: Markers
+  m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.MarkerTrack
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips: []
+  m_Markers:
+    m_Objects:
+    - {fileID: 2566860544308472833}
+    - {fileID: -8415079265481218295}
+    - {fileID: 1524512797905743520}
+    - {fileID: 5844070551484545511}
+    - {fileID: -6468180948617244219}
+    - {fileID: 970415669349274328}
+    - {fileID: -4942600083871784794}
+    - {fileID: 5772014929220544268}
+    - {fileID: 8102799216272890440}
+    - {fileID: 6333662135078931418}
+    - {fileID: 7723372005003255623}
+    - {fileID: 5254234434795214774}
+    - {fileID: -6059487720611583884}
+    - {fileID: -1562015425737709304}
+    - {fileID: 5845255339923566800}
+    - {fileID: -53882022454097929}
+    - {fileID: 6632344734227133916}
+    - {fileID: 9023044341635087216}
+    - {fileID: -8889309733132784894}
+    - {fileID: 5437755059395835832}
+    - {fileID: -7816961024080195062}
+    - {fileID: 5387215382145577726}
+    - {fileID: -5309958387759358141}
+    - {fileID: 2381731816414179679}
+--- !u!114 &4297882936170513144
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 10.2
+  action: 32
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &4489539376243659887
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 5.15
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "C\u1EADu \u0111\u1EBFn \u0111\xFAng l\xFAc. S\xE1ng nay, s\u1EE9 gi\u1EA3
+    c\u1EE7a nh\xE0 vua v\u1EEBa mang \u0111\u1EBFn m\u1ED9t s\u1EAFc l\u1EC7nh."
+  variant: 0
+--- !u!114 &5254234434795214774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 14.45
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "M\u1ED9t con qu\xE1i v\u1EADt kh\u1ED5ng l\u1ED3 \u0111\xE3 xu\u1EA5t hi\u1EC7n
+    t\u1EA1i v\xF9ng \u0111\u1EA5t ph\xEDa b\xEAn kia khu r\u1EEBng."
+  variant: 0
+--- !u!114 &5387215382145577726
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 29.45
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "Ta bi\u1EBFt c\u1EADu s\u1EBD n\xF3i nh\u01B0 v\u1EADy. H\xE3y chu\u1EA9n
+    b\u1ECB th\u1EADt k\u1EF9 trang b\u1ECB r\u1ED3i \u0111i theo con \u0111\u01B0\u1EDDng
+    ph\xEDa b\u1EAFc. N\u01A1i \u0111\xF3 r\u1EA5t nguy hi\u1EC3m."
+  variant: 0
+--- !u!114 &5437755059395835832
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 26.55
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "N\u1EBFu con qu\xE1i v\u1EADt \u0111\xF3 \u0111e d\u1ECDa ng\xF4i l\xE0ng
+    th\xEC t\xF4i kh\xF4ng th\u1EC3 \u0111\u1EE9ng y\xEAn \u0111\u01B0\u1EE3c."
+  variant: 0
+--- !u!114 &5772014929220544268
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 9.35
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "C\u1EADu \u0111\u1EBFn \u0111\xFAng l\xFAc. S\xE1ng nay, s\u1EE9 gi\u1EA3
+    c\u1EE7a nh\xE0 vua v\u1EEBa mang \u0111\u1EBFn m\u1ED9t s\u1EAFc l\u1EC7nh."
+  variant: 0
+--- !u!114 &5844070551484545511
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 5.05
+  action: 27
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &5845255339923566800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 20.2
+  action: 36
+  speaker: 
+  line: 
+  variant: 5
+--- !u!114 &6333662135078931418
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 12.35
+  action: 0
+  speaker: "NH\xC2N V\u1EACT"
+  line: "C\xF3 chuy\u1EC7n g\xEC x\u1EA3y ra sao?"
+  variant: 0
+--- !u!114 &6632344734227133916
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 22.599999999999998
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &7000380130493861038
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 2
+  action: 34
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &7723372005003255623
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 14.399999999999999
+  action: 32
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &8021047218868765990
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 25.25
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "Ta bi\u1EBFt c\u1EADu s\u1EBD n\xF3i nh\u01B0 v\u1EADy. H\xE3y chu\u1EA9n
+    b\u1ECB th\u1EADt k\u1EF9 trang b\u1ECB r\u1ED3i \u0111i theo con \u0111\u01B0\u1EDDng
+    ph\xEDa b\u1EAFc. N\u01A1i \u0111\xF3 r\u1EA5t nguy hi\u1EC3m."
+  variant: 0
+--- !u!114 &8102799216272890440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 12.299999999999999
+  action: 31
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &8746744403709431724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 0
+  action: 26
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &8812772577662793972
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 16
+  action: 31
+  speaker: 
+  line: 
+  variant: 1
+--- !u!114 &9012944165941953787
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 5.1
+  action: 32
+  speaker: 
+  line: 
+  variant: 0
+--- !u!114 &9023044341635087216
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 780ddf4809df2a24a941bda7294e9746, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CinematicEventMarker
+  m_Time: 22.65
+  action: 0
+  speaker: "TR\u01AF\u1EDENG L\xC0NG"
+  line: "\u0110\xF3 l\xE0 nh\u1EEFng g\xEC \u0111\u01B0\u1EE3c vi\u1EBFt trong s\u1EAFc
+    l\u1EC7nh. Nh\u01B0ng r\u1EA5t nhi\u1EC1u chi\u1EBFn binh \u0111\xE3 \u0111\u1EBFn
+    \u0111\xF3 v\xE0 kh\xF4ng ai quay tr\u1EDF v\u1EC1."
+  variant: 0

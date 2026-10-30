@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: a19e5b547a7041d4fa5854dc9beb1cec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7516342049021962738
+    second: Dialogue_0
+  - first:
+      213: -172192467049273162
+    second: Dialogue_1
+  - first:
+      213: -7002591632548783677
+    second: Dialogue_2
+  - first:
+      213: -4946353298178126165
+    second: Dialogue_3
+  - first:
+      213: -4882818356891140405
+    second: Dialogue_4
+  - first:
+      213: 3790782063750013156
+    second: Dialogue_5
+  - first:
+      213: 212800517948738547
+    second: Dialogue_6
+  - first:
+      213: 1704218571550780889
+    second: Dialogue_7
+  - first:
+      213: 3048020413498598067
+    second: Dialogue_8
+  - first:
+      213: -8495150127767222993
+    second: Dialogue_9
+  - first:
+      213: -5845932354217132606
+    second: Dialogue_10
+  - first:
+      213: 8124537516959960909
+    second: Dialogue_11
+  - first:
+      213: 176188966346875069
+    second: Dialogue_12
+  - first:
+      213: -8882421593653497431
+    second: Dialogue_13
+  - first:
+      213: 8835610439483514435
+    second: Dialogue_14
+  - first:
+      213: -2083868275225470082
+    second: Dialogue_15
+  - first:
+      213: 6812486279138372781
+    second: Dialogue_16
+  - first:
+      213: -5799181322592312537
+    second: Dialogue_17
+  - first:
+      213: 1928290627617216843
+    second: Dialogue_18
+  - first:
+      213: -5076567233482867984
+    second: Dialogue_19
+  - first:
+      213: -3774700427950654233
+    second: Dialogue_20
+  - first:
+      213: -8541515172512369733
+    second: Dialogue_21
+  - first:
+      213: 5293194254822986528
+    second: Dialogue_22
+  - first:
+      213: -7368535759094963139
+    second: Dialogue_23
+  - first:
+      213: 3092491837798593190
+    second: Dialogue_24
+  - first:
+      213: 9175513824780576611
+    second: Dialogue_25
+  - first:
+      213: -4032907773802041355
+    second: Dialogue_26
+  - first:
+      213: 7319739340215625342
+    second: Dialogue_27
+  - first:
+      213: 6094261026175999438
+    second: Dialogue_28
+  - first:
+      213: -2499527193593536461
+    second: Dialogue_29
+  - first:
+      213: 7199463055456946719
+    second: Dialogue_30
+  - first:
+      213: -777413022786367045
+    second: Dialogue_31
+  - first:
+      213: -8099586459533101205
+    second: Dialogue_32
+  - first:
+      213: -1404365950903784461
+    second: Dialogue_33
+  - first:
+      213: 9069211775867051103
+    second: Dialogue_34
+  - first:
+      213: -36090369874052091
+    second: Dialogue_35
+  - first:
+      213: -7008292024396551966
+    second: Dialogue_36
+  - first:
+      213: -998428161905416424
+    second: Dialogue_37
+  - first:
+      213: 3209200004590005565
+    second: Dialogue_38
+  - first:
+      213: -8426152164924893319
+    second: Dialogue_39
+  - first:
+      213: 5892892235276587396
+    second: Dialogue_40
+  - first:
+      213: -8983208612488367967
+    second: Dialogue_41
+  - first:
+      213: 4869792205934151207
+    second: Dialogue_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialogue
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 204
+        width: 2052
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 64, z: 100, w: 64}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06d6bdcab690b790800000000000000
+      internalID: -7516342049021962738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0baa91c94d5904542abace26f29f44f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dialogue: -7516342049021962738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cf9f374735ffd94b8254133241ee0c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/OvenDoor2.controller
+  uploadId: 905652

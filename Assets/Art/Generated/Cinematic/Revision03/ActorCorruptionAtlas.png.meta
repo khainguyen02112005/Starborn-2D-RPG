@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 7b668cca69d579e4dbdc04b8464c5f58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7202055241148653511
+    second: ActorCorruptionAtlas_0
+  - first:
+      213: 3703508597211472243
+    second: ActorCorruptionAtlas_1
+  - first:
+      213: -5702882725632656157
+    second: ActorCorruptionAtlas_2
+  - first:
+      213: 1957870679848696126
+    second: ActorCorruptionAtlas_3
+  - first:
+      213: 5318063781756920311
+    second: ActorCorruptionAtlas_4
+  - first:
+      213: -2629949963804304919
+    second: ActorCorruptionAtlas_5
+  - first:
+      213: -8591160447006144633
+    second: ActorCorruptionAtlas_6
+  - first:
+      213: -4600739116172099712
+    second: ActorCorruptionAtlas_7
+  - first:
+      213: 5572683217557445887
+    second: ActorCorruptionAtlas_8
+  - first:
+      213: -8409940015054884395
+    second: ActorCorruptionAtlas_9
+  - first:
+      213: 8703527564517016744
+    second: ActorCorruptionAtlas_10
+  - first:
+      213: 4763641668244829925
+    second: ActorCorruptionAtlas_11
+  - first:
+      213: -6460392320011237722
+    second: ActorCorruptionAtlas_12
+  - first:
+      213: 23045138024376667
+    second: ActorCorruptionAtlas_13
+  - first:
+      213: 9129333035966200673
+    second: ActorCorruptionAtlas_14
+  - first:
+      213: 8773173210733356471
+    second: ActorCorruptionAtlas_15
+  - first:
+      213: -6260391670897245988
+    second: ActorCorruptionAtlas_16
+  - first:
+      213: 3827944880695398246
+    second: ActorCorruptionAtlas_17
+  - first:
+      213: -7892631809284425685
+    second: ActorCorruptionAtlas_18
+  - first:
+      213: 4548152092028911511
+    second: ActorCorruptionAtlas_19
+  - first:
+      213: 1513347808374370668
+    second: ActorCorruptionAtlas_20
+  - first:
+      213: 6033670926141845732
+    second: ActorCorruptionAtlas_21
+  - first:
+      213: 8893678896418154379
+    second: ActorCorruptionAtlas_22
+  - first:
+      213: -555069063809947742
+    second: ActorCorruptionAtlas_23
+  - first:
+      213: 449204140776399904
+    second: ActorCorruptionAtlas_24
+  - first:
+      213: -4456742443046175348
+    second: ActorCorruptionAtlas_25
+  - first:
+      213: 1488110558827300017
+    second: ActorCorruptionAtlas_26
+  - first:
+      213: 5877447826623473890
+    second: ActorCorruptionAtlas_27
+  - first:
+      213: 4501659963552203974
+    second: ActorCorruptionAtlas_28
+  - first:
+      213: -8620981788525572009
+    second: ActorCorruptionAtlas_29
+  - first:
+      213: 1998759937910087685
+    second: ActorCorruptionAtlas_30
+  - first:
+      213: 3255143112476367458
+    second: ActorCorruptionAtlas_31
+  - first:
+      213: -4978256959517197662
+    second: ActorCorruptionAtlas_32
+  - first:
+      213: 1688635933421084426
+    second: ActorCorruptionAtlas_33
+  - first:
+      213: 9081186358674342224
+    second: ActorCorruptionAtlas_34
+  - first:
+      213: -4166452202679114077
+    second: ActorCorruptionAtlas_35
+  - first:
+      213: -3414117992366317459
+    second: ActorCorruptionAtlas_36
+  - first:
+      213: 6321843428896944297
+    second: ActorCorruptionAtlas_37
+  - first:
+      213: 6837436369105583876
+    second: ActorCorruptionAtlas_38
+  - first:
+      213: -2012108797841710944
+    second: ActorCorruptionAtlas_39
+  - first:
+      213: 4921041032723022842
+    second: ActorCorruptionAtlas_40
+  - first:
+      213: -5963269180617534063
+    second: ActorCorruptionAtlas_41
+  - first:
+      213: -2759871174271536872
+    second: ActorCorruptionAtlas_42
+  - first:
+      213: 5929511058491345384
+    second: ActorCorruptionAtlas_43
+  - first:
+      213: -1873544459779491630
+    second: ActorCorruptionAtlas_44
+  - first:
+      213: -3570717293558418813
+    second: ActorCorruptionAtlas_45
+  - first:
+      213: 4891624849015254655
+    second: ActorCorruptionAtlas_46
+  - first:
+      213: 522527618088767759
+    second: ActorCorruptionAtlas_47
+  - first:
+      213: -2911231778353607945
+    second: ActorCorruptionAtlas_48
+  - first:
+      213: 7779777655868277636
+    second: ActorCorruptionAtlas_49
+  - first:
+      213: -728106850429539723
+    second: ActorCorruptionAtlas_50
+  - first:
+      213: -2902447458431214942
+    second: Corruption_0_0
+  - first:
+      213: 1798084046376675332
+    second: Corruption_0_1
+  - first:
+      213: -3815286375428055798
+    second: Corruption_0_2
+  - first:
+      213: 8773127890527958889
+    second: Corruption_0_3
+  - first:
+      213: -5956792994076732559
+    second: Corruption_0_4
+  - first:
+      213: -3616380922137699265
+    second: Corruption_0_5
+  - first:
+      213: 8784268128373027596
+    second: Corruption_0_6
+  - first:
+      213: 372919764020917966
+    second: Corruption_0_7
+  - first:
+      213: -7398934132529349349
+    second: Corruption_1_0
+  - first:
+      213: 2677381861568673314
+    second: Corruption_1_1
+  - first:
+      213: 3498371899130774288
+    second: Corruption_1_2
+  - first:
+      213: -5792885545192306719
+    second: Corruption_1_3
+  - first:
+      213: 3119873661993535976
+    second: Corruption_1_4
+  - first:
+      213: 401452659762117013
+    second: Corruption_1_5
+  - first:
+      213: -8983052160421542553
+    second: Corruption_1_6
+  - first:
+      213: -3840373073621230458
+    second: Corruption_1_7
+  - first:
+      213: 2887227468560097118
+    second: Corruption_2_0
+  - first:
+      213: -3294735562702695009
+    second: Corruption_2_1
+  - first:
+      213: -4785922834587168507
+    second: Corruption_2_2
+  - first:
+      213: 1031507556406106932
+    second: Corruption_2_3
+  - first:
+      213: 7806399526884172141
+    second: Corruption_2_4
+  - first:
+      213: -2576635079696121850
+    second: Corruption_2_5
+  - first:
+      213: 1806790933185318385
+    second: Corruption_2_6
+  - first:
+      213: 2027590260139281774
+    second: Corruption_2_7
+  - first:
+      213: -6465583372272435084
+    second: Corruption_3_0
+  - first:
+      213: -5598453172334899493
+    second: Corruption_3_1
+  - first:
+      213: 2664761834611739850
+    second: Corruption_3_2
+  - first:
+      213: -8069040866355283054
+    second: Corruption_3_3
+  - first:
+      213: -899318362398292339
+    second: Corruption_3_4
+  - first:
+      213: 904060472198982996
+    second: Corruption_3_5
+  - first:
+      213: 1310653294468882276
+    second: Corruption_3_6
+  - first:
+      213: 9051728769115529650
+    second: Corruption_3_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corruption_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aad8f41a6f68b7d0800000000000000
+      internalID: -2902447458431214942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_1
+      rect:
+        serializedVersion: 2
+        x: 221.75
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408249cd9e314f810800000000000000
+      internalID: 1798084046376675332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_2
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d193c71416d0bc0800000000000000
+      internalID: -3815286375428055798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_3
+      rect:
+        serializedVersion: 2
+        x: 665.25
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967bdfb955960c970800000000000000
+      internalID: 8773127890527958889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17355831558355da0800000000000000
+      internalID: -5956792994076732559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_5
+      rect:
+        serializedVersion: 2
+        x: 1108.75
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c9b7336b800ddc0800000000000000
+      internalID: -3616380922137699265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_6
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03b57b525df7e970800000000000000
+      internalID: 8784268128373027596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_0_7
+      rect:
+        serializedVersion: 2
+        x: 1552.25
+        y: 665.25
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67030bc80ec2500800000000000000
+      internalID: 372919764020917966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d33129b94b15990800000000000000
+      internalID: -7398934132529349349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_1
+      rect:
+        serializedVersion: 2
+        x: 221.75
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ffd22e98f72520800000000000000
+      internalID: 2677381861568673314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_2
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01306e305b6bc8030800000000000000
+      internalID: 3498371899130774288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_3
+      rect:
+        serializedVersion: 2
+        x: 665.25
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e74156e9498b9fa0800000000000000
+      internalID: -5792885545192306719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c837d0940c4b20800000000000000
+      internalID: 3119873661993535976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_5
+      rect:
+        serializedVersion: 2
+        x: 1108.75
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599b14b211f329500800000000000000
+      internalID: 401452659762117013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_6
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c44387a9c55380800000000000000
+      internalID: -8983052160421542553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_1_7
+      rect:
+        serializedVersion: 2
+        x: 1552.25
+        y: 443.5
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cd4d5690144bac0800000000000000
+      internalID: -3840373073621230458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5641e51e711820800000000000000
+      internalID: 2887227468560097118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_1
+      rect:
+        serializedVersion: 2
+        x: 221.75
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955244467fb642d0800000000000000
+      internalID: -3294735562702695009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_2
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5015002f98cf49db0800000000000000
+      internalID: -4785922834587168507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_3
+      rect:
+        serializedVersion: 2
+        x: 665.25
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b97ba48a6a05e00800000000000000
+      internalID: 1031507556406106932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6165b67207e55c60800000000000000
+      internalID: 7806399526884172141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_5
+      rect:
+        serializedVersion: 2
+        x: 1108.75
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60007eeeb04fd3cd0800000000000000
+      internalID: -2576635079696121850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_6
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd48ebe7c2031910800000000000000
+      internalID: 1806790933185318385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_2_7
+      rect:
+        serializedVersion: 2
+        x: 1552.25
+        y: 221.75
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dc4a55992732c10800000000000000
+      internalID: 2027590260139281774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4708706dd22a546a0800000000000000
+      internalID: -6465583372272435084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_1
+      rect:
+        serializedVersion: 2
+        x: 221.75
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec15b608c4e42b0800000000000000
+      internalID: -5598453172334899493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_2
+      rect:
+        serializedVersion: 2
+        x: 443.5
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc0d0325c22bf420800000000000000
+      internalID: 2664761834611739850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_3
+      rect:
+        serializedVersion: 2
+        x: 665.25
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b78ca6512050090800000000000000
+      internalID: -8069040866355283054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d868345d6baf483f0800000000000000
+      internalID: -899318362398292339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_5
+      rect:
+        serializedVersion: 2
+        x: 1108.75
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d64e4a53edb8c00800000000000000
+      internalID: 904060472198982996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_6
+      rect:
+        serializedVersion: 2
+        x: 1330.5
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f53882a30603210800000000000000
+      internalID: 1310653294468882276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corruption_3_7
+      rect:
+        serializedVersion: 2
+        x: 1552.25
+        y: 0
+        width: 221.75
+        height: 221.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1a05e7b533e9d70800000000000000
+      internalID: 9051728769115529650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ActorCorruptionAtlas_0: 7202055241148653511
+      ActorCorruptionAtlas_1: 3703508597211472243
+      ActorCorruptionAtlas_10: 8703527564517016744
+      ActorCorruptionAtlas_11: 4763641668244829925
+      ActorCorruptionAtlas_12: -6460392320011237722
+      ActorCorruptionAtlas_13: 23045138024376667
+      ActorCorruptionAtlas_14: 9129333035966200673
+      ActorCorruptionAtlas_15: 8773173210733356471
+      ActorCorruptionAtlas_16: -6260391670897245988
+      ActorCorruptionAtlas_17: 3827944880695398246
+      ActorCorruptionAtlas_18: -7892631809284425685
+      ActorCorruptionAtlas_19: 4548152092028911511
+      ActorCorruptionAtlas_2: -5702882725632656157
+      ActorCorruptionAtlas_20: 1513347808374370668
+      ActorCorruptionAtlas_21: 6033670926141845732
+      ActorCorruptionAtlas_22: 8893678896418154379
+      ActorCorruptionAtlas_23: -555069063809947742
+      ActorCorruptionAtlas_24: 449204140776399904
+      ActorCorruptionAtlas_25: -4456742443046175348
+      ActorCorruptionAtlas_26: 1488110558827300017
+      ActorCorruptionAtlas_27: 5877447826623473890
+      ActorCorruptionAtlas_28: 4501659963552203974
+      ActorCorruptionAtlas_29: -8620981788525572009
+      ActorCorruptionAtlas_3: 1957870679848696126
+      ActorCorruptionAtlas_30: 1998759937910087685
+      ActorCorruptionAtlas_31: 3255143112476367458
+      ActorCorruptionAtlas_32: -4978256959517197662
+      ActorCorruptionAtlas_33: 1688635933421084426
+      ActorCorruptionAtlas_34: 9081186358674342224
+      ActorCorruptionAtlas_35: -4166452202679114077
+      ActorCorruptionAtlas_36: -3414117992366317459
+      ActorCorruptionAtlas_37: 6321843428896944297
+      ActorCorruptionAtlas_38: 6837436369105583876
+      ActorCorruptionAtlas_39: -2012108797841710944
+      ActorCorruptionAtlas_4: 5318063781756920311
+      ActorCorruptionAtlas_40: 4921041032723022842
+      ActorCorruptionAtlas_41: -5963269180617534063
+      ActorCorruptionAtlas_42: -2759871174271536872
+      ActorCorruptionAtlas_43: 5929511058491345384
+      ActorCorruptionAtlas_44: -1873544459779491630
+      ActorCorruptionAtlas_45: -3570717293558418813
+      ActorCorruptionAtlas_46: 4891624849015254655
+      ActorCorruptionAtlas_47: 522527618088767759
+      ActorCorruptionAtlas_48: -2911231778353607945
+      ActorCorruptionAtlas_49: 7779777655868277636
+      ActorCorruptionAtlas_5: -2629949963804304919
+      ActorCorruptionAtlas_50: -728106850429539723
+      ActorCorruptionAtlas_6: -8591160447006144633
+      ActorCorruptionAtlas_7: -4600739116172099712
+      ActorCorruptionAtlas_8: 5572683217557445887
+      ActorCorruptionAtlas_9: -8409940015054884395
+      Corruption_0_0: -2902447458431214942
+      Corruption_0_1: 1798084046376675332
+      Corruption_0_2: -3815286375428055798
+      Corruption_0_3: 8773127890527958889
+      Corruption_0_4: -5956792994076732559
+      Corruption_0_5: -3616380922137699265
+      Corruption_0_6: 8784268128373027596
+      Corruption_0_7: 372919764020917966
+      Corruption_1_0: -7398934132529349349
+      Corruption_1_1: 2677381861568673314
+      Corruption_1_2: 3498371899130774288
+      Corruption_1_3: -5792885545192306719
+      Corruption_1_4: 3119873661993535976
+      Corruption_1_5: 401452659762117013
+      Corruption_1_6: -8983052160421542553
+      Corruption_1_7: -3840373073621230458
+      Corruption_2_0: 2887227468560097118
+      Corruption_2_1: -3294735562702695009
+      Corruption_2_2: -4785922834587168507
+      Corruption_2_3: 1031507556406106932
+      Corruption_2_4: 7806399526884172141
+      Corruption_2_5: -2576635079696121850
+      Corruption_2_6: 1806790933185318385
+      Corruption_2_7: 2027590260139281774
+      Corruption_3_0: -6465583372272435084
+      Corruption_3_1: -5598453172334899493
+      Corruption_3_2: 2664761834611739850
+      Corruption_3_3: -8069040866355283054
+      Corruption_3_4: -899318362398292339
+      Corruption_3_5: 904060472198982996
+      Corruption_3_6: 1310653294468882276
+      Corruption_3_7: 9051728769115529650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

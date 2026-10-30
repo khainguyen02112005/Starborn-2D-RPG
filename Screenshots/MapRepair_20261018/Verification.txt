@@ -1,0 +1,77 @@
+Map repair physical and gameplay verification 10/18/2026 1:07:54 PM
+PASS West facade blocks from below; actual (-55.00, 21.37), remaining 3.63
+PASS East facade blocks from below; actual (-49.00, 21.37), remaining 3.63
+PASS Facade blocks from courtyard; actual (-54.53, 24.19), remaining 4.19
+PASS Courtyard side parapet blocks; actual (-57.81, 25.00), remaining 2.81
+PASS Staircase allows ascent; actual (-52.50, 25.10), remaining 0.10
+PASS Staircase allows descent; actual (-52.50, 20.10), remaining 0.10
+PASS Crate west approach blocks; actual (-13.48, 15.60), remaining 2.48
+PASS Crate south approach blocks; actual (-12.53, 14.98), remaining 2.02
+PASS Crate east approach blocks; actual (-4.54, 14.31), remaining 2.68
+PASS Crate north approach blocks; actual (-5.53, 16.99), remaining 3.99
+PASS Stone cube blocks; actual (-40.28, 7.00), remaining 2.78
+PASS Central monument blocks from south; actual (-34.12, 8.74), remaining 3.96
+PASS Central monument blocks from west; actual (-36.38, 10.17), remaining 5.38
+PASS Central monument blocks from north; actual (-34.12, 11.91), remaining 4.91
+PASS Guild front is solid; actual (-22.50, 21.40), remaining 2.60
+PASS Village north boundary blocks; actual (-40.00, 26.37), remaining 3.63
+PASS Walked to courtyard from spawn
+PASS Walked to around monument
+PASS Walked to guild front
+PASS Walked to merchant market
+PASS Walked to blacksmith
+PASS Knight village basic attack damages enemy
+PASS Knight village fire fan damages enemy
+PASS Knight village water/lightning casts completed
+PASS Walked to portal to Level_03
+PASS Portal accepted Level_03
+PASS Portal arrived Level_03
+PASS Safe arrival in Level_03
+PASS No boss left in forest
+PASS Walked to forest first clearing
+PASS Walked to forest optional western branch
+PASS Walked to forest eastern ruins
+PASS Knight forest basic attack damages enemy
+PASS Knight forest fire fan damages enemy
+PASS Knight forest water/lightning casts completed
+PASS Walked to unblocked ancient gate
+PASS Walked to portal to Level_04
+PASS Portal accepted Level_04
+PASS Portal arrived Level_04
+PASS Safe arrival in Level_04
+PASS Boss retained in Level04
+PASS Inventory persists across new maps
+PASS Walked to portal to Level_03
+PASS Portal accepted Level_03
+PASS Portal arrived Level_03
+PASS Safe arrival in Level_03
+PASS Walked to portal to Level_02
+PASS Portal accepted Level_02
+PASS Portal arrived Level_02
+PASS Safe arrival in Level_02
+PASS Mage selected correctly
+PASS Mage stair ascent; actual (-52.50, 25.10), remaining 0.10
+PASS Mage village basic attack damages enemy
+PASS Mage village fire fan damages enemy
+PASS Mage village water/lightning casts completed
+PASS Walked to portal to Level_03
+PASS Portal accepted Level_03
+PASS Portal arrived Level_03
+PASS Safe arrival in Level_03
+PASS Walked to mage forest route
+PASS Mage forest basic attack damages enemy
+PASS Mage forest fire fan damages enemy
+PASS Mage forest water/lightning casts completed
+COMPLETE: 63 passed, 0 failed.
+
+Final backing check
+PASS Fractional north-edge gap has actual terrain backing
+PASS Village props are static
+PASS Forest props are static
+EDGE CHECK COMPLETE: 3 passed, 0 failed.
+
+Final backing check
+PASS Fractional north-edge gap has actual terrain backing
+PASS Village props are static
+PASS Forest props are static
+EDGE CHECK COMPLETE: 3 passed, 0 failed.

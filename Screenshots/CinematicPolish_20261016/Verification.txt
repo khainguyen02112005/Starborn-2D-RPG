@@ -1,0 +1,12 @@
+Battle hero label rect=(x:-537.48, y:-27.01, width:1074.96, height:54.01) lines=1 text=PHÁP SƯ HẮC HÓA  125 / 200
+Battle cursor rect=(x:-249.54, y:-18.90, width:499.09, height:37.81) lines=1 health=83
+TV live target=True captionAlpha=0.72 line=<color=#9BAAB7><b>TRƯỞNG LÀNG</b></color>
+Ta không hiểu…
+Pause signal clock frozen=True camera target detached=True
+Glass count=221
+Signal resumed=True
+Signal cleanup target restored=True effectCount=0
+Bad first frame signal exists=True title=BAD ENDING timeline=13.5015888097696
+Level03 walk deltaX=1.198189 scaleX=-1 mage=True
+Level03 finished, cinematic=False render target clear=True
+COMPLETE

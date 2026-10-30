@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: d7eefea8f963b1347b87353ac1cd7323
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5213602130163136195
+    second: CelebrationAndWarningVFX_0
+  - first:
+      213: 4061398900077661430
+    second: CelebrationAndWarningVFX_1
+  - first:
+      213: -4926089465639289553
+    second: CelebrationAndWarningVFX_2
+  - first:
+      213: -1519324953080328692
+    second: CelebrationAndWarningVFX_3
+  - first:
+      213: -3641652336770483273
+    second: CelebrationAndWarningVFX_4
+  - first:
+      213: -1386772065293986423
+    second: CelebrationAndWarningVFX_5
+  - first:
+      213: 6473939798356085444
+    second: CelebrationAndWarningVFX_6
+  - first:
+      213: -8061674308669076608
+    second: CelebrationAndWarningVFX_7
+  - first:
+      213: -8208720643999908283
+    second: CelebrationAndWarningVFX_8
+  - first:
+      213: 3190645707827377384
+    second: CelebrationAndWarningVFX_9
+  - first:
+      213: -3571691112581951465
+    second: CelebrationAndWarningVFX_10
+  - first:
+      213: 905098178365409881
+    second: CelebrationAndWarningVFX_11
+  - first:
+      213: 1591920624126120334
+    second: CelebrationAndWarningVFX_12
+  - first:
+      213: 2858035894951522042
+    second: CelebrationAndWarningVFX_13
+  - first:
+      213: 7340243332089334126
+    second: CelebrationAndWarningVFX_14
+  - first:
+      213: -8631448911533671203
+    second: CelebrationAndWarningVFX_15
+  - first:
+      213: 8075931247115054207
+    second: CelebrationAndWarningVFX_16
+  - first:
+      213: -7978237707966574825
+    second: CelebrationAndWarningVFX_17
+  - first:
+      213: 7734402116810079162
+    second: CelebrationAndWarningVFX_18
+  - first:
+      213: -2473945452030058233
+    second: CelebrationAndWarningVFX_19
+  - first:
+      213: 3513245264567078578
+    second: CelebrationAndWarningVFX_20
+  - first:
+      213: -3723347375629486051
+    second: CelebrationAndWarningVFX_21
+  - first:
+      213: 3517331693792386609
+    second: CelebrationAndWarningVFX_22
+  - first:
+      213: -7995058173933382554
+    second: CelebrationAndWarningVFX_23
+  - first:
+      213: 5048553156643467141
+    second: CelebrationAndWarningVFX_24
+  - first:
+      213: 7311344366100086661
+    second: CelebrationAndWarningVFX_25
+  - first:
+      213: 9213442907296752460
+    second: CelebrationAndWarningVFX_26
+  - first:
+      213: -9128569385449870041
+    second: CelebrationAndWarningVFX_27
+  - first:
+      213: 7193871607423424482
+    second: CelebrationAndWarningVFX_28
+  - first:
+      213: -9084977696207903778
+    second: CelebrationAndWarningVFX_29
+  - first:
+      213: 1565478049617948979
+    second: CelebrationAndWarningVFX_30
+  - first:
+      213: 9159559797870914964
+    second: CelebrationAndWarningVFX_31
+  - first:
+      213: 2718742648260110625
+    second: CelebrationAndWarningVFX_32
+  - first:
+      213: -3844114392264058344
+    second: CelebrationAndWarningVFX_33
+  - first:
+      213: -6892476635954021768
+    second: CelebrationAndWarningVFX_34
+  - first:
+      213: -7052586792969181254
+    second: CelebrationAndWarningVFX_35
+  - first:
+      213: -103524184487611745
+    second: CelebrationAndWarningVFX_36
+  - first:
+      213: 9157706622301461692
+    second: CelebrationAndWarningVFX_37
+  - first:
+      213: 7101417514293096846
+    second: CelebrationAndWarningVFX_38
+  - first:
+      213: -860153002627150963
+    second: CelebrationAndWarningVFX_39
+  - first:
+      213: -7619488734745641043
+    second: CelebrationAndWarningVFX_40
+  - first:
+      213: 883352555543881823
+    second: CelebrationAndWarningVFX_41
+  - first:
+      213: 181743820483845838
+    second: CelebrationAndWarningVFX_42
+  - first:
+      213: -3460154562728339555
+    second: CelebrationAndWarningVFX_43
+  - first:
+      213: 671830309393022544
+    second: CelebrationAndWarningVFX_44
+  - first:
+      213: 6368477256044791798
+    second: CelebrationAndWarningVFX_45
+  - first:
+      213: -4379498724360909324
+    second: CelebrationAndWarningVFX_46
+  - first:
+      213: 8575214855761397615
+    second: CelebrationAndWarningVFX_47
+  - first:
+      213: -7656247104395958163
+    second: CelebrationAndWarningVFX_48
+  - first:
+      213: 6806526933945541132
+    second: CelebrationAndWarningVFX_49
+  - first:
+      213: 7041037767657636356
+    second: CelebrationAndWarningVFX_50
+  - first:
+      213: -1526904969722664832
+    second: CelebrationAndWarningVFX_51
+  - first:
+      213: -8087931452693388060
+    second: CelebrationAndWarningVFX_52
+  - first:
+      213: -4030778438226124154
+    second: CelebrationAndWarningVFX_53
+  - first:
+      213: -544365697683804897
+    second: CelebrationAndWarningVFX_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71012235bddce6ec0800000000000000
+      internalID: -3571691112581951465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac2507ffd8f8c00800000000000000
+      internalID: 905098178365409881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_12
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d7af8f53a71610800000000000000
+      internalID: 1591920624126120334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea6e10188c9a720800000000000000
+      internalID: 2858035894951522042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e694d169b68cdd560800000000000000
+      internalID: 7340243332089334126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc7a1342fee63880800000000000000
+      internalID: -8631448911533671203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c25ce5ea8731070800000000000000
+      internalID: 8075931247115054207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f860b331b974190800000000000000
+      internalID: -7978237707966574825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb7e722fbd165b60800000000000000
+      internalID: 7734402116810079162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_19
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7012e0a08b7caadd0800000000000000
+      internalID: -2473945452030058233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be085344fd81c030800000000000000
+      internalID: 3513245264567078578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18b83cf943045cc0800000000000000
+      internalID: -3723347375629486051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_22
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed7b53a8210d030800000000000000
+      internalID: 3517331693792386609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_23
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 543
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6641e1053f8db0190800000000000000
+      internalID: -7995058173933382554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f296bf850101640800000000000000
+      internalID: 5048553156643467141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ff2fbb6fc177560800000000000000
+      internalID: 7311344366100086661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e3cf5289bcdf70800000000000000
+      internalID: 9213442907296752460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d21c8528ec05180800000000000000
+      internalID: -9128569385449870041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7dd38bc14c5d360800000000000000
+      internalID: 7193871607423424482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed36e296becabe180800000000000000
+      internalID: -9084977696207903778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_30
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331362bedf1b9b510800000000000000
+      internalID: 1565478049617948979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_31
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 362
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d6b035b1b4d1f70800000000000000
+      internalID: 9159559797870914964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129af39b80aeab520800000000000000
+      internalID: 2718742648260110625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5225c356f6aac0800000000000000
+      internalID: -3844114392264058344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af74b74010950a0800000000000000
+      internalID: -6892476635954021768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7e5719dad202e90800000000000000
+      internalID: -7052586792969181254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_36
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9234fd7d45309ef0800000000000000
+      internalID: -103524184487611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_37
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc558347a5b61f70800000000000000
+      internalID: 9157706622301461692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_38
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817d25ba9d4d8260800000000000000
+      internalID: 7101417514293096846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_39
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 181
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4ce1c66f1014f0800000000000000
+      internalID: -860153002627150963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf35639d53224690800000000000000
+      internalID: -7619488734745641043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5860a4187c424c00800000000000000
+      internalID: 883352555543881823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecedf04ba0fa58200800000000000000
+      internalID: 181743820483845838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9751a402cf0bffc0800000000000000
+      internalID: -3460154562728339555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e36bc5b12d25900800000000000000
+      internalID: 671830309393022544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f744be9250616850800000000000000
+      internalID: 6368477256044791798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_46
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd01302d15e833c0800000000000000
+      internalID: -4379498724360909324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_47
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f678f465a78410770800000000000000
+      internalID: 8575214855761397615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c640a180b60800449e5117470893636
+      internalID: -1545454728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e7f0c2e768c994eaaea09dd4de306f
+      internalID: 484363834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_02
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb1f5809879bf498a9ad3ab95eb31e
+      internalID: -431931777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_03
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67418b2608ecae4391a1902957faec6
+      internalID: -1485538359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_04
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcac1b257e2b614a860d57dbb8dc87e
+      internalID: -563097168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_05
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef84154c8a03664da0269cf509974ec
+      internalID: 1439981867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_06
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899aeb87c554876459f156e4304245b0
+      internalID: -135397746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_07
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 905
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e3bb9d47ca9c4f9cb6913dc7ffd5c
+      internalID: 490235270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2046ce0134b02394f9f7e20fec51ac35
+      internalID: -1488620004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CelebrationAndWarningVFX_09
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 724
+        width: 181
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ae18becda36e429c8bcf67554bedb
+      internalID: -363921454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc09d7eafd10836409e9dfd5dac2bd0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CelebrationAndWarningVFX_00: -1545454728
+      CelebrationAndWarningVFX_01: 484363834
+      CelebrationAndWarningVFX_02: -431931777
+      CelebrationAndWarningVFX_03: -1485538359
+      CelebrationAndWarningVFX_04: -563097168
+      CelebrationAndWarningVFX_05: 1439981867
+      CelebrationAndWarningVFX_06: -135397746
+      CelebrationAndWarningVFX_07: 490235270
+      CelebrationAndWarningVFX_08: -1488620004
+      CelebrationAndWarningVFX_09: -363921454
+      CelebrationAndWarningVFX_10: -3571691112581951465
+      CelebrationAndWarningVFX_11: 905098178365409881
+      CelebrationAndWarningVFX_12: 1591920624126120334
+      CelebrationAndWarningVFX_13: 2858035894951522042
+      CelebrationAndWarningVFX_14: 7340243332089334126
+      CelebrationAndWarningVFX_15: -8631448911533671203
+      CelebrationAndWarningVFX_16: 8075931247115054207
+      CelebrationAndWarningVFX_17: -7978237707966574825
+      CelebrationAndWarningVFX_18: 7734402116810079162
+      CelebrationAndWarningVFX_19: -2473945452030058233
+      CelebrationAndWarningVFX_20: 3513245264567078578
+      CelebrationAndWarningVFX_21: -3723347375629486051
+      CelebrationAndWarningVFX_22: 3517331693792386609
+      CelebrationAndWarningVFX_23: -7995058173933382554
+      CelebrationAndWarningVFX_24: 5048553156643467141
+      CelebrationAndWarningVFX_25: 7311344366100086661
+      CelebrationAndWarningVFX_26: 9213442907296752460
+      CelebrationAndWarningVFX_27: -9128569385449870041
+      CelebrationAndWarningVFX_28: 7193871607423424482
+      CelebrationAndWarningVFX_29: -9084977696207903778
+      CelebrationAndWarningVFX_30: 1565478049617948979
+      CelebrationAndWarningVFX_31: 9159559797870914964
+      CelebrationAndWarningVFX_32: 2718742648260110625
+      CelebrationAndWarningVFX_33: -3844114392264058344
+      CelebrationAndWarningVFX_34: -6892476635954021768
+      CelebrationAndWarningVFX_35: -7052586792969181254
+      CelebrationAndWarningVFX_36: -103524184487611745
+      CelebrationAndWarningVFX_37: 9157706622301461692
+      CelebrationAndWarningVFX_38: 7101417514293096846
+      CelebrationAndWarningVFX_39: -860153002627150963
+      CelebrationAndWarningVFX_40: -7619488734745641043
+      CelebrationAndWarningVFX_41: 883352555543881823
+      CelebrationAndWarningVFX_42: 181743820483845838
+      CelebrationAndWarningVFX_43: -3460154562728339555
+      CelebrationAndWarningVFX_44: 671830309393022544
+      CelebrationAndWarningVFX_45: 6368477256044791798
+      CelebrationAndWarningVFX_46: -4379498724360909324
+      CelebrationAndWarningVFX_47: 8575214855761397615
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

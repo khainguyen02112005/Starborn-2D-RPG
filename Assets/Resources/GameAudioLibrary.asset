@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a089ebdd4f44e640adcd67f419f294a, type: 3}
+  m_Name: GameAudioLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::GameAudioLibrary
+  menuMusic: {fileID: 8300000, guid: 1f416b578d99bba4aad31c7d012a9a9b, type: 3}
+  gameplayMusic: {fileID: 8300000, guid: 1f416b578d99bba4aad31c7d012a9a9b, type: 3}
+  loadingMusic: {fileID: 8300000, guid: 1f416b578d99bba4aad31c7d012a9a9b, type: 3}
+  bossMusic: {fileID: 8300000, guid: 1f416b578d99bba4aad31c7d012a9a9b, type: 3}
+  ambientWind: {fileID: 8300000, guid: 4c4b6f15bf8b62444b9dad56aebfde82, type: 3}
+  musicVolume: 0.34
+  ambienceVolume: 0
+  uiVolume: 0.4
+  worldVolume: 0.55
+  uiHover: {fileID: 8300000, guid: 812b44862ceea4f4caeb801a9766362a, type: 3}
+  uiClick: {fileID: 8300000, guid: 04538dd082e09a146b890a7d1213b754, type: 3}
+  uiConfirm: {fileID: 8300000, guid: 1b69236f682313c43894acf113492b6d, type: 3}
+  uiCancel: {fileID: 8300000, guid: 76ea40ec04b6d784e9f19f6367b9ff30, type: 3}
+  uiError: {fileID: 8300000, guid: 6004d07df51166d4795199dfa8a0cf68, type: 3}
+  uiToggle: {fileID: 8300000, guid: aff33c572c2db244080e31e07898718f, type: 3}
+  dialogue: {fileID: 8300000, guid: 8ba4c01755e31c944930537dec533fb6, type: 3}
+  questComplete: {fileID: 8300000, guid: dbed60808792e7443ae7a3ad47c4254e, type: 3}
+  footsteps:
+  - {fileID: 8300000, guid: d9154ec9595b1454497207459dd1d3a4, type: 3}
+  - {fileID: 8300000, guid: 26b85bc7a02712b42991f222dba7354e, type: 3}
+  - {fileID: 8300000, guid: 5ad700c348290e04a8e6fe4688203fd5, type: 3}
+  - {fileID: 8300000, guid: 6563b2ded40732447bc6efee3ece8c18, type: 3}
+  swordSwing: {fileID: 8300000, guid: cf08fb2c6ab466643a4bcd5c35ae589d, type: 3}
+  mageAttack: {fileID: 8300000, guid: dd9b4c2b56e5c4b4296fa8c9d080357d, type: 3}
+  dash: {fileID: 8300000, guid: f37615bb4c3c06c48baab83682c65529, type: 3}
+  playerHit: {fileID: 8300000, guid: f1a62f7a2936ff94c926dfe61ceaebc2, type: 3}
+  playerDeath: {fileID: 8300000, guid: 816110727192fd14f88c0def1e92677d, type: 3}
+  block: {fileID: 8300000, guid: 69303669ad4223440ba41e070b70af4a, type: 3}
+  revive: {fileID: 8300000, guid: dbed60808792e7443ae7a3ad47c4254e, type: 3}
+  itemPickup: {fileID: 8300000, guid: 5769ef9d2358ef441a5cf73f5d10112b, type: 3}
+  equip: {fileID: 8300000, guid: 76012c1862183be46a69ab20847441f1, type: 3}
+  purchase: {fileID: 8300000, guid: 5764a97b0e7518740a40e812e9aa8188, type: 3}
+  chestOpen: {fileID: 8300000, guid: 340bd4867a93d81429e704c894fbfd8a, type: 3}
+  shopOpen: {fileID: 8300000, guid: 05388c19da0e2204d93db47d97e3f866, type: 3}
+  blacksmith: {fileID: 8300000, guid: 64d317e8e07769a40af22a3eb27d86bf, type: 3}
+  portal: {fileID: 8300000, guid: dd9b4c2b56e5c4b4296fa8c9d080357d, type: 3}
+  enemyAttack: {fileID: 8300000, guid: 5ffe616d8c6efe143b1e4211da84c3b1, type: 3}
+  enemyHit: {fileID: 8300000, guid: b6c80dbfcc90a394ba2c814a575a6684, type: 3}
+  enemyDeath: {fileID: 8300000, guid: 3009f1166c8136446a39aa140e9991db, type: 3}
+  bossRoar: {fileID: 8300000, guid: 816110727192fd14f88c0def1e92677d, type: 3}
+  bossCast: {fileID: 8300000, guid: dd9b4c2b56e5c4b4296fa8c9d080357d, type: 3}
+  bossLightning: {fileID: 8300000, guid: 1b676fd9e269ebc4a9ae3f47705d9ab3, type: 3}
+  bossFire: {fileID: 8300000, guid: fe6b6b6770060d34ab12d2c9e6e29928, type: 3}
+  bossWater: {fileID: 8300000, guid: 76efa4c56032d194092de3382ccddf37, type: 3}
+  bossHit: {fileID: 8300000, guid: 71d38da5f7b92f94f8912426eb976ad4, type: 3}
+  bossDeath: {fileID: 8300000, guid: 7280c722e65291842b52b9f0959be9ae, type: 3}
+  aoeWarning: {fileID: 8300000, guid: 69444c52b08942a4db908406e99f3c1c, type: 3}
+  aoeImpact: {fileID: 8300000, guid: dd9b4c2b56e5c4b4296fa8c9d080357d, type: 3}
+  cursorShot: {fileID: 8300000, guid: b3cd4c4b044fca143b6aafe2a3f74b11, type: 3}
+  cursorHit: {fileID: 8300000, guid: 71d38da5f7b92f94f8912426eb976ad4, type: 3}

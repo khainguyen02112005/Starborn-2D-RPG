@@ -1,0 +1,6 @@
+Spell bar hidden during opening=True
+Caption above letterbox=True
+Spell bar restored after opening=True
+Boss caption root survives immediate transition=True
+Boss subtitle visible=True
+Boss passive during dialogue=True

@@ -1,0 +1,32 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity / IDE generated files
+.vs/
+.idea/
+.vscode/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+*.log
+
+# Build and cache files
+*.apk
+*.aab
+*.unitypackage
+
+# Local tooling
+.codex/
+Backups/
+ProjectBackups/

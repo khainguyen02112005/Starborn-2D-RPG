@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16144ab305c54b740bc1676a5050d478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Demo/Animations/CandlesFlicker.anim
+  uploadId: 905652

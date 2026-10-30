@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 6e85a20d14af25847a2f771d133bab62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5156195509894064144
+    second: Mage_SPUM_Cinematic_48_0
+  - first:
+      213: -1001684533122613315
+    second: Mage_SPUM_Cinematic_48_1
+  - first:
+      213: 1328659078038592014
+    second: Mage_SPUM_Cinematic_48_2
+  - first:
+      213: 3545002242191509017
+    second: Mage_SPUM_Cinematic_48_3
+  - first:
+      213: -1173291876530099767
+    second: Mage_SPUM_Cinematic_48_4
+  - first:
+      213: -5417857590680799288
+    second: Mage_SPUM_Cinematic_48_5
+  - first:
+      213: 8025374774187812731
+    second: Mage_SPUM_Cinematic_48_6
+  - first:
+      213: -2926942487589967077
+    second: Mage_SPUM_Cinematic_48_7
+  - first:
+      213: 2939825947530906468
+    second: Mage_SPUM_Cinematic_48_8
+  - first:
+      213: -3832920300829434661
+    second: Mage_SPUM_Cinematic_48_9
+  - first:
+      213: -4497429407576088384
+    second: Mage_SPUM_Cinematic_48_10
+  - first:
+      213: 2885724168368756906
+    second: Mage_SPUM_Cinematic_48_11
+  - first:
+      213: -1339223969857158316
+    second: Mage_SPUM_Cinematic_48_12
+  - first:
+      213: -6160314791110994141
+    second: Mage_SPUM_Cinematic_48_13
+  - first:
+      213: 8078087808042565198
+    second: Mage_SPUM_Cinematic_48_14
+  - first:
+      213: 5683671727844234735
+    second: Mage_SPUM_Cinematic_48_15
+  - first:
+      213: -3234532627594363230
+    second: Mage_SPUM_Cinematic_48_16
+  - first:
+      213: 6600440378780201663
+    second: Mage_SPUM_Cinematic_48_17
+  - first:
+      213: -7937412612370452615
+    second: Mage_SPUM_Cinematic_48_18
+  - first:
+      213: 4109962277504830444
+    second: Mage_SPUM_Cinematic_48_19
+  - first:
+      213: 1147927584024561555
+    second: Mage_SPUM_Cinematic_48_20
+  - first:
+      213: -5716733311066436189
+    second: Mage_SPUM_Cinematic_48_21
+  - first:
+      213: 4123975403565498570
+    second: Mage_SPUM_Cinematic_48_22
+  - first:
+      213: 3683624286515035764
+    second: Mage_SPUM_Cinematic_48_23
+  - first:
+      213: -5886622851906260632
+    second: Mage_SPUM_Cinematic_48_24
+  - first:
+      213: 6891258779248546576
+    second: Mage_SPUM_Cinematic_48_25
+  - first:
+      213: 2780064741036677837
+    second: Mage_SPUM_Cinematic_48_26
+  - first:
+      213: 3254079166158042662
+    second: Mage_SPUM_Cinematic_48_27
+  - first:
+      213: 3716938897935152630
+    second: Mage_SPUM_Cinematic_48_28
+  - first:
+      213: 4014404436721640025
+    second: Mage_SPUM_Cinematic_48_29
+  - first:
+      213: 2686941386345792797
+    second: Mage_SPUM_Cinematic_48_30
+  - first:
+      213: 7224526404917598132
+    second: Mage_SPUM_Cinematic_48_31
+  - first:
+      213: -8853800438726487844
+    second: Mage_SPUM_Cinematic_48_32
+  - first:
+      213: -2929851492440380556
+    second: Mage_SPUM_Cinematic_48_33
+  - first:
+      213: -2577688256890554864
+    second: Mage_SPUM_Cinematic_48_34
+  - first:
+      213: -3711292801247579730
+    second: Mage_SPUM_Cinematic_48_35
+  - first:
+      213: -5203750017067711900
+    second: Mage_SPUM_Cinematic_48_36
+  - first:
+      213: 1394220347341325467
+    second: Mage_SPUM_Cinematic_48_37
+  - first:
+      213: 5191303857729051346
+    second: Mage_SPUM_Cinematic_48_38
+  - first:
+      213: -7963406566167733544
+    second: Mage_SPUM_Cinematic_48_39
+  - first:
+      213: -770076662045881589
+    second: Mage_SPUM_Cinematic_48_40
+  - first:
+      213: 6009589486827065780
+    second: Mage_SPUM_Cinematic_48_41
+  - first:
+      213: -4882219585300763732
+    second: Mage_SPUM_Cinematic_48_42
+  - first:
+      213: -3293913533469823666
+    second: Mage_SPUM_Cinematic_48_43
+  - first:
+      213: -380408794645016566
+    second: Mage_SPUM_Cinematic_48_44
+  - first:
+      213: -6541809477168092949
+    second: Mage_SPUM_Cinematic_48_45
+  - first:
+      213: -8300913963673720702
+    second: Mage_SPUM_Cinematic_48_46
+  - first:
+      213: 8146076693078035954
+    second: Mage_SPUM_Cinematic_48_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177752da5d13a1246b913fbd4f498830
+      internalID: -1670402773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60348a4e23df5941acc357aec915a7e
+      internalID: -772085643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507f9567ac85354e830fe2b7279f930
+      internalID: 1031544221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206fae86b77b8d439aa3a6196aa1bb7
+      internalID: -1300867238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02250127394a7334c9f324c8adbddd6c
+      internalID: -1729590031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c5c68b26727ad42b50b2b9faead307
+      internalID: 2068898346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb22b97d673fc4f9107db58e6d494d
+      internalID: 1568272599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 905
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c51312086ac44489c580f150262eb5
+      internalID: -1159948263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f43e4168e3a1946929419d938dc823
+      internalID: 526925701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c45d7f4460ba4eac5fc54ca4ea036
+      internalID: 13315607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6662816f1286c84418697ca5f4267e68
+      internalID: 1386220114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae83071078c0659428c48f08cf0baa54
+      internalID: -1501660272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0c75500380354c890681a3db44c98
+      internalID: 1096704464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354548337d15ce141b6d1407dcff3597
+      internalID: 1481021480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299aec7cf6a6cb54b81d44ce2f19aa4c
+      internalID: -304086464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 724
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0e5b689bf63742b251a75d06b5f82
+      internalID: 1173015156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7ad62d00806946bad45004366c546
+      internalID: 903624522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a59043d6775f4a960c5cbb9b98f1b
+      internalID: -230884469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f7c7b4f2f6ab4084e6139ed24b04d
+      internalID: 1050374821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca4800298c36846b05fa837ccce292
+      internalID: -416248220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18266c9548499499169cd215f1c2c2
+      internalID: -1022723379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac39f63875a964983a321ff813d29c
+      internalID: -1065209017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d07d4be63f2e9f4f86b50fa8d5c175e
+      internalID: 61620521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 543
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6ae7c5060e9145b116a5abe58806d
+      internalID: -632037021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eba6d9416d1724192dd8e73a1ba1da
+      internalID: 117358241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bed2ccd49be394d829aacf86a66d6f
+      internalID: -1847622432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1ee299d63bbd4f94f6cd6f2de1965
+      internalID: 362108919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08725581c2559354f84f6f121be6afa3
+      internalID: -1235080501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40295cf6b0f2a6344b86482054b6b40b
+      internalID: -1860435779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9615e0e8783c4a818b4c8e9c16e42
+      internalID: -312500627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f72f79c6266646ab6cfeb2191f96f
+      internalID: -109072281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 362
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72895ee33c15e464bb901c9411c74023
+      internalID: -562992352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c83d8620a771840a18cbddec70512e
+      internalID: 2050993346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c052e0419f1f7b41b8620b211c6f782
+      internalID: 312000600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75a78f997f84d4582f1ec6cc814c5b
+      internalID: 1882887010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b4d953f939ea449e10d20025da0d0
+      internalID: 839967247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fac67c289798854b8cb37d0d756a6dc
+      internalID: 830560863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621a6773dc1ea44885bc7f3b1730353
+      internalID: 535939473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d7d01dfdc54a44be9ebcff0ae724e
+      internalID: -7322902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 181
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e0165f2c00e34ba6e1c6a811306cd
+      internalID: 1828886825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8463a9113d626cc49a375b5acef54251
+      internalID: 1311615493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0cd25ece7e75a4fbdc67f059d66fda
+      internalID: 2009477508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14d90b11d93764f8e4c7982b3b4564
+      internalID: 13325971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1859b5d03161c745888339eb5a3bd6c
+      internalID: 1935666354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a840d3ff55a6524caf299ac490cdf18
+      internalID: -1904860013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf4dba5be36e604489cda35231a0f52
+      internalID: 1644928854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dad5d93c154d04a8dcebebec34c688
+      internalID: -485891527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage_SPUM_Cinematic_48_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe4d035af2c884d874830cb95060c2
+      internalID: 163521746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca6e4a988d5eaec4681b1fbbea36eab0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mage_SPUM_Cinematic_48_0: -5156195509894064144
+      Mage_SPUM_Cinematic_48_1: -1001684533122613315
+      Mage_SPUM_Cinematic_48_10: -4497429407576088384
+      Mage_SPUM_Cinematic_48_11: 2885724168368756906
+      Mage_SPUM_Cinematic_48_12: -1339223969857158316
+      Mage_SPUM_Cinematic_48_13: -6160314791110994141
+      Mage_SPUM_Cinematic_48_14: 8078087808042565198
+      Mage_SPUM_Cinematic_48_15: 5683671727844234735
+      Mage_SPUM_Cinematic_48_16: -3234532627594363230
+      Mage_SPUM_Cinematic_48_17: 6600440378780201663
+      Mage_SPUM_Cinematic_48_18: -7937412612370452615
+      Mage_SPUM_Cinematic_48_19: 4109962277504830444
+      Mage_SPUM_Cinematic_48_2: 1328659078038592014
+      Mage_SPUM_Cinematic_48_20: 1147927584024561555
+      Mage_SPUM_Cinematic_48_21: -5716733311066436189
+      Mage_SPUM_Cinematic_48_22: 4123975403565498570
+      Mage_SPUM_Cinematic_48_23: 3683624286515035764
+      Mage_SPUM_Cinematic_48_24: -5886622851906260632
+      Mage_SPUM_Cinematic_48_25: 6891258779248546576
+      Mage_SPUM_Cinematic_48_26: 2780064741036677837
+      Mage_SPUM_Cinematic_48_27: 3254079166158042662
+      Mage_SPUM_Cinematic_48_28: 3716938897935152630
+      Mage_SPUM_Cinematic_48_29: 4014404436721640025
+      Mage_SPUM_Cinematic_48_3: 3545002242191509017
+      Mage_SPUM_Cinematic_48_30: 2686941386345792797
+      Mage_SPUM_Cinematic_48_31: 7224526404917598132
+      Mage_SPUM_Cinematic_48_32: -8853800438726487844
+      Mage_SPUM_Cinematic_48_33: -2929851492440380556
+      Mage_SPUM_Cinematic_48_34: -2577688256890554864
+      Mage_SPUM_Cinematic_48_35: -3711292801247579730
+      Mage_SPUM_Cinematic_48_36: -5203750017067711900
+      Mage_SPUM_Cinematic_48_37: 1394220347341325467
+      Mage_SPUM_Cinematic_48_38: 5191303857729051346
+      Mage_SPUM_Cinematic_48_39: -7963406566167733544
+      Mage_SPUM_Cinematic_48_4: -1173291876530099767
+      Mage_SPUM_Cinematic_48_40: -770076662045881589
+      Mage_SPUM_Cinematic_48_41: 6009589486827065780
+      Mage_SPUM_Cinematic_48_42: -4882219585300763732
+      Mage_SPUM_Cinematic_48_43: -3293913533469823666
+      Mage_SPUM_Cinematic_48_44: -380408794645016566
+      Mage_SPUM_Cinematic_48_45: -6541809477168092949
+      Mage_SPUM_Cinematic_48_46: -8300913963673720702
+      Mage_SPUM_Cinematic_48_47: 8146076693078035954
+      Mage_SPUM_Cinematic_48_5: -5417857590680799288
+      Mage_SPUM_Cinematic_48_6: 8025374774187812731
+      Mage_SPUM_Cinematic_48_7: -2926942487589967077
+      Mage_SPUM_Cinematic_48_8: 2939825947530906468
+      Mage_SPUM_Cinematic_48_9: -3832920300829434661
+      Mage_SPUM_Cinematic_48_R0_F0: -1670402773
+      Mage_SPUM_Cinematic_48_R0_F1: -772085643
+      Mage_SPUM_Cinematic_48_R0_F2: 1031544221
+      Mage_SPUM_Cinematic_48_R0_F3: -1300867238
+      Mage_SPUM_Cinematic_48_R0_F4: -1729590031
+      Mage_SPUM_Cinematic_48_R0_F5: 2068898346
+      Mage_SPUM_Cinematic_48_R0_F6: 1568272599
+      Mage_SPUM_Cinematic_48_R0_F7: -1159948263
+      Mage_SPUM_Cinematic_48_R1_F0: 526925701
+      Mage_SPUM_Cinematic_48_R1_F1: 13315607
+      Mage_SPUM_Cinematic_48_R1_F2: 1386220114
+      Mage_SPUM_Cinematic_48_R1_F3: -1501660272
+      Mage_SPUM_Cinematic_48_R1_F4: 1096704464
+      Mage_SPUM_Cinematic_48_R1_F5: 1481021480
+      Mage_SPUM_Cinematic_48_R1_F6: -304086464
+      Mage_SPUM_Cinematic_48_R1_F7: 1173015156
+      Mage_SPUM_Cinematic_48_R2_F0: 903624522
+      Mage_SPUM_Cinematic_48_R2_F1: -230884469
+      Mage_SPUM_Cinematic_48_R2_F2: 1050374821
+      Mage_SPUM_Cinematic_48_R2_F3: -416248220
+      Mage_SPUM_Cinematic_48_R2_F4: -1022723379
+      Mage_SPUM_Cinematic_48_R2_F5: -1065209017
+      Mage_SPUM_Cinematic_48_R2_F6: 61620521
+      Mage_SPUM_Cinematic_48_R2_F7: -632037021
+      Mage_SPUM_Cinematic_48_R3_F0: 117358241
+      Mage_SPUM_Cinematic_48_R3_F1: -1847622432
+      Mage_SPUM_Cinematic_48_R3_F2: 362108919
+      Mage_SPUM_Cinematic_48_R3_F3: -1235080501
+      Mage_SPUM_Cinematic_48_R3_F4: -1860435779
+      Mage_SPUM_Cinematic_48_R3_F5: -312500627
+      Mage_SPUM_Cinematic_48_R3_F6: -109072281
+      Mage_SPUM_Cinematic_48_R3_F7: -562992352
+      Mage_SPUM_Cinematic_48_R4_F0: 2050993346
+      Mage_SPUM_Cinematic_48_R4_F1: 312000600
+      Mage_SPUM_Cinematic_48_R4_F2: 1882887010
+      Mage_SPUM_Cinematic_48_R4_F3: 839967247
+      Mage_SPUM_Cinematic_48_R4_F4: 830560863
+      Mage_SPUM_Cinematic_48_R4_F5: 535939473
+      Mage_SPUM_Cinematic_48_R4_F6: -7322902
+      Mage_SPUM_Cinematic_48_R4_F7: 1828886825
+      Mage_SPUM_Cinematic_48_R5_F0: 1311615493
+      Mage_SPUM_Cinematic_48_R5_F1: 2009477508
+      Mage_SPUM_Cinematic_48_R5_F2: 13325971
+      Mage_SPUM_Cinematic_48_R5_F3: 1935666354
+      Mage_SPUM_Cinematic_48_R5_F4: -1904860013
+      Mage_SPUM_Cinematic_48_R5_F5: 1644928854
+      Mage_SPUM_Cinematic_48_R5_F6: -485891527
+      Mage_SPUM_Cinematic_48_R5_F7: 163521746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

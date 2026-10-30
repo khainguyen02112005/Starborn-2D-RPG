@@ -1,0 +1,227 @@
+Map playtest 10/18/2026 12:14:33 PM
+LOAD 2 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 02
+PASS Hiệp Sĩ safe starting position Level 02
+PASS Hiệp Sĩ correct visible SPUM avatar Level 02
+PASS Boss only in Level 04 (checked 2)
+PASS Map props stay still Level 02
+PASS Hiệp Sĩ physically walks to TruongLang Level 02
+PASS Hiệp Sĩ physically walks to ThuongNhan Level 02
+PASS Hiệp Sĩ physically walks to Tho ren Level 02
+PASS Hiệp Sĩ physically walks to Courtyard stairs (test destination) Level 02
+PASS Hiệp Sĩ physically walks to Portal_To_Level_03 Level 02
+PASS Inventory book works Level 02
+PASS Merchant mana potion still usable after map swap Hiệp Sĩ
+PASS Hiệp Sĩ basic attack starts Level 02
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 02
+PASS Fire fan hits and VFX work Level 02
+LOAD 3 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 03
+PASS Hiệp Sĩ safe starting position Level 03
+PASS Hiệp Sĩ correct visible SPUM avatar Level 03
+PASS Boss only in Level 04 (checked 3)
+PASS Map props stay still Level 03
+PASS Hiệp Sĩ physically walks to Portal_To_Level_04 Level 03
+PASS Inventory book works Level 03
+PASS Hiệp Sĩ basic attack starts Level 03
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 03
+PASS Fire fan hits and VFX work Level 03
+LOAD 4 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 04
+PASS Hiệp Sĩ safe starting position Level 04
+PASS Hiệp Sĩ correct visible SPUM avatar Level 04
+PASS Boss only in Level 04 (checked 4)
+PASS Map props stay still Level 04
+PASS Hiệp Sĩ physically walks to Portal_To_Level_03 Level 04
+PASS Inventory book works Level 04
+PASS Hiệp Sĩ basic attack starts Level 04
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 04
+PASS Fire fan hits and VFX work Level 04
+LOAD 2 Pháp Sư
+PASS Pháp Sư correct map in Level 02
+PASS Pháp Sư safe starting position Level 02
+PASS Pháp Sư correct visible SPUM avatar Level 02
+PASS Boss only in Level 04 (checked 2)
+PASS Map props stay still Level 02
+PASS Pháp Sư physically walks to Portal_To_Level_03 Level 02
+PASS Inventory book works Level 02
+PASS Merchant mana potion still usable after map swap Pháp Sư
+PASS Pháp Sư basic attack starts Level 02
+PASS Pháp Sư basic attack damages enemy on new map Level 02
+PASS Fire fan hits and VFX work Level 02
+LOAD 3 Pháp Sư
+PASS Pháp Sư correct map in Level 03
+PASS Pháp Sư safe starting position Level 03
+PASS Pháp Sư correct visible SPUM avatar Level 03
+PASS Boss only in Level 04 (checked 3)
+PASS Map props stay still Level 03
+PASS Pháp Sư physically walks to Portal_To_Level_04 Level 03
+PASS Inventory book works Level 03
+PASS Pháp Sư basic attack starts Level 03
+PASS Pháp Sư basic attack damages enemy on new map Level 03
+PASS Fire fan hits and VFX work Level 03
+LOAD 4 Pháp Sư
+PASS Pháp Sư correct map in Level 04
+PASS Pháp Sư safe starting position Level 04
+PASS Pháp Sư correct visible SPUM avatar Level 04
+PASS Boss only in Level 04 (checked 4)
+PASS Map props stay still Level 04
+PASS Pháp Sư physically walks to Portal_To_Level_03 Level 04
+PASS Inventory book works Level 04
+PASS Pháp Sư basic attack starts Level 04
+PASS Pháp Sư basic attack damages enemy on new map Level 04
+PASS Fire fan hits and VFX work Level 04
+PASS Real portal accepts travel to Level_03
+PASS LoadingScene reaches Level_03
+PASS Gold, mana and learned skill survive portal to Level_03
+PASS Portal arrival safe in Level_03
+PASS Real portal accepts travel to Level_04
+PASS LoadingScene reaches Level_04
+PASS Gold, mana and learned skill survive portal to Level_04
+PASS Portal arrival safe in Level_04
+PASS Real portal accepts travel to Level_03
+PASS LoadingScene reaches Level_03
+PASS Gold, mana and learned skill survive portal to Level_03
+PASS Portal arrival safe in Level_03
+PASS Real portal accepts travel to Level_02
+PASS LoadingScene reaches Level_02
+PASS Gold, mana and learned skill survive portal to Level_02
+PASS Portal arrival safe in Level_02
+PASS Level 04 boss state included in save snapshot
+PASS Level 04 snapshot restores boss, gold and mana
+ALL CHECKS PASSED
+Original save slots/preferences restored.
+
+Arena encounter verification
+PASS Boss remains idle at the new arena entrance
+PASS Approach triggers original boss dialogue before attacks
+PASS Boss dialogue finishes and restores combat in Level 04
+PASS Boss cutscene approach stops on traversable arena floor
+PASS Original boss defeat cutscene completes and royal quest advances
+PASS Boss defeat returns gameplay controls on new map
+ALL CHECKS PASSED
+Original save slots/preferences restored.
+
+Legacy map-save compatibility
+PASS Legacy Level 03 coordinate outside new map gets a safe spawn
+PASS Legacy relocation preserves gold and mana
+PASS Previously defeated enemy stays defeated after its map anchor changes
+PASS Old Level 03 boss HP and encounter migrate to Level 04
+PASS Village chest contents restore despite moved chest coordinates
+ALL CHECKS PASSED
+Original save slots/preferences restored.
+
+Map occlusion verification
+PASS Tree has a solid trunk and traversable space in front/behind canopy
+PASS Hero draws in front of tree when standing below its trunk
+PASS Hero draws behind canopy when standing behind its trunk
+ALL CHECKS PASSED
+Original save slots/preferences restored.
+
+Final village-wall physics verification
+Map playtest 10/18/2026 12:26:37 PM
+LOAD 2 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 02
+PASS Hiệp Sĩ safe starting position Level 02
+PASS Hiệp Sĩ correct visible SPUM avatar Level 02
+PASS Boss only in Level 04 (checked 2)
+PASS Map props stay still Level 02
+PASS Hiệp Sĩ physically walks to TruongLang Level 02
+PASS Hiệp Sĩ physically walks to ThuongNhan Level 02
+PASS Hiệp Sĩ physically walks to Tho ren Level 02
+PASS Hiệp Sĩ physically walks to Courtyard stairs (test destination) Level 02
+PASS Hiệp Sĩ physically walks to Portal_To_Level_03 Level 02
+PASS Inventory book works Level 02
+PASS Merchant mana potion still usable after map swap Hiệp Sĩ
+PASS Hiệp Sĩ basic attack starts Level 02
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 02
+PASS Fire fan hits and VFX work Level 02
+LOAD 3 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 03
+PASS Hiệp Sĩ safe starting position Level 03
+PASS Hiệp Sĩ correct visible SPUM avatar Level 03
+PASS Boss only in Level 04 (checked 3)
+PASS Map props stay still Level 03
+PASS Hiệp Sĩ physically walks to Portal_To_Level_04 Level 03
+PASS Inventory book works Level 03
+PASS Hiệp Sĩ basic attack starts Level 03
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 03
+PASS Fire fan hits and VFX work Level 03
+LOAD 4 Hiệp Sĩ
+PASS Hiệp Sĩ correct map in Level 04
+PASS Hiệp Sĩ safe starting position Level 04
+PASS Hiệp Sĩ correct visible SPUM avatar Level 04
+PASS Boss only in Level 04 (checked 4)
+PASS Map props stay still Level 04
+PASS Hiệp Sĩ physically walks to Portal_To_Level_03 Level 04
+PASS Inventory book works Level 04
+PASS Hiệp Sĩ basic attack starts Level 04
+PASS Hiệp Sĩ basic attack damages enemy on new map Level 04
+PASS Fire fan hits and VFX work Level 04
+LOAD 2 Pháp Sư
+PASS Pháp Sư correct map in Level 02
+PASS Pháp Sư safe starting position Level 02
+PASS Pháp Sư correct visible SPUM avatar Level 02
+PASS Boss only in Level 04 (checked 2)
+PASS Map props stay still Level 02
+PASS Pháp Sư physically walks to Portal_To_Level_03 Level 02
+PASS Inventory book works Level 02
+PASS Merchant mana potion still usable after map swap Pháp Sư
+PASS Pháp Sư basic attack starts Level 02
+PASS Pháp Sư basic attack damages enemy on new map Level 02
+PASS Fire fan hits and VFX work Level 02
+LOAD 3 Pháp Sư
+PASS Pháp Sư correct map in Level 03
+PASS Pháp Sư safe starting position Level 03
+PASS Pháp Sư correct visible SPUM avatar Level 03
+PASS Boss only in Level 04 (checked 3)
+PASS Map props stay still Level 03
+PASS Pháp Sư physically walks to Portal_To_Level_04 Level 03
+PASS Inventory book works Level 03
+PASS Pháp Sư basic attack starts Level 03
+PASS Pháp Sư basic attack damages enemy on new map Level 03
+PASS Fire fan hits and VFX work Level 03
+LOAD 4 Pháp Sư
+PASS Pháp Sư correct map in Level 04
+PASS Pháp Sư safe starting position Level 04
+PASS Pháp Sư correct visible SPUM avatar Level 04
+PASS Boss only in Level 04 (checked 4)
+PASS Map props stay still Level 04
+PASS Pháp Sư physically walks to Portal_To_Level_03 Level 04
+PASS Inventory book works Level 04
+PASS Pháp Sư basic attack starts Level 04
+PASS Pháp Sư basic attack damages enemy on new map Level 04
+PASS Fire fan hits and VFX work Level 04
+PASS Real portal accepts travel to Level_03
+PASS LoadingScene reaches Level_03
+PASS Gold, mana and learned skill survive portal to Level_03
+PASS Portal arrival safe in Level_03
+PASS Real portal accepts travel to Level_04
+PASS LoadingScene reaches Level_04
+PASS Gold, mana and learned skill survive portal to Level_04
+PASS Portal arrival safe in Level_04
+PASS Real portal accepts travel to Level_03
+PASS LoadingScene reaches Level_03
+PASS Gold, mana and learned skill survive portal to Level_03
+PASS Portal arrival safe in Level_03
+PASS Real portal accepts travel to Level_02
+PASS LoadingScene reaches Level_02
+PASS Gold, mana and learned skill survive portal to Level_02
+PASS Portal arrival safe in Level_02
+PASS Level 04 boss state included in save snapshot
+PASS Level 04 snapshot restores boss, gold and mana
+ALL CHECKS PASSED
+Original save slots/preferences restored.
+
+Nearby-respawn compatibility
+PASS Existing Game Over panel opens Level 02
+PASS Revive button restores full health and mana Level 02
+PASS Revival stays nearby on safe terrain Level 02
+PASS Existing Game Over panel opens Level 03
+PASS Revive button restores full health and mana Level 03
+PASS Revival stays nearby on safe terrain Level 03
+PASS Existing Game Over panel opens Level 04
+PASS Revive button restores full health and mana Level 04
+PASS Revival stays nearby on safe terrain Level 04
+ALL CHECKS PASSED
+Original save slots/preferences restored.

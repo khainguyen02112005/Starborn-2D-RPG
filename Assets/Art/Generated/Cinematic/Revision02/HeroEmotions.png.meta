@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: c94d7f7fd79d4d64a9e46d176078daff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8430653663069742205
+    second: HeroEmotions_0
+  - first:
+      213: 6474221902619459777
+    second: HeroEmotions_1
+  - first:
+      213: 4228398202579412931
+    second: HeroEmotions_2
+  - first:
+      213: -2459427514535294680
+    second: HeroEmotions_3
+  - first:
+      213: 3738751569855048515
+    second: HeroEmotions_4
+  - first:
+      213: 7821669065947280830
+    second: HeroEmotions_5
+  - first:
+      213: 3287015621238057865
+    second: HeroEmotions_6
+  - first:
+      213: -7370539788049818291
+    second: HeroEmotions_7
+  - first:
+      213: -4112562419424158634
+    second: HeroEmotions_8
+  - first:
+      213: 8995984909326058601
+    second: HeroEmotions_9
+  - first:
+      213: -4459732312586847241
+    second: HeroEmotions_10
+  - first:
+      213: -9200060610390122922
+    second: HeroEmotions_11
+  - first:
+      213: 2415115177116754551
+    second: HeroEmotions_12
+  - first:
+      213: -3577482717917068616
+    second: HeroEmotions_13
+  - first:
+      213: -9187828956314484949
+    second: HeroEmotions_14
+  - first:
+      213: -6098011032214423999
+    second: HeroEmotions_15
+  - first:
+      213: -5588943183778303636
+    second: HeroEmotions_16
+  - first:
+      213: -8141359139493746874
+    second: HeroEmotions_17
+  - first:
+      213: -4568729649134373972
+    second: HeroEmotions_18
+  - first:
+      213: -2025434286787546713
+    second: HeroEmotions_19
+  - first:
+      213: -7519148113321690175
+    second: HeroEmotions_20
+  - first:
+      213: -8662310030414184301
+    second: HeroEmotions_21
+  - first:
+      213: 2710684087667582944
+    second: HeroEmotions_22
+  - first:
+      213: -7645351633972454843
+    second: HeroEmotions_23
+  - first:
+      213: 3980570072389294871
+    second: HeroEmotions_24
+  - first:
+      213: -8608759423496523432
+    second: HeroEmotions_25
+  - first:
+      213: 4484596732675083168
+    second: HeroEmotions_26
+  - first:
+      213: 8200153269128061311
+    second: HeroEmotions_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroEmotions_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbfde22719db12c0800000000000000
+      internalID: -4459732312586847241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e12ad6e91d25080800000000000000
+      internalID: -9200060610390122922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 444
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e2bf2576348120800000000000000
+      internalID: 2415115177116754551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_13
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b244702c6a3a5ec0800000000000000
+      internalID: -3577482717917068616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_14
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb3d15e364e7080800000000000000
+      internalID: -9187828956314484949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_15
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146327c56438f5ba0800000000000000
+      internalID: -6098011032214423999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61bd0d29c51072b0800000000000000
+      internalID: -5588943183778303636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64768955ff4140f80800000000000000
+      internalID: -8141359139493746874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3fc8c179c9890c0800000000000000
+      internalID: -4568729649134373972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1b1245f3634e3e0800000000000000
+      internalID: -2025434286787546713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_20
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 222
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb79eb01ae96a790800000000000000
+      internalID: -7519148113321690175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_21
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3900cd61cea49c780800000000000000
+      internalID: -8662310030414184301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_22
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7eabfd0d84e9520800000000000000
+      internalID: 2710684087667582944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_23
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 222
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9e1a123146e590800000000000000
+      internalID: -7645351633972454843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b90501463dd3730800000000000000
+      internalID: 3980570072389294871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85171bd5aea878880800000000000000
+      internalID: -8608759423496523432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc9fbc7fc7c3e30800000000000000
+      internalID: 4484596732675083168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_27
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71e226b3fbccc170800000000000000
+      internalID: 8200153269128061311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 221
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770c9206a8573b48ae3c36282f7774f
+      internalID: -431888032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_01
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d87a228b42852e4ab073914201e3c37
+      internalID: -1511080915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_02
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c321d688be6294d9dbfccd21c9303b
+      internalID: -1612386654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_03
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e19b7fdf3b0c645af9bed57c1845e5
+      internalID: 840728496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_04
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 666
+        width: 221
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61fa5a3a6b7749419cfe7cccf5c738e
+      internalID: 700923048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_05
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bd5bf06503f54c8e17c7bea656219
+      internalID: -245832599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_06
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ec3db5e5e8904695003d22aeb37ff
+      internalID: -1141749493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_07
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 666
+        width: 222
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7a7c38572742408cd4ed24f86d745
+      internalID: -1840989559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84d10c9394e591449fb1b81480b2ee8
+      internalID: -654249302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_09
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 444
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ddeeaba56ffca428a4a41b86914a4b
+      internalID: 1340462208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_28
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 221
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099b245366c8b444e9cc6005a8451b2d
+      internalID: -226940886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_29
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace74908edc920b45ad2929d538aff1b
+      internalID: 1573947904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_30
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6ad109284df9d4ba6f05cafd1d6fe4
+      internalID: 1039282164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroEmotions_31
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 0
+        width: 222
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ac903ea4c55245b15e1c40a85bd43
+      internalID: -1090250289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f246c399d4969f94ca62241e64ceefac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroEmotions_00: -431888032
+      HeroEmotions_01: -1511080915
+      HeroEmotions_02: -1612386654
+      HeroEmotions_03: 840728496
+      HeroEmotions_04: 700923048
+      HeroEmotions_05: -245832599
+      HeroEmotions_06: -1141749493
+      HeroEmotions_07: -1840989559
+      HeroEmotions_08: -654249302
+      HeroEmotions_09: 1340462208
+      HeroEmotions_10: -4459732312586847241
+      HeroEmotions_11: -9200060610390122922
+      HeroEmotions_12: 2415115177116754551
+      HeroEmotions_13: -3577482717917068616
+      HeroEmotions_14: -9187828956314484949
+      HeroEmotions_15: -6098011032214423999
+      HeroEmotions_16: -5588943183778303636
+      HeroEmotions_17: -8141359139493746874
+      HeroEmotions_18: -4568729649134373972
+      HeroEmotions_19: -2025434286787546713
+      HeroEmotions_20: -7519148113321690175
+      HeroEmotions_21: -8662310030414184301
+      HeroEmotions_22: 2710684087667582944
+      HeroEmotions_23: -7645351633972454843
+      HeroEmotions_24: 3980570072389294871
+      HeroEmotions_25: -8608759423496523432
+      HeroEmotions_26: 4484596732675083168
+      HeroEmotions_27: 8200153269128061311
+      HeroEmotions_28: -226940886
+      HeroEmotions_29: 1573947904
+      HeroEmotions_30: 1039282164
+      HeroEmotions_31: -1090250289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

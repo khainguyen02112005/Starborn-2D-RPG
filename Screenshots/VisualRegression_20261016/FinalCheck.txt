@@ -1,0 +1,4 @@
+Hiệp Sĩ loading progress=0.4215422, fill ratio=0.4215422, handle removed=True
+Pháp Sư loading progress=0.4249997, fill ratio=0.4249997, handle removed=True
+signal clock frozen=True, MainCamera on screen=True
+pause finished=True, copy cameras after cleanup=0, MainCamera target restored=True

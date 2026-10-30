@@ -1,0 +1,16 @@
+01_KnightLoading: avatar=KnightAvatar, icon=(88.00, 88.00), facing=(-1.00, 1.00, 1.00), progress=0.3036401
+02_KnightIntro: deltaX=1.271812, scale=(-1.00, 1.00, 1.00), avatar=KnightAvatar
+02_KnightIntro: controls returned=True
+Boss health stable=375/500, interactable=False, fillWidth=469.5, areaWidth=626
+04_MageLoading: avatar=MageAvatar, icon=(88.00, 88.00), facing=(-1.00, 1.00, 1.00), progress=0.312797
+05_MageIntro: deltaX=1.22633, scale=(-1.00, 1.00, 1.00), avatar=MageAvatar
+05_MageIntro: controls returned=True
+Happy signal: title=BAD ENDING, main target null=True
+WhiteVoid hero restored=False, oversized fullscreen VFX=0
+Ending3 title=TRUE ENDING
+KẾT QUẢ ĐÃ ĐƯỢC ĐỊNH SẴN, display camera=True, target=True
+Ending2 loop title=TRUE ENDING, controls disabled=True
+NPC corruption actors=1, main camera target null=True
+Corruption choice reached=True
+Menu camera=True
+COMPLETE; invalid Display-1 frames=0

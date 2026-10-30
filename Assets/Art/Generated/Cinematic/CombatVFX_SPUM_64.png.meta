@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: 243c7ea573caa74488812b66da9fb525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1231173061090734482
+    second: CombatVFX_SPUM_64_0
+  - first:
+      213: 3746820723564099268
+    second: CombatVFX_SPUM_64_1
+  - first:
+      213: -5018223558742970269
+    second: CombatVFX_SPUM_64_2
+  - first:
+      213: -1972293539733605823
+    second: CombatVFX_SPUM_64_3
+  - first:
+      213: -6943468413771538289
+    second: CombatVFX_SPUM_64_4
+  - first:
+      213: -8614918871300266111
+    second: CombatVFX_SPUM_64_5
+  - first:
+      213: -617103771065308147
+    second: CombatVFX_SPUM_64_6
+  - first:
+      213: -4729096487698132968
+    second: CombatVFX_SPUM_64_7
+  - first:
+      213: -4782475957770637199
+    second: CombatVFX_SPUM_64_8
+  - first:
+      213: 2529832703321067921
+    second: CombatVFX_SPUM_64_9
+  - first:
+      213: -7110366425715982872
+    second: CombatVFX_SPUM_64_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ced32d8d5dcc04891b633993c49e4f
+      internalID: 524980369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09e6c7c3d7d5141ab7f469ef5c10cb
+      internalID: 675713320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1706f2cfa15360146804bb3142cf91fe
+      internalID: -14597571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4628cf2631f5771498a91703e12488cf
+      internalID: -1481529229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f6ccc24a85b0748a6a074eec5255ee
+      internalID: 1670257294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f32f7a4df13a4db2b609b79cd4967
+      internalID: -2000511328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35fdbfc40c01f4ea22407b62b8fef7
+      internalID: -1122227598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R0_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1070
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cbc72f8e67bc459a7d33e4ec27cb3
+      internalID: -1547494102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 917
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345540c267c26904f93072bb22c8270f
+      internalID: 71728315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b0af724ff2844f81f58bbdc154bb0
+      internalID: -20743536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f218b01cb9a42349b318e485ef0940f
+      internalID: 1320810924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edec7da10c6b934bac7e191d5fa73a8
+      internalID: 1670849460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28e470f8ed59a042b983592883f921d
+      internalID: -857623439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a5a02c8cea06499d85e00f442c9ea
+      internalID: -1546229106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bd3ceebcb89f4583d8722f0e0fd3c
+      internalID: 1520795652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R1_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 917
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b26452146a91a4c86964472f393879
+      internalID: 1258503580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592418b53858f444daab3524011afad6
+      internalID: -1792180957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f488baf452c124ab169151271b7cc4
+      internalID: -1608902298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1244b253848c409516b06d13ef683
+      internalID: -1082171312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ca1c25a570184d8f641c2533ab443
+      internalID: 1008451414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7fe19cae8ae4449479157868b9bc5
+      internalID: 303932140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71e21086c5e8942b2147107a792561
+      internalID: 1428758976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a124b7650657a4b962c535e7f48c6e
+      internalID: 2129767155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R2_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 764
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e1fea7da3c5844a150e9e3b823674
+      internalID: 767091030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7488795f21eda4fad49da740595659
+      internalID: -1939792520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef18aec1a4e4b34e974958749388cad
+      internalID: 2078733181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a3009024c19e49899a4052cc2b7a8
+      internalID: -1061144238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9d7454c1388d48ba323cc7cb55b3f
+      internalID: -1705237587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4dd119f24cd1f43b1e06328ff0701c
+      internalID: 1466953371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d22184a2441747b173a6c9652a130
+      internalID: 1730390147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8937d71bf9ee64caf89975a1116bd9
+      internalID: 1349717563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R3_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 611
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9f2afebe00624f8de8b3b91e989de
+      internalID: -1175023629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75dddfbf49b034e910bf0cb368be45
+      internalID: -1920054542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151214073fb6ebf4a95a48dbe5439b6e
+      internalID: -270586222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f437f87cb1aaa2143aa6fb963780f14a
+      internalID: 1303119417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9221959886462548b807c250f19d2dc
+      internalID: -80073095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549973668cfceb14c96b642ab0908515
+      internalID: -499525123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dd0785cfc65844910565f3fac673b
+      internalID: 2012646987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e145497209bd8b408a9cc6f72568893
+      internalID: 1660756356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R4_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 459
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bcfcfb98ebbf841857195b326a76cf
+      internalID: 512946409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a9e886c6d9f745a712eb983329503
+      internalID: -1778938155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24132a185dc367344837b9c74153b516
+      internalID: -971767811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95337a765d58f2e4e92b3312ed32949b
+      internalID: 928549116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d471de288a44c94a9bf1630122e664b
+      internalID: 67015689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde1287494bc30b418676982c978fb40
+      internalID: 384114364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889425ea5c36ce34eba07aeba6a8900c
+      internalID: 1083089031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d4f621266a9f45aa1f13a4ee223ab
+      internalID: -1524026500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R5_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 306
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd1cdc8f65a41f4b80837f6024ad315
+      internalID: 574616154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b221697e129e8048b7e5822aa5828cc
+      internalID: 184895220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936940aa7a0ce64384e6fb5026fa9d4
+      internalID: -1080871085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a37fd1dbb88264abd5d922a1af473f
+      internalID: 505555084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30130589242254ca9a885b6818ed68
+      internalID: 820797128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b20b3015c5994f8fecc2537c042a1
+      internalID: -1505169521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e80e7d0130b94f9b93bc1f8e2c5a4
+      internalID: -1114154766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888933b5320a4b43b7932eb8ab8dcd6
+      internalID: -166312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R6_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 153
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb497e90baba5f7449ddc313803c67c0
+      internalID: -1744074519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7618a525a22acc141b38e43ddc8b5d69
+      internalID: 1217363741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5bbb0a42406e439c0f354a73e2a33
+      internalID: 1740530677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146980b118c496049b4bb62294192119
+      internalID: 1198936737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051cf94e2dd9c1c4092f62889d607847
+      internalID: 1048153443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba113a6cc53feb4b9beb066bab15a11
+      internalID: 1478751468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fdf5495b464ee48a61dac11712e051
+      internalID: -47392282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F6
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a483b4543de049822ae2b64565973
+      internalID: 1775402645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CombatVFX_SPUM_64_R7_F7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f688b482bd4ce4cb1727d7bfce4023
+      internalID: 1193623431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 982c0c7a86dc1b04da54a8816106e97b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CombatVFX_SPUM_64_0: -1231173061090734482
+      CombatVFX_SPUM_64_1: 3746820723564099268
+      CombatVFX_SPUM_64_10: -7110366425715982872
+      CombatVFX_SPUM_64_2: -5018223558742970269
+      CombatVFX_SPUM_64_3: -1972293539733605823
+      CombatVFX_SPUM_64_4: -6943468413771538289
+      CombatVFX_SPUM_64_5: -8614918871300266111
+      CombatVFX_SPUM_64_6: -617103771065308147
+      CombatVFX_SPUM_64_7: -4729096487698132968
+      CombatVFX_SPUM_64_8: -4782475957770637199
+      CombatVFX_SPUM_64_9: 2529832703321067921
+      CombatVFX_SPUM_64_R0_F0: 524980369
+      CombatVFX_SPUM_64_R0_F1: 675713320
+      CombatVFX_SPUM_64_R0_F2: -14597571
+      CombatVFX_SPUM_64_R0_F3: -1481529229
+      CombatVFX_SPUM_64_R0_F4: 1670257294
+      CombatVFX_SPUM_64_R0_F5: -2000511328
+      CombatVFX_SPUM_64_R0_F6: -1122227598
+      CombatVFX_SPUM_64_R0_F7: -1547494102
+      CombatVFX_SPUM_64_R1_F0: 71728315
+      CombatVFX_SPUM_64_R1_F1: -20743536
+      CombatVFX_SPUM_64_R1_F2: 1320810924
+      CombatVFX_SPUM_64_R1_F3: 1670849460
+      CombatVFX_SPUM_64_R1_F4: -857623439
+      CombatVFX_SPUM_64_R1_F5: -1546229106
+      CombatVFX_SPUM_64_R1_F6: 1520795652
+      CombatVFX_SPUM_64_R1_F7: 1258503580
+      CombatVFX_SPUM_64_R2_F0: -1792180957
+      CombatVFX_SPUM_64_R2_F1: -1608902298
+      CombatVFX_SPUM_64_R2_F2: -1082171312
+      CombatVFX_SPUM_64_R2_F3: 1008451414
+      CombatVFX_SPUM_64_R2_F4: 303932140
+      CombatVFX_SPUM_64_R2_F5: 1428758976
+      CombatVFX_SPUM_64_R2_F6: 2129767155
+      CombatVFX_SPUM_64_R2_F7: 767091030
+      CombatVFX_SPUM_64_R3_F0: -1939792520
+      CombatVFX_SPUM_64_R3_F1: 2078733181
+      CombatVFX_SPUM_64_R3_F2: -1061144238
+      CombatVFX_SPUM_64_R3_F3: -1705237587
+      CombatVFX_SPUM_64_R3_F4: 1466953371
+      CombatVFX_SPUM_64_R3_F5: 1730390147
+      CombatVFX_SPUM_64_R3_F6: 1349717563
+      CombatVFX_SPUM_64_R3_F7: -1175023629
+      CombatVFX_SPUM_64_R4_F0: -1920054542
+      CombatVFX_SPUM_64_R4_F1: -270586222
+      CombatVFX_SPUM_64_R4_F2: 1303119417
+      CombatVFX_SPUM_64_R4_F3: -80073095
+      CombatVFX_SPUM_64_R4_F4: -499525123
+      CombatVFX_SPUM_64_R4_F5: 2012646987
+      CombatVFX_SPUM_64_R4_F6: 1660756356
+      CombatVFX_SPUM_64_R4_F7: 512946409
+      CombatVFX_SPUM_64_R5_F0: -1778938155
+      CombatVFX_SPUM_64_R5_F1: -971767811
+      CombatVFX_SPUM_64_R5_F2: 928549116
+      CombatVFX_SPUM_64_R5_F3: 67015689
+      CombatVFX_SPUM_64_R5_F4: 384114364
+      CombatVFX_SPUM_64_R5_F5: 1083089031
+      CombatVFX_SPUM_64_R5_F6: -1524026500
+      CombatVFX_SPUM_64_R5_F7: 574616154
+      CombatVFX_SPUM_64_R6_F0: 184895220
+      CombatVFX_SPUM_64_R6_F1: -1080871085
+      CombatVFX_SPUM_64_R6_F2: 505555084
+      CombatVFX_SPUM_64_R6_F3: 820797128
+      CombatVFX_SPUM_64_R6_F4: -1505169521
+      CombatVFX_SPUM_64_R6_F5: -1114154766
+      CombatVFX_SPUM_64_R6_F6: -166312152
+      CombatVFX_SPUM_64_R6_F7: -1744074519
+      CombatVFX_SPUM_64_R7_F0: 1217363741
+      CombatVFX_SPUM_64_R7_F1: 1740530677
+      CombatVFX_SPUM_64_R7_F2: 1198936737
+      CombatVFX_SPUM_64_R7_F3: 1048153443
+      CombatVFX_SPUM_64_R7_F4: 1478751468
+      CombatVFX_SPUM_64_R7_F5: -47392282
+      CombatVFX_SPUM_64_R7_F6: 1775402645
+      CombatVFX_SPUM_64_R7_F7: 1193623431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

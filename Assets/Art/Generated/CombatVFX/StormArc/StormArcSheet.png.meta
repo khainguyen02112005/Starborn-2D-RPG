@@ -1,0 +1,4303 @@
+fileFormatVersion: 2
+guid: 536f89c4612854c4680c10f11b82c81e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2894220355252164743
+    second: StormArcSheet_0
+  - first:
+      213: -2069304127876765470
+    second: StormArcSheet_1
+  - first:
+      213: 8284766563996148882
+    second: StormArcSheet_2
+  - first:
+      213: -1249688549532873336
+    second: StormArcSheet_3
+  - first:
+      213: -992883182705822548
+    second: StormArcSheet_4
+  - first:
+      213: 812971764298518554
+    second: StormArcSheet_5
+  - first:
+      213: -6326376231487011341
+    second: StormArcSheet_6
+  - first:
+      213: -5811244385004604501
+    second: StormArcSheet_7
+  - first:
+      213: -204828020678461994
+    second: StormArcSheet_8
+  - first:
+      213: -5868268146179940153
+    second: StormArcSheet_9
+  - first:
+      213: 5011166294024278945
+    second: StormArcSheet_10
+  - first:
+      213: 6838000355124501143
+    second: StormArcSheet_11
+  - first:
+      213: 4851721857692794872
+    second: StormArcSheet_12
+  - first:
+      213: 2098424864685117928
+    second: StormArcSheet_13
+  - first:
+      213: -2831705142069109889
+    second: StormArcSheet_14
+  - first:
+      213: -203712913071134196
+    second: StormArcSheet_15
+  - first:
+      213: 5801805448177510959
+    second: StormArcSheet_16
+  - first:
+      213: -9774175197996701
+    second: StormArcSheet_17
+  - first:
+      213: 3615347684311739379
+    second: StormArcSheet_18
+  - first:
+      213: 6293200421094675025
+    second: StormArcSheet_19
+  - first:
+      213: 5554692243466118998
+    second: StormArcSheet_20
+  - first:
+      213: -183816763072390163
+    second: StormArcSheet_21
+  - first:
+      213: 3194696134647776009
+    second: StormArcSheet_22
+  - first:
+      213: -9210896489504441665
+    second: StormArcSheet_23
+  - first:
+      213: 8547414169119577129
+    second: StormArcSheet_24
+  - first:
+      213: 5578640109363755956
+    second: StormArcSheet_25
+  - first:
+      213: -9216351371056891490
+    second: StormArcSheet_26
+  - first:
+      213: 7054496229116581806
+    second: StormArcSheet_27
+  - first:
+      213: 9164761754120829156
+    second: StormArcSheet_28
+  - first:
+      213: 3985568777134335061
+    second: StormArcSheet_29
+  - first:
+      213: -1198260637608813129
+    second: StormArcSheet_30
+  - first:
+      213: -6801656178331321413
+    second: StormArcSheet_31
+  - first:
+      213: -4460892824408239276
+    second: StormArcSheet_32
+  - first:
+      213: 6935572728048533435
+    second: StormArcSheet_33
+  - first:
+      213: 1121851993228778207
+    second: StormArcSheet_34
+  - first:
+      213: -5117474434755940875
+    second: StormArcSheet_35
+  - first:
+      213: -7438079941838251789
+    second: StormArcSheet_36
+  - first:
+      213: 7123250631264178143
+    second: StormArcSheet_37
+  - first:
+      213: -5248385612644715654
+    second: StormArcSheet_38
+  - first:
+      213: 2941230963587602419
+    second: StormArcSheet_39
+  - first:
+      213: -7865891402419290433
+    second: StormArcSheet_40
+  - first:
+      213: -6187794222264962101
+    second: StormArcSheet_41
+  - first:
+      213: 7855169459180171312
+    second: StormArcSheet_42
+  - first:
+      213: -5511642902303317513
+    second: StormArcSheet_43
+  - first:
+      213: -3914018802452752536
+    second: StormArcSheet_44
+  - first:
+      213: -4741303011382834602
+    second: StormArcSheet_45
+  - first:
+      213: 7375568901019940603
+    second: StormArcSheet_46
+  - first:
+      213: 167900665829565728
+    second: StormArcSheet_47
+  - first:
+      213: 2740252026154813707
+    second: StormArcSheet_48
+  - first:
+      213: 8003912183582428089
+    second: StormArcSheet_49
+  - first:
+      213: 4469764771374785516
+    second: StormArcSheet_50
+  - first:
+      213: 4131762176723757197
+    second: StormArcSheet_51
+  - first:
+      213: 2901501176641441571
+    second: StormArcSheet_52
+  - first:
+      213: -3587215549089403665
+    second: StormArcSheet_53
+  - first:
+      213: 5646212759804056107
+    second: StormArcSheet_54
+  - first:
+      213: 1726177791671508967
+    second: StormArcSheet_55
+  - first:
+      213: -6286706472214870039
+    second: StormArcSheet_56
+  - first:
+      213: -4189406453692697009
+    second: StormArcSheet_57
+  - first:
+      213: -8373267369402677312
+    second: StormArcSheet_58
+  - first:
+      213: 8965265510941293815
+    second: StormArcSheet_59
+  - first:
+      213: -2527005081679693912
+    second: StormArcSheet_60
+  - first:
+      213: -4422292650823262252
+    second: StormArcSheet_61
+  - first:
+      213: 8337184523357094043
+    second: StormArcSheet_62
+  - first:
+      213: 1955117026199341435
+    second: StormArcSheet_63
+  - first:
+      213: 6550911488780858846
+    second: StormArcSheet_64
+  - first:
+      213: -5892294229069297836
+    second: StormArcSheet_65
+  - first:
+      213: 6081881527670536222
+    second: StormArcSheet_66
+  - first:
+      213: 2508279841612768306
+    second: StormArcSheet_67
+  - first:
+      213: -4382958284556212750
+    second: StormArcSheet_68
+  - first:
+      213: -7216264410615021957
+    second: StormArcSheet_69
+  - first:
+      213: -2952291896980564779
+    second: StormArcSheet_70
+  - first:
+      213: 5578937857086070741
+    second: StormArcSheet_71
+  - first:
+      213: -4525112630196419309
+    second: StormArcSheet_72
+  - first:
+      213: 8468387908627082944
+    second: StormArcSheet_73
+  - first:
+      213: 2109840861905701881
+    second: StormArcSheet_74
+  - first:
+      213: -6344498623865545874
+    second: StormArcSheet_75
+  - first:
+      213: 3246975901066355440
+    second: StormArcSheet_76
+  - first:
+      213: 5630931801637941498
+    second: StormArcSheet_77
+  - first:
+      213: -4163753581187768909
+    second: StormArcSheet_78
+  - first:
+      213: 3457676510450780440
+    second: StormArcSheet_79
+  - first:
+      213: 1236165266197706392
+    second: StormArcSheet_80
+  - first:
+      213: 4242836081997252469
+    second: StormArcSheet_81
+  - first:
+      213: 8917379700081577867
+    second: StormArcSheet_82
+  - first:
+      213: -5617831653059685030
+    second: StormArcSheet_83
+  - first:
+      213: -6623376309176813910
+    second: StormArcSheet_84
+  - first:
+      213: 2263688773826533418
+    second: StormArcSheet_85
+  - first:
+      213: -507870269347950210
+    second: StormArcSheet_86
+  - first:
+      213: -3930420885548016531
+    second: StormArcSheet_87
+  - first:
+      213: 5099886546155621523
+    second: StormArcSheet_88
+  - first:
+      213: -1483986710886234251
+    second: StormArcSheet_89
+  - first:
+      213: -1862551462894131933
+    second: StormArcSheet_90
+  - first:
+      213: -5703291776252553106
+    second: StormArcSheet_91
+  - first:
+      213: 4280570792399613452
+    second: StormArcSheet_92
+  - first:
+      213: 8659657402758832465
+    second: StormArcSheet_93
+  - first:
+      213: 2452116122087851349
+    second: StormArcSheet_94
+  - first:
+      213: -7268986230812290104
+    second: StormArcSheet_95
+  - first:
+      213: -8207368044211874378
+    second: StormArcSheet_96
+  - first:
+      213: -5874658045134919437
+    second: StormArcSheet_97
+  - first:
+      213: 3813852412968611243
+    second: StormArcSheet_98
+  - first:
+      213: -3130957697035399248
+    second: StormArcSheet_99
+  - first:
+      213: 2011671670294631148
+    second: StormArcSheet_100
+  - first:
+      213: 8358256042992717306
+    second: StormArcSheet_101
+  - first:
+      213: 8109774418518196293
+    second: StormArcSheet_102
+  - first:
+      213: 7281268244416709152
+    second: StormArcSheet_103
+  - first:
+      213: -3869820433613653437
+    second: StormArcSheet_104
+  - first:
+      213: -3034123324580072911
+    second: StormArcSheet_105
+  - first:
+      213: -6844225573023520087
+    second: StormArcSheet_106
+  - first:
+      213: 6357240138093906007
+    second: StormArcSheet_107
+  - first:
+      213: 533244528644647256
+    second: StormArcSheet_108
+  - first:
+      213: -5235105028566598116
+    second: StormArcSheet_109
+  - first:
+      213: -6874942805239365597
+    second: StormArcSheet_110
+  - first:
+      213: -7853132794215999559
+    second: StormArcSheet_111
+  - first:
+      213: 1072938670120258404
+    second: StormArcSheet_112
+  - first:
+      213: -4795968574910611291
+    second: StormArcSheet_113
+  - first:
+      213: -3338249748586901022
+    second: StormArcSheet_114
+  - first:
+      213: -56188107347619921
+    second: StormArcSheet_115
+  - first:
+      213: 8563229623701345551
+    second: StormArcSheet_116
+  - first:
+      213: -2633369712137713038
+    second: StormArcSheet_117
+  - first:
+      213: 7429757525613256599
+    second: StormArcSheet_118
+  - first:
+      213: -8633643809193373505
+    second: StormArcSheet_119
+  - first:
+      213: 8205621468179333422
+    second: StormArcSheet_120
+  - first:
+      213: 9007285930333472203
+    second: StormArcSheet_121
+  - first:
+      213: 4289381543247326624
+    second: StormArcSheet_122
+  - first:
+      213: 2239385116943423572
+    second: StormArcSheet_123
+  - first:
+      213: 838010077704295575
+    second: StormArcSheet_124
+  - first:
+      213: -3418896448911621536
+    second: StormArcSheet_125
+  - first:
+      213: -7775610429210376241
+    second: StormArcSheet_126
+  - first:
+      213: 2362551545272486261
+    second: StormArcSheet_127
+  - first:
+      213: 8164305727979819474
+    second: StormArcSheet_128
+  - first:
+      213: -6928280103694758277
+    second: StormArcSheet_129
+  - first:
+      213: -5764239900991596214
+    second: StormArcSheet_130
+  - first:
+      213: 1656822091068153997
+    second: StormArcSheet_131
+  - first:
+      213: 2448454332392433269
+    second: StormArcSheet_132
+  - first:
+      213: 5980301988427405904
+    second: StormArcSheet_133
+  - first:
+      213: 1915556443564633286
+    second: StormArcSheet_134
+  - first:
+      213: -1103793289635374594
+    second: StormArcSheet_135
+  - first:
+      213: 5667039249818660491
+    second: StormArcSheet_136
+  - first:
+      213: -6052173847306727669
+    second: StormArcSheet_137
+  - first:
+      213: -7281492734588105912
+    second: StormArcSheet_138
+  - first:
+      213: 1656709451852172908
+    second: StormArcSheet_139
+  - first:
+      213: -4110607002821484609
+    second: StormArcSheet_140
+  - first:
+      213: -5902822604917833581
+    second: StormArcSheet_141
+  - first:
+      213: 8636887470547860036
+    second: StormArcSheet_142
+  - first:
+      213: 8857919604069019370
+    second: StormArcSheet_143
+  - first:
+      213: -6831655754025240832
+    second: StormArcSheet_144
+  - first:
+      213: 8303679783962052593
+    second: StormArcSheet_145
+  - first:
+      213: -588662788575305564
+    second: StormArcSheet_146
+  - first:
+      213: -4602488646903479055
+    second: StormArcSheet_147
+  - first:
+      213: -7247793903078412600
+    second: StormArcSheet_148
+  - first:
+      213: -2187434998359319463
+    second: StormArcSheet_149
+  - first:
+      213: -4539266073649398184
+    second: StormArcSheet_150
+  - first:
+      213: -1188899654506615777
+    second: StormArcSheet_151
+  - first:
+      213: -1253460677983642870
+    second: StormArcSheet_152
+  - first:
+      213: 5645115750810999608
+    second: StormArcSheet_153
+  - first:
+      213: -2503279543368007542
+    second: StormArcSheet_154
+  - first:
+      213: 3830744706015342879
+    second: StormArcSheet_155
+  - first:
+      213: 5191946791442673920
+    second: StormArcSheet_156
+  - first:
+      213: -1247892464715018581
+    second: StormArcSheet_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StormArcSheet_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1181
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788928034165a2820800000000000000
+      internalID: 2894220355252164743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1185
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8e7adfbda5843e0800000000000000
+      internalID: -2069304127876765470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1201
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294260e9b4769f270800000000000000
+      internalID: 8284766563996148882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1191
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4835a2e638aee0800000000000000
+      internalID: -1249688549532873336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1203
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca43c5f71029832f0800000000000000
+      internalID: -992883182705822548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1213
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a109f672381484b00800000000000000
+      internalID: 812971764298518554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1206
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f50eb606523438a0800000000000000
+      internalID: -6326376231487011341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1187
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba331d865005a5fa0800000000000000
+      internalID: -5811244385004604501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1201
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5f96b100e482df0800000000000000
+      internalID: -204828020678461994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1187
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c064346639bf8ea0800000000000000
+      internalID: -5868268146179940153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_10
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1189
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35ab1b13d3b8540800000000000000
+      internalID: 5011166294024278945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1179
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad03df71575ee50800000000000000
+      internalID: 6838000355124501143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1199
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff6c4f257c45340800000000000000
+      internalID: 4851721857692794872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1221
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e15767eb4a1f1d10800000000000000
+      internalID: 2098424864685117928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1219
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bd2522d23c3b8d0800000000000000
+      internalID: -2831705142069109889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_15
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1211
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a2c345f244c2df0800000000000000
+      internalID: -203712913071134196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_16
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1200
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aeb8ad057248050800000000000000
+      internalID: 5801805448177510959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1219
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d95f70764ddff0800000000000000
+      internalID: -9774175197996701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_18
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1212
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbaeee509b4c2230800000000000000
+      internalID: 3615347684311739379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 905
+        width: 340
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dfafa070f55750800000000000000
+      internalID: 6293200421094675025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_20
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1221
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6576a685a2b361d40800000000000000
+      internalID: 5554692243466118998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1221
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debde4db0a3f27df0800000000000000
+      internalID: -183816763072390163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1221
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038efe4537d55c20800000000000000
+      internalID: 3194696134647776009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1203
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf138b1725c2080800000000000000
+      internalID: -9210896489504441665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1189
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924538296e38e9670800000000000000
+      internalID: 8547414169119577129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_25
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1193
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb7f506f9f4b6d40800000000000000
+      internalID: 5578640109363755956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_26
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 915
+        width: 347
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9938f22241f81080800000000000000
+      internalID: -9216351371056891490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea793dda1fa96e160800000000000000
+      internalID: 7054496229116581806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_28
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1207
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e835752246cf2f70800000000000000
+      internalID: 9164761754120829156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 921
+        width: 260
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554eaf4bfa59f4730800000000000000
+      internalID: 3985568777134335061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1161
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd5efa7c4cee5fe0800000000000000
+      internalID: -1198260637608813129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1171
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb78361eb9ab91a0800000000000000
+      internalID: -6801656178331321413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1189
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453de0c6c99b712c0800000000000000
+      internalID: -4460892824408239276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1172
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf383166aa104060800000000000000
+      internalID: 6935572728048533435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda17faa17e919f00800000000000000
+      internalID: 1121851993228778207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1160
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdaa397d141bf8b0800000000000000
+      internalID: -5117474434755940875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1160
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d5c793b1a6c890800000000000000
+      internalID: -7438079941838251789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1160
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf049265bedad260800000000000000
+      internalID: 7123250631264178143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 937
+        width: 343
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737a0aa71df927b0800000000000000
+      internalID: -5248385612644715654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d4036af951d820800000000000000
+      internalID: 2941230963587602419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_40
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbebffcd17db6d290800000000000000
+      internalID: -7865891402419290433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1154
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3beae60f9802aa0800000000000000
+      internalID: -6187794222264962101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1126
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307ee0310b230d60800000000000000
+      internalID: 7855169459180171312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1108
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f168677bf5b283b0800000000000000
+      internalID: -5511642902303317513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1090
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679a93f2ac9ea9c0800000000000000
+      internalID: -3914018802452752536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1078
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a490a1802833eb0800000000000000
+      internalID: -4741303011382834602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_46
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1078
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf636b986d84b5660800000000000000
+      internalID: 7375568901019940603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1074
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a25814c0845200800000000000000
+      internalID: 167900665829565728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1078
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09800603b4570620800000000000000
+      internalID: 2740252026154813707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1050
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0ad379bb931f60800000000000000
+      internalID: 8003912183582428089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1045
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce36953b06bc70e30800000000000000
+      internalID: 4469764771374785516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a3080fc7f65930800000000000000
+      internalID: 4131762176723757197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1026
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f471582f3344820800000000000000
+      internalID: 2901501176641441571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1024
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca4c7c676a73ec0800000000000000
+      internalID: -3587215549089403665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1004
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22166217906b5e40800000000000000
+      internalID: 5646212759804056107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1000
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9fbb4e8d94f710800000000000000
+      internalID: 1726177791671508967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 990
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7cb7c95c121c8a0800000000000000
+      internalID: -6286706472214870039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 955
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46faebd60d3cd5c0800000000000000
+      internalID: -4189406453692697009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 954
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c74265e0bd2ccb80800000000000000
+      internalID: -8373267369402677312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_59
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 966
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc77b07b750b6c70800000000000000
+      internalID: 8965265510941293815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_60
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 897
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ffd054464eecd0800000000000000
+      internalID: -2527005081679693912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 933
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfdbdea34cd0a2c0800000000000000
+      internalID: -4422292650823262252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 931
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b908595d621a3b370800000000000000
+      internalID: 8337184523357094043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 895
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790ee0a398f12b10800000000000000
+      internalID: 1955117026199341435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_64
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 534
+        width: 930
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5fec37a4389ea50800000000000000
+      internalID: 6550911488780858846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_65
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 932
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578d3c0e9d5a3ea0800000000000000
+      internalID: -5892294229069297836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 934
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18ffc6b60f276450800000000000000
+      internalID: 6081881527670536222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_67
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 909
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2342a9cf9333fc220800000000000000
+      internalID: 2508279841612768306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 325
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5ebaf79aa9c23c0800000000000000
+      internalID: -4382958284556212750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_69
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 909
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7fff70cdaadb90800000000000000
+      internalID: -7216264410615021957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_70
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 911
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4953f592a5707d0800000000000000
+      internalID: -2952291896980564779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 787
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df189b2c6e5c6d40800000000000000
+      internalID: 5578937857086070741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_72
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 869
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154284b9029331c0800000000000000
+      internalID: -4525112630196419309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 819
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce2ee97fe1c58570800000000000000
+      internalID: 8468387908627082944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 789
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4e72e519a74d10800000000000000
+      internalID: 2109840861905701881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 784
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1a8ebd10d3f7a0800000000000000
+      internalID: -6344498623865545874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 742
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f26059f0639f0d20800000000000000
+      internalID: 3246975901066355440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 741
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0741fb3a6152e40800000000000000
+      internalID: 5630931801637941498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 706
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdda0dad206736c0800000000000000
+      internalID: -4163753581187768909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 708
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81981a977722cff20800000000000000
+      internalID: 3457676510450780440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 730
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f36792cdb72110800000000000000
+      internalID: 1236165266197706392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 730
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57708a3efe491ea30800000000000000
+      internalID: 4242836081997252469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 702
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f44a64795e0cb70800000000000000
+      internalID: 8917379700081577867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_83
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 672
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a559e6740e37902b0800000000000000
+      internalID: -5617831653059685030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa637c5c65a0514a0800000000000000
+      internalID: -6623376309176813910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_85
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 644
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2858fd32fc3a6f10800000000000000
+      internalID: 2263688773826533418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 612
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71988b4eaea3f8f0800000000000000
+      internalID: -507870269347950210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 586
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c522367075479c0800000000000000
+      internalID: -3930420885548016531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_88
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 572
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c466a1bcf66c640800000000000000
+      internalID: 5099886546155621523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_89
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 562
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c93ee2f1d76be0800000000000000
+      internalID: -1483986710886234251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325af4e0053e626e0800000000000000
+      internalID: -1862551462894131933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_91
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e685f0ac856d9d0b0800000000000000
+      internalID: -5703291776252553106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_92
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 528
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e24ecc474a76b30800000000000000
+      internalID: 4280570792399613452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_93
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 574
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a508e6884d2870800000000000000
+      internalID: 8659657402758832465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_94
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 580
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550e050f9aa70220800000000000000
+      internalID: 2452116122087851349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_95
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 575
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c35a3b298f5f1b90800000000000000
+      internalID: -7268986230812290104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_96
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 567
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5dbdf8f32991e80800000000000000
+      internalID: -8207368044211874378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_97
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 577
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8a7da12a5097ea0800000000000000
+      internalID: -5874658045134919437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 376
+        width: 295
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bada2cc10968de430800000000000000
+      internalID: 3813852412968611243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_99
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 562
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0e65209a9c84d0800000000000000
+      internalID: -3130957697035399248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_100
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 302
+        width: 357
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d0a0d9b4eaeb10800000000000000
+      internalID: 2011671670294631148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 313
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc750569d7ef370800000000000000
+      internalID: 8358256042992717306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 517
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c350cdd4bb8070800000000000000
+      internalID: 8109774418518196293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_103
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224ac6f3e24c0560800000000000000
+      internalID: 7281268244416709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_104
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 543
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34af8ed91d2ab4ac0800000000000000
+      internalID: -3869820433613653437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1327da969e0a4e5d0800000000000000
+      internalID: -3034123324580072911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 486
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae9458a1d6401a0800000000000000
+      internalID: -6844225573023520087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 493
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75841f63934793850800000000000000
+      internalID: 6357240138093906007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 509
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e844d217766700800000000000000
+      internalID: 533244528644647256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_109
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 512
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e3d6a96bb2957b0800000000000000
+      internalID: -5235105028566598116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_110
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 516
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320849291fb4790a0800000000000000
+      internalID: -6874942805239365597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_111
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 379
+        width: 289
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7d8c2d451140390800000000000000
+      internalID: -7853132794215999559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_112
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 497
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4c4a2908d3ee00800000000000000
+      internalID: 1072938670120258404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_113
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 497
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04482cdfb417db0800000000000000
+      internalID: -4795968574910611291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_114
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 497
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d0fb5a872ca1d0800000000000000
+      internalID: -3338249748586901022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_115
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 489
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf81fcc631683ff0800000000000000
+      internalID: -56188107347619921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_116
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 465
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0512da09f3b6d670800000000000000
+      internalID: 8563229623701345551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_117
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 433
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a42c1f234647bd0800000000000000
+      internalID: -2633369712137713038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_118
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 443
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9671ea1dcb1760800000000000000
+      internalID: 7429757525613256599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_119
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 430
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb057c3d2b22f2880800000000000000
+      internalID: -8633643809193373505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_120
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 432
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e210624004930e170800000000000000
+      internalID: 8205621468179333422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_121
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 424
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc586ebb4de400d70800000000000000
+      internalID: 9007285930333472203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 406
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adaf5799c1f68b30800000000000000
+      internalID: 4289381543247326624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_123
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 391
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45895ba26e4e31f10800000000000000
+      internalID: 2239385116943423572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_124
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 367
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79413c7c9b531ab00800000000000000
+      internalID: 838010077704295575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_125
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 375
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06247c63bc3ad80d0800000000000000
+      internalID: -3418896448911621536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_126
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7c717f28b771490800000000000000
+      internalID: -7775610429210376241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_127
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 383
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794483fc1879c020800000000000000
+      internalID: 2362551545272486261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 383
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19ce1adc07d4170800000000000000
+      internalID: 8164305727979819474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_129
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 366
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e0eda04fdc9df90800000000000000
+      internalID: -6928280103694758277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_130
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 343
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49534da95e4100b0800000000000000
+      internalID: -5764239900991596214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_131
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 387
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802322e9e63ef610800000000000000
+      internalID: 1656822091068153997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_132
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 375
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576640b2e38aaf120800000000000000
+      internalID: 2448454332392433269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_133
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a17c539fc4ef250800000000000000
+      internalID: 5980301988427405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_134
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 959
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc61e5bf6c659a10800000000000000
+      internalID: 1915556443564633286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_135
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 345
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d2d9e9d98ea0f0800000000000000
+      internalID: -1103793289635374594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_136
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 373
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e23a52c2e55ae40800000000000000
+      internalID: 5667039249818660491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_137
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f8f50a3fb520ca0800000000000000
+      internalID: -6052173847306727669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_138
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 353
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bc948dfe0f2fa90800000000000000
+      internalID: -7281492734588105912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_139
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 357
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4ea50870ddf610800000000000000
+      internalID: 1656709451852172908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_140
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 323
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9799b5b034f6c0800000000000000
+      internalID: -4110607002821484609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_141
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 352
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3900ab58d16f41ea0800000000000000
+      internalID: -5902822604917833581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_142
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 361
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af60fe4636cd770800000000000000
+      internalID: 8636887470547860036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 351
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeea089d2f6adea70800000000000000
+      internalID: 8857919604069019370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 328
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007729199451131a0800000000000000
+      internalID: -6831655754025240832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 337
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f786abc4c89c3370800000000000000
+      internalID: 8303679783962052593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_146
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a06a7a0056a4d7f0800000000000000
+      internalID: -588662788575305564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_147
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 313
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4cc8ee5fca020c0800000000000000
+      internalID: -4602488646903479055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee4c978d9aa6b90800000000000000
+      internalID: -7247793903078412600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_149
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c1981657ba4a1e0800000000000000
+      internalID: -2187434998359319463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_150
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 326
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e352b5e894101c0800000000000000
+      internalID: -4539266073649398184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_151
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 182
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c6c83301e208fe0800000000000000
+      internalID: -1188899654506615777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_152
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 185
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b5ddc8720da9ee0800000000000000
+      internalID: -1253460677983642870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5d03cdda775e40800000000000000
+      internalID: 5645115750810999608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a804c0ca480924dd0800000000000000
+      internalID: -2503279543368007542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_155
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11b043930a892530800000000000000
+      internalID: 3830744706015342879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_156
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0017ba449108d0840800000000000000
+      internalID: 5191946791442673920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormArcSheet_157
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae46ca3a689eaee0800000000000000
+      internalID: -1247892464715018581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StormArcSheet_0: 2894220355252164743
+      StormArcSheet_1: -2069304127876765470
+      StormArcSheet_10: 5011166294024278945
+      StormArcSheet_100: 2011671670294631148
+      StormArcSheet_101: 8358256042992717306
+      StormArcSheet_102: 8109774418518196293
+      StormArcSheet_103: 7281268244416709152
+      StormArcSheet_104: -3869820433613653437
+      StormArcSheet_105: -3034123324580072911
+      StormArcSheet_106: -6844225573023520087
+      StormArcSheet_107: 6357240138093906007
+      StormArcSheet_108: 533244528644647256
+      StormArcSheet_109: -5235105028566598116
+      StormArcSheet_11: 6838000355124501143
+      StormArcSheet_110: -6874942805239365597
+      StormArcSheet_111: -7853132794215999559
+      StormArcSheet_112: 1072938670120258404
+      StormArcSheet_113: -4795968574910611291
+      StormArcSheet_114: -3338249748586901022
+      StormArcSheet_115: -56188107347619921
+      StormArcSheet_116: 8563229623701345551
+      StormArcSheet_117: -2633369712137713038
+      StormArcSheet_118: 7429757525613256599
+      StormArcSheet_119: -8633643809193373505
+      StormArcSheet_12: 4851721857692794872
+      StormArcSheet_120: 8205621468179333422
+      StormArcSheet_121: 9007285930333472203
+      StormArcSheet_122: 4289381543247326624
+      StormArcSheet_123: 2239385116943423572
+      StormArcSheet_124: 838010077704295575
+      StormArcSheet_125: -3418896448911621536
+      StormArcSheet_126: -7775610429210376241
+      StormArcSheet_127: 2362551545272486261
+      StormArcSheet_128: 8164305727979819474
+      StormArcSheet_129: -6928280103694758277
+      StormArcSheet_13: 2098424864685117928
+      StormArcSheet_130: -5764239900991596214
+      StormArcSheet_131: 1656822091068153997
+      StormArcSheet_132: 2448454332392433269
+      StormArcSheet_133: 5980301988427405904
+      StormArcSheet_134: 1915556443564633286
+      StormArcSheet_135: -1103793289635374594
+      StormArcSheet_136: 5667039249818660491
+      StormArcSheet_137: -6052173847306727669
+      StormArcSheet_138: -7281492734588105912
+      StormArcSheet_139: 1656709451852172908
+      StormArcSheet_14: -2831705142069109889
+      StormArcSheet_140: -4110607002821484609
+      StormArcSheet_141: -5902822604917833581
+      StormArcSheet_142: 8636887470547860036
+      StormArcSheet_143: 8857919604069019370
+      StormArcSheet_144: -6831655754025240832
+      StormArcSheet_145: 8303679783962052593
+      StormArcSheet_146: -588662788575305564
+      StormArcSheet_147: -4602488646903479055
+      StormArcSheet_148: -7247793903078412600
+      StormArcSheet_149: -2187434998359319463
+      StormArcSheet_15: -203712913071134196
+      StormArcSheet_150: -4539266073649398184
+      StormArcSheet_151: -1188899654506615777
+      StormArcSheet_152: -1253460677983642870
+      StormArcSheet_153: 5645115750810999608
+      StormArcSheet_154: -2503279543368007542
+      StormArcSheet_155: 3830744706015342879
+      StormArcSheet_156: 5191946791442673920
+      StormArcSheet_157: -1247892464715018581
+      StormArcSheet_16: 5801805448177510959
+      StormArcSheet_17: -9774175197996701
+      StormArcSheet_18: 3615347684311739379
+      StormArcSheet_19: 6293200421094675025
+      StormArcSheet_2: 8284766563996148882
+      StormArcSheet_20: 5554692243466118998
+      StormArcSheet_21: -183816763072390163
+      StormArcSheet_22: 3194696134647776009
+      StormArcSheet_23: -9210896489504441665
+      StormArcSheet_24: 8547414169119577129
+      StormArcSheet_25: 5578640109363755956
+      StormArcSheet_26: -9216351371056891490
+      StormArcSheet_27: 7054496229116581806
+      StormArcSheet_28: 9164761754120829156
+      StormArcSheet_29: 3985568777134335061
+      StormArcSheet_3: -1249688549532873336
+      StormArcSheet_30: -1198260637608813129
+      StormArcSheet_31: -6801656178331321413
+      StormArcSheet_32: -4460892824408239276
+      StormArcSheet_33: 6935572728048533435
+      StormArcSheet_34: 1121851993228778207
+      StormArcSheet_35: -5117474434755940875
+      StormArcSheet_36: -7438079941838251789
+      StormArcSheet_37: 7123250631264178143
+      StormArcSheet_38: -5248385612644715654
+      StormArcSheet_39: 2941230963587602419
+      StormArcSheet_4: -992883182705822548
+      StormArcSheet_40: -7865891402419290433
+      StormArcSheet_41: -6187794222264962101
+      StormArcSheet_42: 7855169459180171312
+      StormArcSheet_43: -5511642902303317513
+      StormArcSheet_44: -3914018802452752536
+      StormArcSheet_45: -4741303011382834602
+      StormArcSheet_46: 7375568901019940603
+      StormArcSheet_47: 167900665829565728
+      StormArcSheet_48: 2740252026154813707
+      StormArcSheet_49: 8003912183582428089
+      StormArcSheet_5: 812971764298518554
+      StormArcSheet_50: 4469764771374785516
+      StormArcSheet_51: 4131762176723757197
+      StormArcSheet_52: 2901501176641441571
+      StormArcSheet_53: -3587215549089403665
+      StormArcSheet_54: 5646212759804056107
+      StormArcSheet_55: 1726177791671508967
+      StormArcSheet_56: -6286706472214870039
+      StormArcSheet_57: -4189406453692697009
+      StormArcSheet_58: -8373267369402677312
+      StormArcSheet_59: 8965265510941293815
+      StormArcSheet_6: -6326376231487011341
+      StormArcSheet_60: -2527005081679693912
+      StormArcSheet_61: -4422292650823262252
+      StormArcSheet_62: 8337184523357094043
+      StormArcSheet_63: 1955117026199341435
+      StormArcSheet_64: 6550911488780858846
+      StormArcSheet_65: -5892294229069297836
+      StormArcSheet_66: 6081881527670536222
+      StormArcSheet_67: 2508279841612768306
+      StormArcSheet_68: -4382958284556212750
+      StormArcSheet_69: -7216264410615021957
+      StormArcSheet_7: -5811244385004604501
+      StormArcSheet_70: -2952291896980564779
+      StormArcSheet_71: 5578937857086070741
+      StormArcSheet_72: -4525112630196419309
+      StormArcSheet_73: 8468387908627082944
+      StormArcSheet_74: 2109840861905701881
+      StormArcSheet_75: -6344498623865545874
+      StormArcSheet_76: 3246975901066355440
+      StormArcSheet_77: 5630931801637941498
+      StormArcSheet_78: -4163753581187768909
+      StormArcSheet_79: 3457676510450780440
+      StormArcSheet_8: -204828020678461994
+      StormArcSheet_80: 1236165266197706392
+      StormArcSheet_81: 4242836081997252469
+      StormArcSheet_82: 8917379700081577867
+      StormArcSheet_83: -5617831653059685030
+      StormArcSheet_84: -6623376309176813910
+      StormArcSheet_85: 2263688773826533418
+      StormArcSheet_86: -507870269347950210
+      StormArcSheet_87: -3930420885548016531
+      StormArcSheet_88: 5099886546155621523
+      StormArcSheet_89: -1483986710886234251
+      StormArcSheet_9: -5868268146179940153
+      StormArcSheet_90: -1862551462894131933
+      StormArcSheet_91: -5703291776252553106
+      StormArcSheet_92: 4280570792399613452
+      StormArcSheet_93: 8659657402758832465
+      StormArcSheet_94: 2452116122087851349
+      StormArcSheet_95: -7268986230812290104
+      StormArcSheet_96: -8207368044211874378
+      StormArcSheet_97: -5874658045134919437
+      StormArcSheet_98: 3813852412968611243
+      StormArcSheet_99: -3130957697035399248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

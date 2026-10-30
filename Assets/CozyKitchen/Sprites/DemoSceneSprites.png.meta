@@ -1,0 +1,3541 @@
+fileFormatVersion: 2
+guid: 59cc24f4b9c1f744ba328743df8bcff8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table_Horizontal
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 368
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09b305bdfe77546b10419a745b3435
+      internalID: 1262355680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table_Vertical
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 368
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fec16a797e0114c87de77b69289882
+      internalID: 576417346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortTable_Vertical
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6d098cdf9a07438ff680071a63845
+      internalID: -159035913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedRug
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 395
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3e5c9a6868624faab1359046f7842
+      internalID: 180634534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundRugPurple
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 340
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.50777906, y: 0.49206603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650012f6d83beb149baeb33679472907
+      internalID: -982774879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash_OpenRight
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 369
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cde3667232fa44da1d1c960b219712
+      internalID: 1216402712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundTable
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 313
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812da0fe847eac341bcf064d416fb9b3
+      internalID: 1624752281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearCounter_Lon
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 311
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65679331513167b4db56e668c6c75c75
+      internalID: -1273276378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash_Long
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 359
+        width: 105
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5a494862122d4681705d5ec28537c
+      internalID: -1912177146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stool
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 333
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a08c28857a14469c48f19d1752a42
+      internalID: 2087520845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash_Short
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 348
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eadfd35e326024caebe146f99b083c
+      internalID: 1842635576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash_OpenBoth
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 348
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71ff26499188b45aea495102f75349
+      internalID: 1092700819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash_OpenLeft
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 348
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4967cf1f7b4654e48a9be3f83e2750a9
+      internalID: -720441904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backsplash
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 348
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442b9feee7030b4d89eb08841147fa0
+      internalID: 1222670422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearCounter
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200752b1d5bef384e8c25a904bfc85d1
+      internalID: -1887246683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoolGold
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 310
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc12d972edb9e47bbd96c16ba450a2
+      internalID: -1785668062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundRugBrown
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 287
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f611efdc786b9459ed85208ed0c001
+      internalID: -886623709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fireplace
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8d1dcefcd7294c9e16458e760d534
+      internalID: -698394815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallLeftCorner
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c02b196771da94591256b7b7d81585
+      internalID: -1540321910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfWallLeftCorner
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 290
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1a54c4bb921546887dedd7dd89707
+      internalID: 1848467292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfWallRightCorner
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 290
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e25238a302bba49bfe2c43369935e8
+      internalID: -903175126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 292
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbc7eb45cbd454b8258dee4dc513ca
+      internalID: 75414970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 292
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139eb72f21b1f9d46b4f0e6607f0f352
+      internalID: -1766101279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 292
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff17e81d872ba429db00e7b4ce4464
+      internalID: -2017260072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potwhole
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 292
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7c22ec0fb4b34fa9c5a068977dcee
+      internalID: 1981492306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pot
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 292
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64bdf299bc9f924ba73f15c4aa2775f
+      internalID: 2133481984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PotLid
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 299
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018629055df2b14bb117ba513ccc4d0
+      internalID: -1369659153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spoon
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 291
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c278a4f784194fa9201f468bb3801
+      internalID: 2007872520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fork
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 291
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07883c18b70e1f145966427a15cdda7b
+      internalID: 642164931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 291
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e156de72d8289e4b850cdba96b19750
+      internalID: -1891380027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarlicBraid
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 291
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6bf9a2da8bf68449cf29a81563e3d5
+      internalID: 244448013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollingPin
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 290
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b1de2011252745b0a6514adf3973a
+      internalID: 599780413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teapot1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec9707b60a98b40a04232aa3c023de
+      internalID: -463078245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teapot2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27a5f1c5f89924f8bd6202a93523c7
+      internalID: -603641167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teapot3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442cb3d10f2c6f43816fa88cefc9455
+      internalID: 1448749824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teapot4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5941ab0655d86ed4eaec17b279acf30f
+      internalID: -1908630139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teapot5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 270
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426f88899354ef4c8744262ec9d35f2
+      internalID: -677811531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smoke
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb5cb396354b042a74c41ef3a8ac84
+      internalID: 28828433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeTrans
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb566c4156e788b44a5b88d1a89b5ecf
+      internalID: -1892278984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacup1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 271
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.19818254, y: 0.02500534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60b9cc0d83a724c98c42608d8acf73
+      internalID: -688240512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacup2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 271
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.19636536, y: 0.02500534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83807388706ead641b318bedebbde0ec
+      internalID: -2061391292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacup3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 271
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.19636536, y: 0.027507782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed16e2d1d1ca9af46b8bf06094f537ad
+      internalID: -1879554212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teacup4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.19454679, y: 0.020002093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb093752630f1b844afd74fcb7819c3f
+      internalID: 240063706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelfWithDecorations
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 271
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5eb1443caaacc46bc9d94036bd507a
+      internalID: 1732106072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneFloor
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb8d91b12e487c4b8109da6d2b63342
+      internalID: 199755840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NoTop
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382b9b3323e902488cafb87f34dc5b2
+      internalID: -1137997883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallRightCorner
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89267146990b5ce48abccb8611a0a204
+      internalID: -1602364592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfwallOpen
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 256
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31174493f687f234998c67d43daec90e
+      internalID: 1745768062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_48
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6d95d3bce8d34a87d841faea80d35
+      internalID: -1740169144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ceb810d4b4c2e45a87b25bcfb43f26
+      internalID: -1766930270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042bcd418387674a8c16ac3a037229a
+      internalID: -2033586924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_51
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba28813e58bfe4d85d37a30660d9a6
+      internalID: 1619789084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 251
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3368c07b613e4c981b98183da27a3
+      internalID: 1736282569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 251
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc474a71ff301ae42810df748419ecfb
+      internalID: -1814792002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 251
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529929f990c64c4ab7788d614dd7810
+      internalID: 1682095321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b05bb01e6cac489da475feafc0c32
+      internalID: 1121085331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 254
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.30572727, y: 0.03689728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109de021759dc745b2b5c246f095ff9
+      internalID: 2034963918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 254
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.30572727, y: 0.038530137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5016c40f808c944fbe32deb36a62613
+      internalID: -1546997509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallWindow
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b46065254425c44bc8c4966cc0427c
+      internalID: 1584705661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FryingPan
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 223
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a258f5527eb24380b7e73fbee644b
+      internalID: 281609780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuttingBoard
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 223
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28893ee460604004ea28bf37a20989d9
+      internalID: -810202000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakingPanVertical
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcceba0129c292044bcc819e849bc74b
+      internalID: 348883425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakingPanHorizontal
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff673f85cc29be4bb253d87ab387336
+      internalID: -794357810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bowl
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 228
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceece55727d56d4380f7ffe967e320f
+      internalID: -1459289267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarofHerbs
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e7a0527d9de55458304db41a91dc3b
+      internalID: -916069155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JarLid
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 237
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca57228805d044492c495099dd9ab6
+      internalID: -1336258291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownBowl
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 228
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a0be3bd64ccd4390395e753e10d6d
+      internalID: 351636435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownBowlwSpoon
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 228
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa069c651fcce4c8ee81e7cdb8ddd5
+      internalID: -1783626269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plate
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e08816c7d930e479e7878063dc5a0d
+      internalID: 1872687639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plate_Stack
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 228
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2952fad368004089cf7130692e5b2
+      internalID: 1659023035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuttingBoardwKnife
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 228
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35e765be7e3614fa4dca53f970c287
+      internalID: -1055149447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rearcounter_Extendable
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 227
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03ac6c6d8890e4eacb28d22e56076e
+      internalID: 446638895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 222
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61d915005c2004d91c9b6bff4929ef
+      internalID: -1274234432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuttingBoardHorizontal
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22aa5d3609c7b41a4d7e1fe1ce170a
+      internalID: -209599217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KitchenTile
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 189
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90d2cfba6ccee4ebfcf03c5b890364
+      internalID: 1399514965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 210
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53ecab62b221b4380834c6871b212e
+      internalID: 1075654667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearCounter_Long
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 186
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d935ef274b434458bbd1c72f198956
+      internalID: 1999780995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doorway
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 188
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a4ebbe7fd4f447a4a0f66c13f2dc6
+      internalID: -1209509947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoPlayer
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197107d3f3d1a6640845d5a3d190a0b7
+      internalID: 1153041071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stove
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e860e09ab1ea949b8bd8e2db0e3861
+      internalID: -2088620079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvenDoor1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 206
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4061c21e0ac004aac0f705902ce13d
+      internalID: -5084630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OvenDoor2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 206
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524ffe5422ccd244bf895700a2a42d1
+      internalID: -1227345436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KitchenCounter
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0c978908e9c04b95804993331371f
+      internalID: -666595875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearKitchenCounter
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09403dabca4c16a418f5bafaa5977e1d
+      internalID: -713608141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlourSack
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 207
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad62498ceb0ad8e418e37c97e5858ceb
+      internalID: 1330969287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9c73e29163ea41b1f3ad51f64e2d2
+      internalID: 1490179893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneFloorShort
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 186
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797589168c000f443b10c6c9735b273b
+      internalID: -2084654573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KitchenTileShort
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 186
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692c2a4e6be434d45be1065f5eaf9341
+      internalID: 1718248444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12843bb89d27ee41bad01dae644db80
+      internalID: -17601470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb59129f3215ac4cba0be092b69644d
+      internalID: 100146757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e493327b233aa44692d7d8fd015e200
+      internalID: 1247953469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d613939583b3540a4c21325e5fcbf0
+      internalID: 1247956987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3307e77268c144a1eaef06a7d5077
+      internalID: -79398702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 189
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294afb4dcc5eaf4283a36dcbaa3ae2a
+      internalID: -1554228693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shelf_Empty
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 136
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7320556f698743b4da7950a669104b0f
+      internalID: -1562592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelfOvergrown_Empty
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 136
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708658c7dbaf0fe42aac4d5c25474b34
+      internalID: 2119803214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelfOvergrown_Full
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 136
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a332e4e0b18f644fb8184a7da8eebf6
+      internalID: 541761204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaltShaker
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5127bc15b1d74448ce501ee1e23f39
+      internalID: 1943527450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PepperShaker
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df1f9ded084f7458dbc462f9e05829
+      internalID: -120953844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.2377811, y: 0.015003204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3dc1efb8427f04c919b648c5519008
+      internalID: -377699007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 172
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.23778279, y: 0.018185703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d19434e8185be43b526ea4de02ab95
+      internalID: -1199017097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheckeredTowel
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619174b8a7aca5b41bba0f0466335458
+      internalID: -690605689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 161
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79724a1c0337b714bba66290aa86d747
+      internalID: -1115878210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_103
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 158
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b2d764f89d0e4a9a6c2be52aaf586
+      internalID: 1680338951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 158
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a0e3ef6088a649ab9c75cc9c1d0e7
+      internalID: 1495557575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorwayEmpty
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984bdcf222ed8c54992d21eb48d2cee2
+      internalID: 500380494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doors
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 137
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867823e7a462134ca41f77c2dabe73c
+      internalID: -230098126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.72591066, y: 0.18537992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1717e084239d74f863239203a749ed
+      internalID: -1680353706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 149
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7271936, y: 0.18545802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef6d5671da89f47bf19606fbe850b1
+      internalID: -1430346509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 149
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.7263293, y: 0.17638057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1f4cb4acb34a4db7719be7e51070d
+      internalID: 1172938498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouse
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6cc8578e46af24ca6d47524afb71b3
+      internalID: -1992847920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseHole
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71eebe8dc12b534e88432fdb18cda68
+      internalID: 1819823932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupboardDoors
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60bff5210a48cc4b92f6c674b91c004
+      internalID: -522976995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_113
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37b31e6519dd04e92dd0689381140b
+      internalID: -1403623001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa8ca1da1f1064fafd41f1265c659e
+      internalID: -101985599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 120
+        width: 7
+        height: 17
+      alignment: 9
+      pivot: {x: 0.80093384, y: 0.98135644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe6fc2e77c125408deb5d8bf1ead69
+      internalID: -823823120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 7
+        height: 17
+      alignment: 9
+      pivot: {x: 0.65625435, y: 0.9789734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb81ef612252e499ac07f66347e29c
+      internalID: 1476433682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af43fae4e1b6e44dbbd1f52ed1eb32a
+      internalID: 991948652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_118
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 124
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac8a680c41e8f4ea0164b30bafeac4
+      internalID: 1135244923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemoSceneSprites_119
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 122
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a46b3fbcf63984b9784380c5d83704
+      internalID: 1894341355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DryingHerbs
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c959351d4866c4094edca3880908a7
+      internalID: 1383591790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaceMat
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 126
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbdcec36044e3b4898bc0707ef30f3c
+      internalID: 831081256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredRoundTablecloth
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 125
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb70507432b170a4aaa48a6deccbbb92
+      internalID: 165895424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ccb92fb440525439124ba8f461a10a
+      internalID: -41895455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 132
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a6cb44335d1943b0baef1a6f44c51
+      internalID: -1108036848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupboardComplete
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 110
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc45dfc95a61244aaebbe395c81c6a5
+      internalID: 922759228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CupboardExtendable
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6d8567afb5fa4788ac5ece567b19b
+      internalID: 1552965047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cupboard
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde44c89020c4fc42981b610154aa7b1
+      internalID: -1940807940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Log
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 107
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cdf75b9b873147b51fc67ed0c585a
+      internalID: 346283915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingPortrait
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746fd169f9273404b99828c242b56579
+      internalID: 1924611271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a523436cea628384d8ad446ede197a5d
+      internalID: 502796256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a14988841490da4982396eba3e7a061
+      internalID: 655594895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3b8c2f16e94c04aa29c57f61afb4bd
+      internalID: -935974451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4559f0c25c3043ac458560659ef7c
+      internalID: 418155090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cac0e7438b2c6408b1d51c4a8f0bbb
+      internalID: -1374713649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f914987838ab9447a3a1be1a0590220
+      internalID: 1922506321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c835534bbbe664fb6f7b9830ec4a29
+      internalID: -1448082474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GarbageHeap
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 104
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3d449f73413a24ea87b990f64e7527
+      internalID: -1820749944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheese
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c857c0cc430047bc9c541040c8720
+      internalID: 1143190263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sock
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634581d365e137c47a14355afcd0910f
+      internalID: 1012934892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingTowel1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 79
+        width: 12
+        height: 19
+      alignment: 9
+      pivot: {x: 0.09399923, y: 0.94034654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f51e6400e174c4a884b6b950e47376
+      internalID: 1606862964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HangingTowel2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.09679031, y: 0.93601525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7988b31441c72c4081ed12f66d6e428
+      internalID: -1110181821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cutoff
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290
+        width: 3
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60a7532652ecb4494a7da1c6056f52
+      internalID: 655707311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cutoff_Single
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 318
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51655fd550155dd49b3a0ee5a5f05582
+      internalID: 1803764419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelfSupport
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 212
+        width: 1
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ee5e1bef56058409c2686de91f6edb
+      internalID: -2035377658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ec59e75657174fa16c16516c105ca
+      internalID: 1164663601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a0d4e52265fb4fa0f425cb8bcc8c0
+      internalID: -90417597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubbles3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823eed1dce64a0478d02ac3fbe120c1
+      internalID: -684729120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Apple1: -377699007
+      Apple2: -1199017097
+      Backsplash: 1222670422
+      Backsplash_Long: -1912177146
+      Backsplash_OpenBoth: 1092700819
+      Backsplash_OpenLeft: -720441904
+      Backsplash_OpenRight: 1216402712
+      Backsplash_Short: 1842635576
+      BakingPanHorizontal: -794357810
+      BakingPanVertical: 348883425
+      Bottle1: 502796256
+      Bottle2: 655594895
+      Bottle3: -935974451
+      Bottle4: 418155090
+      Bottle5: -1374713649
+      Bottle6: 1922506321
+      Bottle7: -1448082474
+      Bowl: -1459289267
+      BrownBowl: 351636435
+      BrownBowlwSpoon: -1783626269
+      Bubbles1: -90417597
+      Bubbles2: 1164663601
+      Bubbles3: -684729120
+      Candle1: -41895455
+      Candle2: -1108036848
+      Candles1: 75414970
+      Candles2: -1766101279
+      Candles3: -2017260072
+      Cat1: -1680353706
+      Cat2: -1430346509
+      Cat3: 1172938498
+      CheckeredTowel: -690605689
+      Cheese: 1143190263
+      Cupboard: -1940807940
+      CupboardComplete: 922759228
+      CupboardDoors: -522976995
+      CupboardExtendable: 1552965047
+      Cutoff: 655707311
+      Cutoff_Single: 1803764419
+      CuttingBoard: -810202000
+      CuttingBoardHorizontal: -209599217
+      CuttingBoardwKnife: -1055149447
+      DemoPlayer: 1153041071
+      DemoSceneSprites_102: -1115878210
+      DemoSceneSprites_103: 1680338951
+      DemoSceneSprites_104: 1495557575
+      DemoSceneSprites_113: -1403623001
+      DemoSceneSprites_114: -101985599
+      DemoSceneSprites_115: -823823120
+      DemoSceneSprites_116: 1476433682
+      DemoSceneSprites_117: 991948652
+      DemoSceneSprites_118: 1135244923
+      DemoSceneSprites_119: 1894341355
+      DemoSceneSprites_48: -1740169144
+      DemoSceneSprites_49: -1766930270
+      DemoSceneSprites_50: -2033586924
+      DemoSceneSprites_51: 1619789084
+      DemoSceneSprites_52: 1736282569
+      DemoSceneSprites_53: -1814792002
+      DemoSceneSprites_54: 1682095321
+      DemoSceneSprites_55: 1121085331
+      DemoSceneSprites_56: 2034963918
+      DemoSceneSprites_57: -1546997509
+      Doors: -230098126
+      Doorway: -1209509947
+      DoorwayEmpty: 500380494
+      DryingHerbs: 1383591790
+      Fire1: -17601470
+      Fire2: 100146757
+      Fireplace: -698394815
+      FlourSack: 1330969287
+      Fork: 642164931
+      FryingPan: 281609780
+      GarbageHeap: -1820749944
+      GarlicBraid: 244448013
+      HalfWallLeftCorner: 1848467292
+      HalfWallRightCorner: -903175126
+      HalfwallOpen: 1745768062
+      HangingPortrait: 1924611271
+      HangingTowel1: 1606862964
+      HangingTowel2: -1110181821
+      JarLid: -1336258291
+      JarofHerbs: -916069155
+      KitchenCounter: -666595875
+      KitchenTile: 1399514965
+      KitchenTileShort: 1718248444
+      Knife: -1891380027
+      LaceMat: 831081256
+      Log: 346283915
+      Mouse: -1992847920
+      MouseHole: 1819823932
+      OvenDoor1: -5084630
+      OvenDoor2: -1227345436
+      PepperShaker: -120953844
+      Plate: 1872687639
+      Plate_Stack: 1659023035
+      Pot: 2133481984
+      PotLid: -1369659153
+      Potwhole: 1981492306
+      RearCounter: -1887246683
+      RearCounter_Lon: -1273276378
+      RearCounter_Long: 1999780995
+      RearKitchenCounter: -713608141
+      Rearcounter_Extendable: 446638895
+      RedRug: 180634534
+      RollingPin: 599780413
+      RoundRugBrown: -886623709
+      RoundRugPurple: -982774879
+      RoundTable: 1624752281
+      SaltShaker: 1943527450
+      Shelf: 1075654667
+      ShelfOvergrown_Empty: 2119803214
+      ShelfOvergrown_Full: 541761204
+      ShelfSupport: -2035377658
+      ShelfWithDecorations: 1732106072
+      Shelf_Empty: -1562592110
+      ShortTable_Vertical: -159035913
+      Sink: 1247953469
+      Sink2: 1247956987
+      Sink3: -79398702
+      Sink4: -1554228693
+      Sink5: 1490179893
+      Smoke: 28828433
+      SmokeTrans: -1892278984
+      Sock: 1012934892
+      Spoon: 2007872520
+      StoneFloor: 199755840
+      StoneFloorShort: -2084654573
+      Stool: 2087520845
+      StoolGold: -1785668062
+      Stove: -2088620079
+      Table_Horizontal: 1262355680
+      Table_Vertical: 576417346
+      TatteredRoundTablecloth: 165895424
+      Teacup1: -688240512
+      Teacup2: -2061391292
+      Teacup3: -1879554212
+      Teacup4: 240063706
+      Teapot1: -463078245
+      Teapot2: -603641167
+      Teapot3: 1448749824
+      Teapot4: -1908630139
+      Teapot5: -677811531
+      Wall: -1274234432
+      WallLeftCorner: -1540321910
+      WallRightCorner: -1602364592
+      WallWindow: 1584705661
+      Wall_NoTop: -1137997883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 353510
+  packageName: Timbeaux's Cozy Kitchen Asset Pack
+  packageVersion: 1.5.0
+  assetPath: Assets/CozyKitchen/Sprites/DemoSceneSprites.png
+  uploadId: 905652
